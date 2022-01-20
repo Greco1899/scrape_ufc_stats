@@ -181,21 +181,10 @@ def parse_fight_results(soup):
         fight_results.append(tag.text.strip())
 
     # parse details
-    # create empty list to store details
-    details = []
-    # parse details
-    for tag in remaining_results[1]:
-        # strip and clean element in list, removing '\n' and '  ' 
-        details.append(tag.text.strip().replace('\n', '').replace('  ', ''))
-    # remove empty elements in list
-    details = list(filter(None, details))
-    # join elements in list into a string
-    details = ' '.join(details)
-    # append details to fight results
-    fight_results.append(details)
+    fight_results.append(remaining_results[1].get_text())
 
     # clean each element in the list, removing '\n' and '  ' 
-    fight_results = [text.strip().replace('\n', '').replace('  ', '') for text in fight_results]
+    fight_results = [text.replace('\n', '').replace('  ', '') for text in fight_results]
 
     # return
     return fight_results
