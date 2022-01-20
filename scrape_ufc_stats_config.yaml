@@ -1,0 +1,80 @@
+# urls to parse
+completed_events_all_url: http://ufcstats.com/statistics/events/completed?page=all
+
+# file names for parsed data
+event_details_file_name: ufc_event_details.csv
+fight_details_file_name: ufc_fight_details.csv
+fight_results_file_name: ufc_fight_results.csv
+fight_stats_file_name: ufc_fight_stats.csv
+
+# columns names for extracted details
+fight_details_column_names:
+  - EVENT
+  - BOUT
+  - URL
+
+# column names for extracted fight results
+fight_results_column_names:
+  - EVENT
+  - BOUT
+  - OUTCOME
+  - WEIGHTCLASS
+  - METHOD
+  - ROUND
+  - TIME
+  - TIME FORMAT
+  - REFEREE
+  - DETAILS
+  - URL
+
+# column names for extracted fight totals
+totals_column_names:
+  - ROUND
+  - FIGHTER
+  - KD
+  - SIG.STR.
+  - SIG.STR. %
+  - TOTAL STR.
+  - TD
+  - TD %
+  - SUB.ATT
+  - REV.
+  - CTRL
+ 
+# column names for extracted significant strikes
+significant_strikes_column_names:
+  - ROUND
+  - FIGHTER
+  - SIG.STR.
+  - SIG.STR. %
+  - HEAD
+  - BODY
+  - LEG
+  - DISTANCE
+  - CLINCH
+  - GROUND
+
+# column names for fight stats
+fight_stats_column_names:
+  - EVENT
+  - BOUT
+  - ROUND
+  - FIGHTER
+  - KD
+  - SIG.STR.
+  - SIG.STR. %
+  - TOTAL STR.
+  - TD
+  - TD %
+  - SUB.ATT
+  - REV.
+  - CTRL
+  - HEAD
+  - BODY
+  - LEG
+  - DISTANCE
+  - CLINCH
+  - GROUND
+
+
+

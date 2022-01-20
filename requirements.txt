@@ -1,0 +1,7 @@
+beautifulsoup4==4.10.0
+ipywidgets==7.6.5
+numpy==1.22.0
+pandas==1.0.5
+PyYAML==6.0
+requests==2.27.1
+tqdm==4.56.0
