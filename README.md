@@ -15,7 +15,7 @@ Install requirements with `pip install -r requirements.txt`
 
 ## Introduction
 
-Data before 01 January 2022 (last event UFC Fight Night: Lewis vs. Daukaus) has scraped and saved as the following data files:
+Data for all fights have scraped and saved as the following data files:
 ```
 ufc_events.csv
 ufc_fight_details.csv
@@ -23,16 +23,36 @@ ufc_fight_results.csv
 ufc_fight_stats.csv
 ```
 
-You can run the notebook `srape_ufc_stats_unparsed_data.ipynb` or the script `scrape_ufc_stats_unparsed_data.py` to start scraping the latest data and refresh the data files above.
+To download the CSV files without running any code, click `Code` > `Download ZIP` or clone the repo.
 
-You can also scrape the all data again using the notebook `scrape_ufc_stats_all_historical_data.ipynb`. 
+You can also scrape the all the data again using the notebook `scrape_ufc_stats_all_historical_data.ipynb`. 
 Do note this might take a few hours to complete.
+
+Once you have the up-to-date historical data, you can run the notebook `scrape_ufc_stats_unparsed_data.ipynb` or the script `scrape_ufc_stats_unparsed_data.py` to scrape the only latest fights and refresh the data.
 
 The notebook `scrape_ufc_stats_working_example.ipynb` can be used for testing or debugging.
 
-The data is raw data directly from the UFC stats website and has not been cleaned for analysis, that is the next step to be worked on.
+Do feel free to reach out with any comments, suggestions, or issues. 😃
+<br>
+<br>
+<br>
 
-Do feel free to reach out with any comments, suggestions, or issues.
+## Data Refresh
+
+The script `scrape_ufc_stats_unparsed_data.py` has been added to [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=00a8b72b) and will run daily to check and scrape new fights and push the refreshed data files to this repository. 
+
+This keeps the data files up to date with the latest fight stats and you can download and use the CSV files without running any code.
+<br>
+<br>
+<br>
+
+## Next Steps
+
+Clean Data - Clean data to be used for further analysis
+
+Data Exploration - Plot and visualise stats
+
+Prediction - Build a machine learning model to predict the outcome of fights
 <br>
 <br>
 <br>
