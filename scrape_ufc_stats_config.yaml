@@ -76,5 +76,14 @@ fight_stats_column_names:
   - CLINCH
   - GROUND
 
+# column names for fighter tale of the tape
+fighter_tott_column_names:
+  - FIGHTER
+  - HEIGHT
+  - WEIGHT
+  - REACH
+  - STANCE
+  - DOB
+  - URL
 
 

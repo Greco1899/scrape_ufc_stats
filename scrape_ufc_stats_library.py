@@ -456,6 +456,68 @@ def parse_organise_fight_results_and_stats(soup, url, fight_results_column_names
 
 
 
+# parse fighter tale of the tape
+def parse_fighter_tott(soup):
+    '''
+    parse fighter tale of the tape from soup
+    fighter details contain fighter, height, weight, reach, stance, dob
+    clean each element in the list, removing '\n' and ' ' 
+    e.g cleans '\n      Jose Aldo\n' into 'Jose Aldo'
+    returns a list of fighter's details
+
+    arguments:
+    soup (html): output of get_soup() parser
+
+    returns:
+    a list of fighter tale of the tape
+    '''
+    # create empty list to store fighter tale of the tape
+    fighter_tott = []
+
+    # parse fighter name
+    fighter_name = soup.find('span', class_='b-content__title-highlight').text
+    # append fighter's name to fighter_details
+    fighter_tott.append('Fighter:'+fighter_name)
+
+    # parse fighter's details
+    for tag in soup.find_all('ul', class_='b-list__box-list')[0]:
+        fighter_tott.append(tag.text)
+    # clean each element in the list, removing '\n' and '  ', and empty elements
+    fighter_tott = list(filter(None, [text.replace('\n', '').replace('  ', '') for text in fighter_tott]))
+
+    # return
+    return fighter_tott
+
+
+
+# organise fighter tale of the tape
+def organise_fighter_tott(tott_from_soup, fighter_tott_column_names, url):
+    '''
+    organise list of fighter tale of the tape
+    remove label of tale of the tape using regex
+    e.g. 'Height:5'7"' to '5'7"
+    convert list into df
+
+    arguments:
+    tott_from_soup (list): list of fighter tale of the tale from parse_fighter_tott()
+    fighter_tott_column_names (list): list of column names for fighter tale of the tape
+    url (str): url of fighter
+
+    results:
+    a df of fighter tale of the tape
+    '''
+    # remove label of results using regex
+    fighter_details_clean = [re.sub('^(.+?): ?', '', text) for text in tott_from_soup]
+    # create empty df to store fighter's details
+    fighter_details_df = pd.DataFrame(columns=fighter_tott_column_names)
+    # append fighter's details to fighter_details_df
+    fighter_details_df.loc[(len(fighter_details_df))] = fighter_details_clean
+
+    # return
+    return fighter_details_df
+
+
+
 # reorder columns
 def move_columns(df, cols_to_move=[], ref_col='', place=''):
     '''
