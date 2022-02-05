@@ -1,6 +1,7 @@
 '''
 Overview
-run the notebook 'scape_ufc_stats_all_historical_data.ipynb' first to parse all available past data
+run the notebook 'scape_ufc_stats_all_historical_data.ipynb' first to parse all available past fight data
+and the notebook ' scrape_ufc_stats_fighter_tott.ipynb' to parse all available fighter data
 
 this code checks existing files for previously parsed data
 if there are no new or unparsed events, script stops
@@ -133,3 +134,77 @@ if unparsed_events == True:
     parsed_fight_results_df.to_csv(config['fight_results_file_name'], index=False)
     # write to file
     parsed_fight_stats_df.to_csv(config['fight_stats_file_name'], index=False)
+
+
+
+### check if there are any unparsed fighters ###
+
+# read existing fighter details
+parsed_fighter_details_df = pd.read_csv(config['fighter_details_file_name'])
+# get list of parsed fighter urls
+list_of_parsed_urls = list(parsed_fighter_details_df['URL'])
+
+# generate list of urls for fighter details
+list_of_alphabetical_urls = LIB.generate_alphabetical_urls()
+
+# create empty dataframe to store all fighter details
+all_fighter_details_df = pd.DataFrame()
+
+# loop through list of alphabetical urls
+for url in tqdm(list_of_alphabetical_urls):
+    # get soup
+    soup = LIB.get_soup(url)
+    # parse fighter details
+    fighter_details_df = LIB.parse_fighter_details(soup, config['fighter_details_column_names'])
+    # concat fighter_details_df to all_fighter_details_df
+    all_fighter_details_df = pd.concat([all_fighter_details_df, fighter_details_df])
+
+# get all fighter urls
+unparsed_fighter_urls = list(all_fighter_details_df['URL'])
+
+# get list of unparsed fighter urls
+list_of_unparsed_fighter_urls = [url for url in unparsed_fighter_urls if url not in list_of_parsed_urls]
+
+# check if there are any unparsed fighters
+unparsed_fighters = False
+# if list_of_unparsed_fighter_urls is empty then all available fighters have been parsed
+if not list_of_unparsed_fighter_urls:
+    print('All available fighters have been parsed.')
+else:
+    # set unparsed_fighters to true
+    unparsed_fighters = True
+    # show list of unparsed events
+    print(list_of_unparsed_fighter_urls)
+    # write event details to file
+    all_fighter_details_df.to_csv(config['fighter_details_file_name'], index=False)
+
+
+
+### parse all missing fighters ###
+# if unparsed_fighters = True
+# the code below continues to run to parse all missing fighters
+# new data is added to existing data and is written to file
+
+if unparsed_fighters == True:
+
+    # read existing data files
+    parsed_fighter_tott_df = pd.read_csv(config['fighter_tott_file_name'])
+
+    # create empty df to store fighters' tale of the tape
+    unparsed_fighter_tott_df = pd.DataFrame(columns=config['fighter_tott_column_names'])
+
+    # loop through list_of_fighter_urls
+    for url in tqdm(list_of_unparsed_fighter_urls):
+        # get soup
+        soup = LIB.get_soup(url)
+        # parse fighter tale of the tape
+        fighter_tott = LIB.parse_fighter_tott(soup)
+        # organise fighter tale of the tape
+        fighter_tott_df = LIB.organise_fighter_tott(fighter_tott, config['fighter_tott_column_names'], url)
+        # concat fighter
+        unparsed_fighter_tott_df = pd.concat([unparsed_fighter_tott_df, fighter_tott_df])
+
+    # concat unparsed fighter tale of the tape to parsed fighter tale of the tape
+    parsed_fighter_tott_df = pd.concat([parsed_fighter_tott_df, unparsed_fighter_tott_df])
+    # write to file 
+    parsed_fighter_tott_df.to_csv(config['fighter_tott_file_name'], index=False)

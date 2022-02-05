@@ -12,6 +12,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 import itertools
+import string
 
 
 
@@ -456,6 +457,77 @@ def parse_organise_fight_results_and_stats(soup, url, fight_results_column_names
 
 
 
+# generate list of urls for fighter details
+def generate_alphabetical_urls():
+    '''
+    generate a list of alphabetical urls for fighter details
+    fighter urls are split by their last name and categorised alphabetically
+    loop through each character in the alphabet from a to z to parse all the urls
+    return all fighter urls as a list
+
+    arguments:
+    none
+
+    returns:
+    a list of urls of fighter details
+    '''
+    # create empty list to store fighter urls to parse
+    list_of_alphabetical_urls = []
+
+    # fighters are split in alphabetically
+    # generate url for each alphabet and append to list
+    for character in list(string.ascii_lowercase):
+        list_of_alphabetical_urls.append('http://ufcstats.com/statistics/fighters?char='+character+'&page=all')
+    
+    # return
+    return list_of_alphabetical_urls
+
+
+
+# parse fighter details
+def parse_fighter_details(soup, fighter_details_column_names):
+    '''
+    parse fighter details from soup
+    fighter details include first name, last name, nickname, and url
+    returns dataframe with first, last, nickname, url
+
+    arguments:
+    soup (html): output of get_soup() parser
+
+    returns:
+    a dataframe of fighter details
+    '''
+    # parse fighter name
+    # create empty list to store fighters' names
+    fighter_names = []
+    # loop through and get fighter's first name, last name, nickname
+    for tag in soup.find_all('a', class_='b-link b-link_style_black'):
+        # append name to fighter_names
+        fighter_names.append(tag.text)
+
+    # parse fighter url
+    # create empty list to store fighters' urls
+    fighter_urls = []
+    # loop through and get fighter url
+    for tag in soup.find_all('a', class_='b-link b-link_style_black'):
+        # append url to list_of_fighter_urls
+        # each tag will have three urls that are duplicated
+        fighter_urls.append(tag['href'])
+
+    # zip fighter's first name, last name, nickname, and url into a list of tuples
+    # zip items in sets of threes
+    # e.g. ('Tom', 'Aaron', '', 'http://ufcstats.com/fighter-details/93fe7332d16c6ad9')
+    # if there is no first, last, or nickname, the field will be left blank
+    fighter_details = list(zip(fighter_names[0::3], fighter_names[1::3], fighter_names[2::3], fighter_urls[0::3]))
+
+    # convert list of tuples to a dataframe
+    fighter_details_df = pd.DataFrame(fighter_details, columns=fighter_details_column_names)
+    
+    # return
+    return fighter_details_df
+
+
+
 # parse fighter tale of the tape
 def parse_fighter_tott(soup):
     '''
@@ -463,7 +535,7 @@ def parse_fighter_tott(soup):
     fighter details contain fighter, height, weight, reach, stance, dob
     clean each element in the list, removing '\n' and ' ' 
     e.g cleans '\n      Jose Aldo\n' into 'Jose Aldo'
-    returns a list of fighter's details
+    returns a list of fighter tale of the tape
 
     arguments:
     soup (html): output of get_soup() parser
@@ -476,15 +548,18 @@ def parse_fighter_tott(soup):
 
     # parse fighter name
     fighter_name = soup.find('span', class_='b-content__title-highlight').text
-    # append fighter's name to fighter_details
+    # append fighter's name to fighter_tott
     fighter_tott.append('Fighter:'+fighter_name)
 
-    # parse fighter's details
-    for tag in soup.find_all('ul', class_='b-list__box-list')[0]:
-        fighter_tott.append(tag.text)
-    # clean each element in the list, removing '\n' and '  ', and empty elements
-    fighter_tott = list(filter(None, [text.replace('\n', '').replace('  ', '') for text in fighter_tott]))
-
+    # parse fighter's tale of the tape
+    tott = soup.find_all('ul', class_='b-list__box-list')[0]
+    # loop through each tag to get text and next_sibling text
+    for tag in tott.find_all('i'):
+        # add text together and append to fighter_tott
+        fighter_tott.append(tag.text + tag.next_sibling)
+    # clean each element in the list, removing '\n' and '  '
+    fighter_tott = [text.replace('\n', '').replace('  ', '') for text in fighter_tott]
+    
     # return
     return fighter_tott
 
@@ -496,7 +571,7 @@ def organise_fighter_tott(tott_from_soup, fighter_tott_column_names, url):
     organise list of fighter tale of the tape
     remove label of tale of the tape using regex
     e.g. 'Height:5'7"' to '5'7"
-    convert list into df
+    convert and return list as df
 
     arguments:
     tott_from_soup (list): list of fighter tale of the tale from parse_fighter_tott()
@@ -507,14 +582,16 @@ def organise_fighter_tott(tott_from_soup, fighter_tott_column_names, url):
     a df of fighter tale of the tape
     '''
     # remove label of results using regex
-    fighter_details_clean = [re.sub('^(.+?): ?', '', text) for text in tott_from_soup]
+    fighter_tott_clean = [re.sub('^(.+?): ?', '', text) for text in tott_from_soup]
+    # append url to fighter_tott_clean
+    fighter_tott_clean.append(url)
     # create empty df to store fighter's details
-    fighter_details_df = pd.DataFrame(columns=fighter_tott_column_names)
+    fighter_tott_df = pd.DataFrame(columns=fighter_tott_column_names)
     # append fighter's details to fighter_details_df
-    fighter_details_df.loc[(len(fighter_details_df))] = fighter_details_clean
+    fighter_tott_df.loc[(len(fighter_tott_df))] = fighter_tott_clean
 
     # return
-    return fighter_details_df
+    return fighter_tott_df
 
 
 

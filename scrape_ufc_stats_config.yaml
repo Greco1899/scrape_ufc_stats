@@ -6,6 +6,8 @@ event_details_file_name: ufc_event_details.csv
 fight_details_file_name: ufc_fight_details.csv
 fight_results_file_name: ufc_fight_results.csv
 fight_stats_file_name: ufc_fight_stats.csv
+fighter_details_file_name: ufc_fighter_details.csv
+fighter_tott_file_name: ufc_fighter_tott.csv
 
 # columns names for extracted details
 fight_details_column_names:
@@ -75,6 +77,13 @@ fight_stats_column_names:
   - DISTANCE
   - CLINCH
   - GROUND
+
+# column names for fighter details
+fighter_details_column_names:
+  - FIRST
+  - LAST
+  - NICKNAME
+  - URL
 
 # column names for fighter tale of the tape
 fighter_tott_column_names:
