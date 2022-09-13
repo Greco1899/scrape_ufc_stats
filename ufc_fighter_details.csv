@@ -1,7 +1,7 @@
 FIRST,LAST,NICKNAME,URL
 Tom,Aaron,,http://ufcstats.com/fighter-details/93fe7332d16c6ad9
 Danny,Abbadi,The Assassin,http://ufcstats.com/fighter-details/15df64c02b6b0fde
-Nariman,Abbasov,,http://ufcstats.com/fighter-details/59a9d6dac61c2540
+Nariman,Abbasov,Bayraktar,http://ufcstats.com/fighter-details/59a9d6dac61c2540
 David,Abbott,Tank,http://ufcstats.com/fighter-details/b361180739bed4b0
 Hamdy,Abdelwahab,The Hammer,http://ufcstats.com/fighter-details/3329d692aea4dc28
 Shamil,Abdurakhimov,Abrek,http://ufcstats.com/fighter-details/2f5cbecbbe18bac4
@@ -1044,7 +1044,7 @@ Alexandre,Ferreira,Cacareco,http://ufcstats.com/fighter-details/28ba5f27e473420c
 Cezar,Ferreira,Mutante,http://ufcstats.com/fighter-details/dbc17725b887860a
 Diego,Ferreira,,http://ufcstats.com/fighter-details/f53d4f21d1b5f2dc
 Erisson,Ferreira,Gato,http://ufcstats.com/fighter-details/1c2a8915f8431507
-Bruno,Ferreira,,http://ufcstats.com/fighter-details/1e719d4b676dc19a
+Bruno,Ferreira,The Hulk,http://ufcstats.com/fighter-details/1e719d4b676dc19a
 Scott,Ferrozzo,The Pitbull,http://ufcstats.com/fighter-details/977081bc01197656
 Timo,Feucht,,http://ufcstats.com/fighter-details/8c21eb9fd7c4c203
 Andre,Fialho,,http://ufcstats.com/fighter-details/33efaf2d0941cfcf
@@ -1605,7 +1605,7 @@ Kevin,Jackson,,http://ufcstats.com/fighter-details/13b2f59210dda9cc
 Eugene,Jackson,The Wolf,http://ufcstats.com/fighter-details/ce783bf73b5131f9
 Quinton,Jackson,Rampage,http://ufcstats.com/fighter-details/ffc088e64fab57e9
 Jeremy,Jackson,Scorpion,http://ufcstats.com/fighter-details/ad32471f01e7b1a5
-Damon,Jackson,The Leech,http://ufcstats.com/fighter-details/29af297d9f1de0f8
+Damon,Jackson,Action,http://ufcstats.com/fighter-details/29af297d9f1de0f8
 Kenyon,Jackson,,http://ufcstats.com/fighter-details/56c5132870a526d5
 Mike,Jackson,The Truth,http://ufcstats.com/fighter-details/0641c21bec209472
 Jason,Jackson,Jah-Son,http://ufcstats.com/fighter-details/ca8da445dfa82d56
@@ -1916,7 +1916,7 @@ Justin,Lawrence,The American Kidd,http://ufcstats.com/fighter-details/879f6cae48
 Lance,Lawrence,,http://ufcstats.com/fighter-details/ce039df1994b18f0
 Ronnie,Lawrence,The Heat,http://ufcstats.com/fighter-details/e7e01e266a9d4342
 Eric,Lawson,,http://ufcstats.com/fighter-details/38e5d9dcb0fddc42
-Jimmy,Lawson,,http://ufcstats.com/fighter-details/e43eefb10d440cb0
+Jimmy,Lawson,Greedy,http://ufcstats.com/fighter-details/e43eefb10d440cb0
 Valmir,Lazaro,Bidu,http://ufcstats.com/fighter-details/777dea713da2441d
 Zviad,Lazishvili,,http://ufcstats.com/fighter-details/41498c2d1a87b154
 Mounir,Lazzez,The Sniper,http://ufcstats.com/fighter-details/49ee5024966efc0d
@@ -2097,7 +2097,7 @@ Bill,Mahood,The Butcher,http://ufcstats.com/fighter-details/ae58685caf8e4a0d
 Klayton,Mai,,http://ufcstats.com/fighter-details/7a9c1bb08a743d7f
 Demian,Maia,,http://ufcstats.com/fighter-details/427b5953ac8e3a27
 Jennifer,Maia,,http://ufcstats.com/fighter-details/8e1f36476ef02a6a
-Nayara,Maia,,http://ufcstats.com/fighter-details/03b1b79b34eaf217
+Nayara,Maia,Capita,http://ufcstats.com/fighter-details/03b1b79b34eaf217
 Roshan,Mainam,The Indian Notorious,http://ufcstats.com/fighter-details/b301292b1bc92bdb
 Levan,Makashvili,The Hornet,http://ufcstats.com/fighter-details/938ad489fb7a1f31
 John,Makdessi,The Bull,http://ufcstats.com/fighter-details/c21a036b4e012f1c
@@ -2162,7 +2162,7 @@ Andrew,Martinez,Mickey D,http://ufcstats.com/fighter-details/f8c2aba4815876b5
 Mana,Martinez,ManaBoi,http://ufcstats.com/fighter-details/c0386644627a7ee5
 Victor,Martinez,The Brick,http://ufcstats.com/fighter-details/3e708ce33b6b18e6
 Roque,Martinez,,http://ufcstats.com/fighter-details/2c5a0b8317f8f27a
-Melissa,Martinez,Super Melly,http://ufcstats.com/fighter-details/3f4c3bc822bea45d
+Melissa,Martinez,Super Mely,http://ufcstats.com/fighter-details/3f4c3bc822bea45d
 Wagner da Conceicao,Martins,Zuluzinho,http://ufcstats.com/fighter-details/563d051c9e769b24
 Adriano,Martins,,http://ufcstats.com/fighter-details/7dcf06c1967801c1
 Lucas,Martins,Mineiro,http://ufcstats.com/fighter-details/7413b80dbb0f8f9f
@@ -3553,6 +3553,7 @@ Manuel,Torres,El Loco,http://ufcstats.com/fighter-details/2e7878927067fdca
 Salim,Touahri,Grizzly,http://ufcstats.com/fighter-details/cbf1c7ba5408a66f
 Dequan,Townsend,The Tarantula,http://ufcstats.com/fighter-details/3f7dab21b6c971bc
 Minoru,Toyonaga,,http://ufcstats.com/fighter-details/04076783ca83d6ae
+Slim,Trabelsi,,http://ufcstats.com/fighter-details/ff2ec83f44000f78
 Roberto,Traven,Spider,http://ufcstats.com/fighter-details/20ec0061400178ca
 Bryan,Travers,,http://ufcstats.com/fighter-details/008cf84faae9c7a5
 Alexander,Trevino,,http://ufcstats.com/fighter-details/73abb7a5c57fb443
