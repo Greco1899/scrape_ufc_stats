@@ -127,6 +127,20 @@ def parse_fight_details(soup):
         fighters_in_event.append(tag.text.strip())
         fighter_urls_in_event.append(tag.get("href"))
 
+    table = soup.find("table")
+    header, *rows = table.find_all("tr")
+    weight_index = next(
+        i
+        for i, e in enumerate(header.find_all("th"))
+        if e.text.strip() == "Weight class"
+    )
+    weight_classes = [row.find_all("td")[weight_index].text.strip() for row in rows]
+
+    soup.find_all(
+        "td",
+        class_="b-statistics__table-col b-statistics__table-col_style_big-top-padding",
+    )
+
     # combine fighters in event in pairs to create fights
     fights_in_event = [
         fighter_a + " vs. " + fighter_b
@@ -134,7 +148,9 @@ def parse_fight_details(soup):
     ]
 
     # create df to store fights
-    fight_details_df = pd.DataFrame({"BOUT": fights_in_event, "URL": fight_urls})
+    fight_details_df = pd.DataFrame(
+        {"BOUT": fights_in_event, "URL": fight_urls, "WEIGHT_CLASS": weight_classes}
+    )
     # create event column as key
     fight_details_df["EVENT"] = soup.find("h2", class_="b-content__title").text.strip()
     # reorder columns
