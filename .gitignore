@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# .DS_Store
 espn_fighters/*
 
 # PyInstaller
