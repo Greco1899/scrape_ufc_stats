@@ -471,7 +471,6 @@ Martin,Buday,Badys,http://ufcstats.com/fighter-details/8eb046f83e82bf26
 Julia,Budd,,http://ufcstats.com/fighter-details/dcdc4503b9d49977
 Mike,Budnik,,http://ufcstats.com/fighter-details/b98209144b63ae26
 Francisco,Bueno,,http://ufcstats.com/fighter-details/a72d260b436924c4
-Mayra,Bueno Silva,Sheetara,http://ufcstats.com/fighter-details/cc8c623cca88f54f
 Paul,Buentello,The Headhunter,http://ufcstats.com/fighter-details/f0abbb6f3444dae7
 Modestas,Bukauskas,The Baltic Gladiator,http://ufcstats.com/fighter-details/476fe566d2df676e
 Lee Kwan,Bum,,http://ufcstats.com/fighter-details/c0342805a1948cbb
@@ -595,6 +594,7 @@ Nick,Catone,The Jersey Devil,http://ufcstats.com/fighter-details/f8fe2053d73d7bc
 Luke,Caudillo,Lil' Hulk,http://ufcstats.com/fighter-details/68d76fd9ecf7431d
 Gesias,Cavalcante,JZ,http://ufcstats.com/fighter-details/2a74bbba57058f12
 Rafael,Cavalcante,Feijao,http://ufcstats.com/fighter-details/5c1ca0c72b599a3c
+Jacqueline,Cavalcanti,,http://ufcstats.com/fighter-details/e3964ece586e0635
 Magnus,Cedenblad,Jycken,http://ufcstats.com/fighter-details/0e21976afc92e4d1
 Yosdenis,Cedeno,Pink Panther,http://ufcstats.com/fighter-details/3e61082025db8137
 Henry,Cejudo,Triple C,http://ufcstats.com/fighter-details/056c493bbd76a918
@@ -2206,7 +2206,7 @@ Daniel,Marcos,Soncora,http://ufcstats.com/fighter-details/850266b3dc4e506e
 Jose,Maria,No Chance,http://ufcstats.com/fighter-details/b35ba64b6a2bbcb3
 Marcos,Mariano,Dhalsim,http://ufcstats.com/fighter-details/72e5e5a6edfa8223
 Enrique,Marin,Wasabi,http://ufcstats.com/fighter-details/23a6e307077c6ccc
-Jose,Mariscal,Machine Gun,http://ufcstats.com/fighter-details/e0c6edcb5b5d0b90
+Chepe,Mariscal,Machine Gun,http://ufcstats.com/fighter-details/e0c6edcb5b5d0b90
 Ronny,Markes,,http://ufcstats.com/fighter-details/bd21a1e3d41c97ee
 Rory,Markham,,http://ufcstats.com/fighter-details/23a16ebe733e3041
 Randa,Markos,Quiet Storm,http://ufcstats.com/fighter-details/4a57ebb14315b251
@@ -2932,7 +2932,7 @@ Jose,Quinonez,Teco,http://ufcstats.com/fighter-details/36549928f90f1d36
 Cristian,Quinonez,Problema,http://ufcstats.com/fighter-details/7debc13b36343605
 Benji,Radach,Razor,http://ufcstats.com/fighter-details/01b39decaf0abf6a
 Jordan,Radev,,http://ufcstats.com/fighter-details/45bc8f98d62bd096
-Loik,Radzhabov,Jaguar Paw,http://ufcstats.com/fighter-details/8c169fbe1ac33637
+Loik,Radzhabov,The Tajik Tank,http://ufcstats.com/fighter-details/8c169fbe1ac33637
 Gilbert,Rael,,http://ufcstats.com/fighter-details/6cc25d19a891f435
 Josh,Rafferty,,http://ufcstats.com/fighter-details/ff2c606c8bc365e3
 Amir,Rahnavardi,,http://ufcstats.com/fighter-details/bc7f7f0ba3db74d2
@@ -3343,6 +3343,7 @@ Brandon,Shuey,Big Dawg,http://ufcstats.com/fighter-details/585f9ffdb0cd0466
 Ronal,Siahaan,Naga Sakti,http://ufcstats.com/fighter-details/762226efa2b01654
 Sam,Sicilia,,http://ufcstats.com/fighter-details/b8aef0faf4ce9b31
 Kiril,Sidelnikov,,http://ufcstats.com/fighter-details/cf772fb504842dc3
+Serhiy,Sidey,,http://ufcstats.com/fighter-details/1a2bf44edb8055b6
 Steven,Siler,Super,http://ufcstats.com/fighter-details/d188a3b817860ec6
 Siala,Siliga,Mighty Mo,http://ufcstats.com/fighter-details/3cf68c1d17f66af7
 Xavier,Siller,Young Guns,http://ufcstats.com/fighter-details/9a08c2753184ac6d
@@ -3364,6 +3365,7 @@ Wagner,Silva,Wagnao,http://ufcstats.com/fighter-details/fb79582c410d049e
 Rafael,Silva,Morcego,http://ufcstats.com/fighter-details/a31358d90d4bb40a
 Joaquim,Silva,Netto BJJ,http://ufcstats.com/fighter-details/ae7fe94f117f98cf
 Felipe,Silva,,http://ufcstats.com/fighter-details/1b38a2b897f6209c
+Mayra Bueno,Silva,Sheetara,http://ufcstats.com/fighter-details/cc8c623cca88f54f
 Dayana,Silva,,http://ufcstats.com/fighter-details/b19aecbfbb5508cc
 Bruno,Silva,Bulldog,http://ufcstats.com/fighter-details/294aa73dbf37d281
 Bruno,Silva,Blindado,http://ufcstats.com/fighter-details/12ebd7d157e91701
@@ -3834,6 +3836,7 @@ Herschel,Walker,,http://ufcstats.com/fighter-details/bd92e38aef641673
 Donny,Walker,Eagle Eye,http://ufcstats.com/fighter-details/e6147d5ab3685899
 Johnny,Walker,,http://ufcstats.com/fighter-details/c21f26bbde777573
 Brogan,Walker,The Bear,http://ufcstats.com/fighter-details/4333a8e70a672eb7
+Valter,Walker,The Clean Monster,http://ufcstats.com/fighter-details/f5779a2303ed76ec
 Ben,Wall,Manimal,http://ufcstats.com/fighter-details/1ad381c8994c4e5b
 Crafton,Wallace,Blaze,http://ufcstats.com/fighter-details/bf41b5131545da12
 Rodney,Wallace,Shonuff the Master,http://ufcstats.com/fighter-details/b9415726dc3ec526
@@ -4019,6 +4022,7 @@ David,Zawada,Sagat,http://ufcstats.com/fighter-details/3bb2dc8e87b10a46
 Joao,Zeferino,The Brazilian Samurai,http://ufcstats.com/fighter-details/be4076c9e8d791e3
 Daniel,Zellhuber,Golden Boy,http://ufcstats.com/fighter-details/4148802ae4a50768
 Craig,Zellner,Big Z,http://ufcstats.com/fighter-details/3794e5e0bb0defb6
+Rickson,Zenidim,The King,http://ufcstats.com/fighter-details/c879d8620261b1a3
 Roman,Zentsov,The Russian Hammer,http://ufcstats.com/fighter-details/3144121470023e9a
 Carlos,Zevallos,,http://ufcstats.com/fighter-details/cbf69fa846c7e3ee
 Zhang,Tiequan,The Wolf,http://ufcstats.com/fighter-details/c23e3d4875340d8d
