@@ -83,7 +83,7 @@ Brendan,Allen,All In,http://ufcstats.com/fighter-details/2f181c0467965b98
 Daniel,Allen,,http://ufcstats.com/fighter-details/adf9a901308fb8e3
 Ben,Alloway,Blanco,http://ufcstats.com/fighter-details/c4fe2e9a06ea5bcb
 Assu,Almabayev,Zulfikar,http://ufcstats.com/fighter-details/8d3273573b85be09
-Bekzat,Almakhan,,http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1
+Bekzat,Almakhan,The Turan Warrior,http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1
 Ricardo,Almeida,Big Dog,http://ufcstats.com/fighter-details/91186547a7f3f758
 Magno,Almeida,,http://ufcstats.com/fighter-details/d615d6a10a4704cd
 Thomas,Almeida,Thominhas,http://ufcstats.com/fighter-details/2b074403b7c6cdb4
@@ -764,7 +764,7 @@ Jimmy,Crute,,http://ufcstats.com/fighter-details/70e1f8a821b72c8b
 Marcio,Cruz,Pe de Pano,http://ufcstats.com/fighter-details/6aa1cbc1466e9a0b
 Dominick,Cruz,The Dominator,http://ufcstats.com/fighter-details/10f3ba6cd2f44a97
 Aalon,Cruz,,http://ufcstats.com/fighter-details/003d82fa384ca1d0
-Timothy,Cuamba,Twilight,http://ufcstats.com/fighter-details/0e46690e55a8df75
+Timmy,Cuamba,Twilight,http://ufcstats.com/fighter-details/0e46690e55a8df75
 Jay,Cucciniello,,http://ufcstats.com/fighter-details/683ea28a198936fe
 Emilio,Cuellar,Show Kid,http://ufcstats.com/fighter-details/3aeb69b4a13ff0e8
 Josh,Culibao,Kuya,http://ufcstats.com/fighter-details/6751eacd16bd59bc
@@ -1243,7 +1243,6 @@ Rafa,Garcia,Gifted,http://ufcstats.com/fighter-details/e132d47bd9efbbe0
 Fernie,Garcia,,http://ufcstats.com/fighter-details/9e92e1ca498d7244
 Rulon,Gardner,,http://ufcstats.com/fighter-details/4f7e290e71d60f87
 David,Gardner,,http://ufcstats.com/fighter-details/70167689d6a01793
-Ian,Garry,The Future,http://ufcstats.com/fighter-details/442c9011034ae1fd
 Pablo,Garza,The Scarecrow,http://ufcstats.com/fighter-details/8e5bfd4e82352340
 Azamat,Gashimov,,http://ufcstats.com/fighter-details/a1b0715c4fd2dbd3
 Brian,Gassaway,,http://ufcstats.com/fighter-details/e4770d5ed44a3970
@@ -1809,7 +1808,7 @@ Cristiane,Justino,Cyborg,http://ufcstats.com/fighter-details/634bb0de2eb043b4
 Patrick,Kaase,Kamikaze,http://ufcstats.com/fighter-details/b180f05acb24d430
 Emily,Kagan,,http://ufcstats.com/fighter-details/c1ea9d56cd953586
 Oron,Kahlon,,http://ufcstats.com/fighter-details/00a35c92b03992b0
-Kaiwen,,The Underdog,http://ufcstats.com/fighter-details/0565706b1e7f7e7c
+,Kaiwen,The Underdog,http://ufcstats.com/fighter-details/0565706b1e7f7e7c
 Sirwan,Kakai,Zohan,http://ufcstats.com/fighter-details/2525a853486ee670
 Saidyokub,Kakhramonov,,http://ufcstats.com/fighter-details/50a28b9f8314e008
 Geza,Kalman,,http://ufcstats.com/fighter-details/304fcd812f12c589
@@ -2175,6 +2174,7 @@ Clayton,MacFarlane,,http://ufcstats.com/fighter-details/39831e62d12e7ad1
 Ilima,Macfarlane,,http://ufcstats.com/fighter-details/8cf90e41646491fd
 Valesca,Machado,Tina Black,http://ufcstats.com/fighter-details/a1a91dbf41a029c4
 Caio,Machado,Bigfoot,http://ufcstats.com/fighter-details/89839250eb25c9c1
+Ian,Machado Garry,The Future,http://ufcstats.com/fighter-details/442c9011034ae1fd
 Lyoto,Machida,The Dragon,http://ufcstats.com/fighter-details/f7a7f7118d4b01b6
 War,Machine,,http://ufcstats.com/fighter-details/cd7bafbeee1f29a0
 Anthony,Macias,Mad Dog,http://ufcstats.com/fighter-details/dedc3bb440d09554
@@ -2817,7 +2817,7 @@ Alan,Patrick,Nuguette,http://ufcstats.com/fighter-details/cd7763bcadb5d4c8
 Michael,Patt,,http://ufcstats.com/fighter-details/83d0de122f2f9664
 Justin,Patterson,The Tactician,http://ufcstats.com/fighter-details/2dc7c49cfaeb867c
 Sam,Patterson,,http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7
-Zac,Pauga,The Ripper,http://ufcstats.com/fighter-details/56f7d7ee06be4aab
+Zac,Pauga,The High Chief,http://ufcstats.com/fighter-details/56f7d7ee06be4aab
 Julio,Paulino,The Dominican Demon,http://ufcstats.com/fighter-details/60c72f7459827881
 Thomas,Paull,Juggernaut,http://ufcstats.com/fighter-details/dda67d7d3df6b406
 Sergei,Pavlovich,,http://ufcstats.com/fighter-details/f14cf73e51b29254
@@ -3133,7 +3133,7 @@ Mike,Rodriguez,Slo Mike,http://ufcstats.com/fighter-details/18b602842a24f7c5
 Marina,Rodriguez,,http://ufcstats.com/fighter-details/cd2c4d30c6e13b47
 Daniel,Rodriguez,D-Rod,http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6
 Ray,Rodriguez,The Judge,http://ufcstats.com/fighter-details/90e0985df05e51bc
-Luis,Rodriguez,Lazy Boy,http://ufcstats.com/fighter-details/f2900678e98f6d6a
+Ronaldo,Rodriguez,Lazy Boy,http://ufcstats.com/fighter-details/f2900678e98f6d6a
 Drako,Rodriguez,,http://ufcstats.com/fighter-details/dc3b9cf7641b7ab6
 Victor,Rodriguez,Vicious,http://ufcstats.com/fighter-details/f6e5972c9d16c40e
 Piera,Rodriguez,La Fiera,http://ufcstats.com/fighter-details/e375cb5caf4717b6
@@ -3510,6 +3510,7 @@ Emrah,Sonmez,Anatolian Wolf,http://ufcstats.com/fighter-details/fe759b24e344d7eb
 Chael,Sonnen,,http://ufcstats.com/fighter-details/48d1f690b763934c
 Cody,Sons,,http://ufcstats.com/fighter-details/3324129f3745b300
 Jin,Soo Son,,http://ufcstats.com/fighter-details/7c9c6a884be167fe
+Benardo,Sopaj,The Lion King,http://ufcstats.com/fighter-details/b6c37948cb226e8c
 Emiliano,Sordi,He-Man,http://ufcstats.com/fighter-details/4c9b84d559822830
 Sean,Soriano,,http://ufcstats.com/fighter-details/bd5403efbaa445c0
 Punahele,Soriano,Puna,http://ufcstats.com/fighter-details/64facb6cc564262d
