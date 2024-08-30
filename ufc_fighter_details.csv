@@ -199,7 +199,7 @@ Tom,Aspinall,,http://ufcstats.com/fighter-details/399afbabc02376b5
 Bruno,Assis,Brunao,http://ufcstats.com/fighter-details/ff222167cce02919
 Junior,Assuncao,,http://ufcstats.com/fighter-details/d0d7160824278840
 Raphael,Assuncao,,http://ufcstats.com/fighter-details/2f13e4020cea5b38
-Michael,Aswell Jr.,Texas Kid,http://ufcstats.com/fighter-details/01c9e4013afce141
+Michael,Aswell,The Texas Kid,http://ufcstats.com/fighter-details/01c9e4013afce141
 Bazigit,Atajev,Volk,http://ufcstats.com/fighter-details/fd7acf42bd6e7e95
 Rich,Attonito,The Raging Bull,http://ufcstats.com/fighter-details/210935fd21670f6d
 Olivier,Aubin-Mercier,The Canadian Gangster,http://ufcstats.com/fighter-details/55ee431411ccf07a
@@ -2173,7 +2173,7 @@ Brian,Lo-A-Njoe,,http://ufcstats.com/fighter-details/7abce81b72fbbd9b
 John,Lober,The Machine,http://ufcstats.com/fighter-details/31652c9267606d54
 Artem,Lobov,The Russian Hammer,http://ufcstats.com/fighter-details/02f2a9702ba3d167
 Dylan,Lockard,,http://ufcstats.com/fighter-details/9caa254991a5a698
-Ryan,Loder,,http://ufcstats.com/fighter-details/d5bab53a1a603aac
+Ryan,Loder,Man of Steel,http://ufcstats.com/fighter-details/d5bab53a1a603aac
 Sean,Loeffler,The Destroyer,http://ufcstats.com/fighter-details/d3d1ff3f3dfa0931
 Christian,Lohsen,Hollywood,http://ufcstats.com/fighter-details/4ab36d70d1b28b58
 David,Loiseau,The Crow,http://ufcstats.com/fighter-details/22e47b53e4ceb27c
@@ -2435,7 +2435,7 @@ MarQuel,Mederos,,http://ufcstats.com/fighter-details/e2be0c1a9b886d92
 Uros,Medic,The Doctor,http://ufcstats.com/fighter-details/681399317dbf4701
 Todd,Medina,El Tiburon,http://ufcstats.com/fighter-details/b60391da771deefe
 Jason,Medina,,http://ufcstats.com/fighter-details/f53fb9d9e57cc38e
-Jose,Medina,Chicho,http://ufcstats.com/fighter-details/baa9be02c3e3e038
+Jose Daniel,Medina,Chicho,http://ufcstats.com/fighter-details/baa9be02c3e3e038
 Emil,Meek,Valhalla,http://ufcstats.com/fighter-details/103b06d8707895a9
 Sanford Alton,Meeks,,http://ufcstats.com/fighter-details/27c59ac201539d10
 Gerald,Meerschaert,GM3,http://ufcstats.com/fighter-details/6ac9bc2953c47345
@@ -3302,6 +3302,7 @@ Frankie,Saenz,,http://ufcstats.com/fighter-details/9ba2226646046b63
 Saparbeg,Safarov,,http://ufcstats.com/fighter-details/88d7b6d8230e1f3f
 Tarec,Saffiedine,Sponge,http://ufcstats.com/fighter-details/0749d968e932df53
 Jason,Saggo,,http://ufcstats.com/fighter-details/4ac1ecf8ce59ef23
+Kiru,Sahota,,http://ufcstats.com/fighter-details/296a120cb880477b
 Tatsuya,Saika,Yanbo,http://ufcstats.com/fighter-details/cc4e571964b084d4
 Benoit,Saint Denis,God of War,http://ufcstats.com/fighter-details/c2299ec916bc7c56
 Ovince,Saint Preux,,http://ufcstats.com/fighter-details/50db8711c70196cd
@@ -3382,7 +3383,7 @@ Daniel,Santos,Willycat,http://ufcstats.com/fighter-details/b67d6bacc68d4c92
 Gabriel,Santos,Mosquitinho,http://ufcstats.com/fighter-details/f2f140ce7532e327
 Luana,Santos,,http://ufcstats.com/fighter-details/5078e1dacf9d25f4
 Djorden,Santos,Shakur,http://ufcstats.com/fighter-details/312f7d7b2b2f7de4
-Mairon,Santos,A Lenda,http://ufcstats.com/fighter-details/480779d7f9a424d3
+Mairon,Santos,The Legend,http://ufcstats.com/fighter-details/480779d7f9a424d3
 Nick,Sanzo,,http://ufcstats.com/fighter-details/1d147d4163a6989b
 Bob,Sapp,The Beast,http://ufcstats.com/fighter-details/9f3d6ddef3d3cccc
 Daniel,Sarafian,,http://ufcstats.com/fighter-details/7e47047d0971d566
@@ -3557,7 +3558,6 @@ Rob,Sinclair,,http://ufcstats.com/fighter-details/3b65c9dd39741bc4
 Rory,Singer,Outburst,http://ufcstats.com/fighter-details/546015aa2ad945fd
 Rana Rudra Pratap,Singh,Ashwathama,http://ufcstats.com/fighter-details/254ed71756cfd18c
 Kiran,Singh,Stubborn,http://ufcstats.com/fighter-details/f985ca2370a37078
-Kiru,Singh Sahota,,http://ufcstats.com/fighter-details/296a120cb880477b
 Elvis,Sinosic,The King of Rock n' Rumble,http://ufcstats.com/fighter-details/817e0bdf08efce2e
 Mitchell,Sipe,No Dice,http://ufcstats.com/fighter-details/71ef1111bf829b82
 Gian,Siqueira,Pitbull,http://ufcstats.com/fighter-details/a46fdda658fee832
@@ -3590,6 +3590,7 @@ Devonte,Smith,King Kage,http://ufcstats.com/fighter-details/207773daeb4afa7b
 Cole,Smith,The Cole Train,http://ufcstats.com/fighter-details/56709e66f1c6008f
 Nate,Smith,The Savage,http://ufcstats.com/fighter-details/0bbb69f69c9a2eea
 Braxton,Smith,The Beautiful Monster,http://ufcstats.com/fighter-details/eaa9402e5a7990ad
+Elijah,Smith,,http://ufcstats.com/fighter-details/7478b7f959ba61f5
 Walter,Smith-Cotito,,http://ufcstats.com/fighter-details/625b65b45c1c6888
 Justin,Smitley,,http://ufcstats.com/fighter-details/c5776fa8f4bf77aa
 Dmitrii,Smoliakov,The Lifeguard,http://ufcstats.com/fighter-details/75afb06215a07341
@@ -3793,6 +3794,7 @@ Anthony,Taylor,Pretty Boy,http://ufcstats.com/fighter-details/637a4d8825464c62
 Danielle,Taylor,Dynamite,http://ufcstats.com/fighter-details/b76c6268dc1d3c05
 J.T,Taylor,The Outlaw ,http://ufcstats.com/fighter-details/17c6e35e4da505b0
 James,Te Huna,,http://ufcstats.com/fighter-details/f5431394fb284bb9
+Cam,Teague,Chaos,http://ufcstats.com/fighter-details/b47c9ea5f2895d6e
 Shawn,Teed,,http://ufcstats.com/fighter-details/5bb70ebd65075c5c
 Glover,Teixeira,,http://ufcstats.com/fighter-details/7ff97850e8c32bda
 John,Teixeira,Macapa,http://ufcstats.com/fighter-details/86061eaba822bfea
@@ -3923,7 +3925,7 @@ Artem,Vakhitov,,http://ufcstats.com/fighter-details/43e549b803ec7375
 Egidijus,Valavicius,,http://ufcstats.com/fighter-details/fc1868f56d3036eb
 Genaro,Valdez,Rayadito,http://ufcstats.com/fighter-details/cda1099995b46cc2
 Charlie,Valencia,,http://ufcstats.com/fighter-details/8a0be41c0380188d
-Robert,Valentin Frey,Robzilla,http://ufcstats.com/fighter-details/0cd0456d6029cec2
+Robert,Valentin,Robzilla,http://ufcstats.com/fighter-details/0cd0456d6029cec2
 Victor,Valenzuela,Joe Boxer,http://ufcstats.com/fighter-details/de277a4abcfeea46
 Ivan,Valenzuela,Bam Bam,http://ufcstats.com/fighter-details/45b82ebf0b9e0fd2
 Timur,Valiev,Lucky,http://ufcstats.com/fighter-details/45e738622ea2c02c
@@ -4071,7 +4073,7 @@ Daniel,Weichel,The Weasel,http://ufcstats.com/fighter-details/7b9dade6bedaabbe
 Chris,Weidman,The All-American,http://ufcstats.com/fighter-details/3a8176e15b9887c1
 Mark,Weir,The Wizard,http://ufcstats.com/fighter-details/9ccdd2ce45903f34
 Christian,Wellisch,The Hungarian Nightmare,http://ufcstats.com/fighter-details/f1b2a4365799c48b
-Malcolm,Wellmaker,,http://ufcstats.com/fighter-details/2e45d08b3f2f02c8
+Malcolm,Wellmaker,The Machine,http://ufcstats.com/fighter-details/2e45d08b3f2f02c8
 Jeremiah,Wells,,http://ufcstats.com/fighter-details/d66a46de8d705353
 Fabricio,Werdum,Vai Cavalo,http://ufcstats.com/fighter-details/492b202d2064e7a9
 Mike,Wessel,Juggernaut,http://ufcstats.com/fighter-details/b51841e7c594090d
