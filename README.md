@@ -46,23 +46,10 @@ Do feel free to reach out with any comments, suggestions, or issues. 😃
 The script `scrape_ufc_stats_unparsed_data.py` has been added to [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=00a8b72b) and will run daily to check and scrape new fights and fighters and push the refreshed data files to this repository. 
 
 This keeps the data files up to date with the latest fight and fighter stats and you can quickly download and use the CSV files above without running any code.
+
+A manual full refresh of the data was performed on 03 October 2025.
 <br>
 <br>
 <br>
 
-## Next Steps
 
-~~Data Refresh for Fights - Parse and refresh new fight data programmatically when there are new events~~
-
-~~Scrape Fighter Details - Get all fighter's tale of the tape (e.g. height, weight, etc.)~~
-
-~~Data Refresh for Fighters - Parse and refresh new fighter details programmatically when there are new fighters added to the roster~~
-
-Clean Data - Clean data to be used for further analysis
-
-Data Exploration - Plot and visualise stats
-
-Prediction - Build a machine learning model to predict the outcome of fights
-<br>
-<br>
-<br>
