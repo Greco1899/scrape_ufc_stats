@@ -118,8 +118,19 @@ def parse_fight_details(soup):
     for tag in soup.find_all('a', class_='b-link b-link_style_black'):
         fighters_in_event.append(tag.text.strip())
 
-    # combine fighters in event in pairs to create fights
-    fights_in_event = [fighter_a+' vs. '+fighter_b for fighter_a, fighter_b in zip(fighters_in_event[::2], fighters_in_event[1::2])]    
+    # create empty list to store fights
+    fights_in_event = []
+    # loop through each fight url
+    for url in fight_urls:
+        # get soup from url
+        soup_fight = get_soup(url)
+        # create empty list to store fighters' names
+        fighters_names = []
+        # parse fighters' name from soup
+        for tag in soup_fight.find_all('a', class_='b-link b-fight-details__person-link'):
+            fighters_names.append(tag.text.strip())
+        # join fighters name into one, e.g. fighter_a vs. fighter_b
+        fights_in_event.append(' vs. '.join(fighters_names))
     
     # create df to store fights
     fight_details_df = pd.DataFrame({'BOUT':fights_in_event, 'URL':fight_urls})
@@ -160,7 +171,7 @@ def parse_fight_results(soup):
 
     # parse fighters
     for tag in soup.find_all('a', class_='b-link b-fight-details__person-link'):
-        fight_results.append(tag.text)
+        fight_results.append(tag.text.strip())
 
     # parse outcome as either w for win or l for loss
     for tag in soup.find_all('div', class_='b-fight-details__person'):
@@ -503,7 +514,7 @@ def parse_fighter_details(soup, fighter_details_column_names):
     # loop through and get fighter's first name, last name, nickname
     for tag in soup.find_all('a', class_='b-link b-link_style_black'):
         # append name to fighter_names
-        fighter_names.append(tag.text)
+        fighter_names.append(tag.text.strip())
 
     # parse fighter url
     # create empty list to store fighters' urls
@@ -556,7 +567,7 @@ def parse_fighter_tott(soup):
     # loop through each tag to get text and next_sibling text
     for tag in tott.find_all('i'):
         # add text together and append to fighter_tott
-        fighter_tott.append(tag.text + tag.next_sibling)
+        fighter_tott.append(tag.text.strip() + tag.next_sibling.strip())
     # clean each element in the list, removing '\n' and '  '
     fighter_tott = [text.replace('\n', '').replace('  ', '') for text in fighter_tott]
     
