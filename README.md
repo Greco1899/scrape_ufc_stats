@@ -36,7 +36,7 @@ Once you have the up-to-date historical data for fight stats, you can run the no
 
 The notebook `scrape_ufc_stats_working_example.ipynb` can be used for testing or debugging. The code here is broken down into sections which can be executed to scrape single data points, e.g. scraping stats for one fight only.
 
-Do [feel free to reach out](https://www.linkedin.com/in/russellchanws/) with any comments, suggestions, or issues. 😃 [Buy me a coffee here](https://buymeacoffee.com/greco1899). ☕
+Do [feel free to reach out](https://www.linkedin.com/in/russellchanws/) with any comments, suggestions, or issues. 😃
 <br>
 <br>
 <br>
@@ -47,7 +47,7 @@ The script `scrape_ufc_stats_unparsed_data.py` has been deployed to Google Cloud
 
 This keeps the data files up to date with the latest fight and fighter stats, and you can quickly download and use the CSV files above without running any code.
 
-A manual full refresh of the data was performed on 03 October 2025. 
+A manual full refresh of the data was performed on 22 November 2025. 
 <br>
 <br>
 <be>
