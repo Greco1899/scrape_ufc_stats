@@ -6,6 +6,7 @@ library of functions to scrape ufc stats
 '''
 
 # imports
+from typing import List, Tuple
 import pandas as pd
 import numpy as np
 import re
@@ -17,7 +18,7 @@ import string
 
 
 # get soup from url
-def get_soup(url):
+def get_soup(url: str) -> BeautifulSoup:
     '''
     get soup from url using beautifulsoup
 
@@ -39,7 +40,7 @@ def get_soup(url):
 
 
 # parse event details
-def parse_event_details(soup):
+def parse_event_details(soup: BeautifulSoup) -> pd.DataFrame:
     '''
     parse event details from soup
     includes names, urls, dates, locations of events
@@ -92,7 +93,7 @@ def parse_event_details(soup):
 
 
 # parse fight details
-def parse_fight_details(soup):
+def parse_fight_details(soup: BeautifulSoup) -> pd.DataFrame:
     '''
     parse fight details from soup
     includes urls, and fights
@@ -145,7 +146,7 @@ def parse_fight_details(soup):
 
 
 # parse fight results from soup
-def parse_fight_results(soup):
+def parse_fight_results(soup: BeautifulSoup) -> List[str]:
     '''
     parase fight results from soup
     results include event, bout, outcome weightclass, method, round, time, timeformat, referee, details
@@ -204,7 +205,7 @@ def parse_fight_results(soup):
 
 
 # organise fight results
-def organise_fight_results(results_from_soup, fight_results_column_names):
+def organise_fight_results(results_from_soup: List[str], fight_results_column_names: List[str]) -> pd.DataFrame:
     '''
     organise list of fight results
     fighters' names should be from index 1 and 2
@@ -245,7 +246,7 @@ def organise_fight_results(results_from_soup, fight_results_column_names):
 
 
 # parse full fight stats for both fighters
-def parse_fight_stats(soup):
+def parse_fight_stats(soup: BeautifulSoup) -> Tuple[List[str], List[str]]:
     '''
     parse full fight stats for both fighters from soup
     loop through soup to find all 'td' tags with the class 'b-fight-details__table-col'
@@ -286,7 +287,7 @@ def parse_fight_stats(soup):
 
 
 # organise stats extracted from soup
-def organise_fight_stats(stats_from_soup):
+def organise_fight_stats(stats_from_soup: List[str]) -> List[List[str]]:
     '''
     organise a list of raw stats extracted from soup
     each set of stats starts with the fighter's name, the function groups each set together into a list of lists by the fighter's name
@@ -314,7 +315,8 @@ def organise_fight_stats(stats_from_soup):
     # group stats by fighter's name
     for name, stats in itertools.groupby(stats_from_soup, lambda x: x == stats_from_soup[0]):
         # create empty sublist to store each set of stats
-        if name: fighter_stats_clean.append([])
+        if name:
+            fighter_stats_clean.append([])
         # extend stats to sublist
         fighter_stats_clean[-1].extend(stats)
 
@@ -324,7 +326,7 @@ def organise_fight_stats(stats_from_soup):
 
 
 # convert list of fighter stats into a structured dataframe
-def convert_fight_stats_to_df(clean_fighter_stats, totals_column_names, significant_strikes_column_names):
+def convert_fight_stats_to_df(clean_fighter_stats: List[List[str]], totals_column_names: List[str], significant_strikes_column_names: List[str]) -> pd.DataFrame:
     '''
     convert a list of fighter stats from organise_fight_stats() into a structured dataframe
     check if list of stats is empty, there are old fights that do not have stats
@@ -383,7 +385,7 @@ def convert_fight_stats_to_df(clean_fighter_stats, totals_column_names, signific
 
 
 # combine fighter stats into one
-def combine_fighter_stats_dfs(fighter_a_stats_df, fighter_b_stats_df, soup):
+def combine_fighter_stats_dfs(fighter_a_stats_df: pd.DataFrame, fighter_b_stats_df: pd.DataFrame, soup: BeautifulSoup) -> pd.DataFrame:
     '''
     concat both fighter's stats into one df
     create new event and bout column as a key
@@ -422,7 +424,7 @@ def combine_fighter_stats_dfs(fighter_a_stats_df, fighter_b_stats_df, soup):
 
 
 # parse and organise fight results and fight stats
-def parse_organise_fight_results_and_stats(soup, url, fight_results_column_names, totals_column_names, significant_strikes_column_names):
+def parse_organise_fight_results_and_stats(soup: BeautifulSoup, url: str, fight_results_column_names: List[str], totals_column_names: List[str], significant_strikes_column_names: List[str]) -> Tuple[pd.DataFrame, pd.DataFrame]:
     '''
     parse and organise fight results and fight stats from soup
     this function combines other functions that parse fight results and stats into one
@@ -469,7 +471,7 @@ def parse_organise_fight_results_and_stats(soup, url, fight_results_column_names
 
 
 # generate list of urls for fighter details
-def generate_alphabetical_urls():
+def generate_alphabetical_urls() -> List[str]:
     '''
     generate a list of alphabetical urls for fighter details
     fighter urls are split by their last name and categorised alphabetically
@@ -496,7 +498,7 @@ def generate_alphabetical_urls():
 
 
 # parse fighter details
-def parse_fighter_details(soup, fighter_details_column_names):
+def parse_fighter_details(soup: BeautifulSoup, fighter_details_column_names: List[str]) -> pd.DataFrame:
     '''
     parse fighter details from soup
     fighter details include first name, last name, nickname, and url
@@ -540,7 +542,7 @@ def parse_fighter_details(soup, fighter_details_column_names):
 
 
 # parse fighter tale of the tape
-def parse_fighter_tott(soup):
+def parse_fighter_tott(soup: BeautifulSoup) -> List[str]:
     '''
     parse fighter tale of the tape from soup
     fighter details contain fighter, height, weight, reach, stance, dob
@@ -577,7 +579,7 @@ def parse_fighter_tott(soup):
 
 
 # organise fighter tale of the tape
-def organise_fighter_tott(tott_from_soup, fighter_tott_column_names, url):
+def organise_fighter_tott(tott_from_soup: List[str], fighter_tott_column_names: List[str], url: str) -> pd.DataFrame:
     '''
     organise list of fighter tale of the tape
     remove label of tale of the tape using regex
@@ -607,7 +609,7 @@ def organise_fighter_tott(tott_from_soup, fighter_tott_column_names, url):
 
 
 # reorder columns
-def move_columns(df, cols_to_move=[], ref_col='', place=''):
+def move_columns(df: pd.DataFrame, cols_to_move: List[str], ref_col: str, place: str) -> pd.DataFrame:
     '''
     reoder columns in df
     move a list of columns before or after a reference column
