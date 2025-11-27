@@ -1,6 +1,7 @@
 beautifulsoup4==4.12.3
-requests==2.31.0
+requests==2.32.4
 pandas==2.2.3
 numpy==1.26.4
 PyYAML==6.0.2
 tqdm==4.66.5
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
