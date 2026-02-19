@@ -9,6 +9,7 @@ import Dashboard from './pages/Dashboard';
 import Leagues from './pages/Leagues';
 import Fighters from './pages/Fighters';
 import Events from './pages/Events';
+import Predictions from './pages/Predictions';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
               <Route path="/leagues" element={<Leagues />} />
               <Route path="/fighters" element={<Fighters />} />
               <Route path="/events" element={<Events />} />
+              <Route path="/predictions" element={<Predictions />} />
             </Routes>
           </main>
         </div>
