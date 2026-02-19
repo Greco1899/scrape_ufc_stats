@@ -39,6 +39,48 @@ class PredictionEngine {
             'WFW': { ko: 0.90, sub: 0.97, dec: 1.08 }
         };
 
+        // Round prediction: continuous scoring constants (aligned with Python implementation)
+        this.METHOD_CONFIDENCE_SCALE = 0.50;
+        this.BONUS_LOSER_POWER_PUNCHER = 5.0;
+        this.BONUS_LOPSIDED = 5.0;
+        this.MAX_BONUS_CAP = 8.0;
+
+        // Division-specific round thresholds for 3-round fights
+        // Higher TKO-rate divisions get lower thresholds (more R1/R2 predictions)
+        this.DIVISION_ROUND_THRESHOLDS_3RD = {
+            'HW':   { R1: 42.0, R2: 33.0, R3: 0.0 },
+            'LHW':  { R1: 45.0, R2: 36.0, R3: 0.0 },
+            'MW':   { R1: 48.0, R2: 39.0, R3: 0.0 },
+            'WW':   { R1: 50.0, R2: 41.0, R3: 0.0 },
+            'LW':   { R1: 52.0, R2: 43.0, R3: 0.0 },
+            'FW':   { R1: 52.0, R2: 43.0, R3: 0.0 },
+            'BW':   { R1: 54.0, R2: 45.0, R3: 0.0 },
+            'FLW':  { R1: 55.0, R2: 46.0, R3: 0.0 },
+            'WSW':  { R1: 58.0, R2: 49.0, R3: 0.0 },
+            'WFLW': { R1: 57.0, R2: 48.0, R3: 0.0 },
+            'WBW':  { R1: 56.0, R2: 47.0, R3: 0.0 },
+            'WFW':  { R1: 55.0, R2: 46.0, R3: 0.0 }
+        };
+
+        // Division-specific round thresholds for 5-round fights
+        this.DIVISION_ROUND_THRESHOLDS_5RD = {
+            'HW':   { R1: 45.0, R2: 36.0, R3: 28.0, R4: 0.0 },
+            'LHW':  { R1: 48.0, R2: 39.0, R3: 31.0, R4: 0.0 },
+            'MW':   { R1: 51.0, R2: 42.0, R3: 33.0, R4: 0.0 },
+            'WW':   { R1: 53.0, R2: 44.0, R3: 35.0, R4: 0.0 },
+            'LW':   { R1: 55.0, R2: 45.0, R3: 35.0, R4: 0.0 },
+            'FW':   { R1: 55.0, R2: 45.0, R3: 35.0, R4: 0.0 },
+            'BW':   { R1: 57.0, R2: 47.0, R3: 37.0, R4: 0.0 },
+            'FLW':  { R1: 58.0, R2: 48.0, R3: 38.0, R4: 0.0 },
+            'WSW':  { R1: 61.0, R2: 51.0, R3: 41.0, R4: 0.0 },
+            'WFLW': { R1: 60.0, R2: 50.0, R3: 40.0, R4: 0.0 },
+            'WBW':  { R1: 59.0, R2: 49.0, R3: 39.0, R4: 0.0 },
+            'WFW':  { R1: 58.0, R2: 48.0, R3: 38.0, R4: 0.0 }
+        };
+
+        this.FALLBACK_THRESHOLDS_3RD = { R1: 52.0, R2: 43.0, R3: 0.0 };
+        this.FALLBACK_THRESHOLDS_5RD = { R1: 55.0, R2: 45.0, R3: 35.0, R4: 0.0 };
+
         // Grappler detection thresholds
         this.WRESTLER_TD_THRESHOLD = 2.5; // TDs per 15 min
         this.WRESTLER_SUB_WIN_THRESHOLD = 50; // % sub wins
@@ -392,6 +434,8 @@ class PredictionEngine {
 
         let method = 'DEC';
         let methodReason = '';
+        let finalKoProb = 0;
+        let finalSubProb = 0;
 
         // STRATEGY A: Blend Tapology method bars with UFCStats career data
         if (hasTapologyMethod || hasUfcStats) {
@@ -548,6 +592,10 @@ class PredictionEngine {
                 subProb = (subProb / total) * 100;
                 decProb = (decProb / total) * 100;
 
+                // Capture actual probabilities for Layer 3 round prediction
+                finalKoProb = koProb;
+                finalSubProb = subProb;
+
                 reasoning.push({
                     layer: 2,
                     type: 'adjusted_probs',
@@ -590,13 +638,19 @@ class PredictionEngine {
                 // Determine KO vs SUB based on winner's stats
                 if (koWinPct > subWinPct) {
                     method = 'KO';
+                    finalKoProb = koWinPct;
+                    finalSubProb = subWinPct;
                     methodReason = `KO selected: ${winnerData.name} has ${koWinPct}% KO wins vs ${subWinPct}% SUB wins`;
                 } else if (subWinPct > koWinPct) {
                     method = 'SUB';
+                    finalKoProb = koWinPct;
+                    finalSubProb = subWinPct;
                     methodReason = `SUB selected: ${winnerData.name} has ${subWinPct}% SUB wins vs ${koWinPct}% KO wins`;
                 } else {
                     // Default to KO if equal
                     method = 'KO';
+                    finalKoProb = koWinPct;
+                    finalSubProb = subWinPct;
                     methodReason = `KO selected: Equal finish rates, defaulting to KO`;
                 }
             } else {
@@ -626,26 +680,26 @@ class PredictionEngine {
 
         return {
             method,
-            koProb: method === 'KO' ? 1 : 0,
-            subProb: method === 'SUB' ? 1 : 0
+            koProb: finalKoProb,
+            subProb: finalSubProb
         };
     }
 
     /**
      * Layer 3: Round Prediction
-     * Finish-dependent logic, incorporating fight lopsidedness and source agreement
+     * Uses continuous scoring with division-specific thresholds to produce
+     * natural round variance instead of collapsing all finishes into R1.
      */
     layer3RoundPrediction(fight, layer1Result, layer2Result, reasoning) {
         const winner = layer1Result.winner;
-        const winnerData = fight[winner];
         const loserKey = winner === 'fighterA' ? 'fighterB' : 'fighterA';
         const loserData = fight[loserKey];
         const confidence = layer1Result.confidence;
-        const sourceAgreement = layer1Result.sourceAgreement;
 
         const method = layer2Result.method;
         const numRounds = fight.numRounds || 3;
         const isFiveRounder = numRounds === 5;
+        const weightClass = fight.weightClass || '';
 
         let round = 'DEC';
 
@@ -659,101 +713,46 @@ class PredictionEngine {
             return { round: 'DEC' };
         }
 
-        // Calculate early finish profile
-        const earlyFinishProfile = this.calculateEarlyFinishProfile(winnerData, loserData);
+        // Determine dominant method probability from Layer 2
+        const dominantPct = method === 'KO' ? layer2Result.koProb : layer2Result.subProb;
 
-        // RULE: Lopsided favorite = earlier round prediction
-        // Very high confidence + source agreement pushes toward earlier rounds
-        let lopsidedBonus = 0;
-        if (confidence >= this.LOPSIDED_FAVORITE_THRESHOLD && sourceAgreement && sourceAgreement.allAgree) {
-            lopsidedBonus = 20;
-            reasoning.push({
-                layer: 3,
-                type: 'lopsided_bonus',
-                text: `Lopsided favorite (${confidence.toFixed(1)}% + unanimous) → +20 early finish bonus`
-            });
-        } else if (confidence >= 70 && sourceAgreement && sourceAgreement.agreementRatio >= 0.75) {
-            lopsidedBonus = 10;
-            reasoning.push({
-                layer: 3,
-                type: 'lopsided_bonus',
-                text: `Strong favorite (${confidence.toFixed(1)}%) → +10 early finish bonus`
-            });
-        }
-
-        // Combine early finish profile with lopsided bonus
-        const adjustedScore = earlyFinishProfile.score + lopsidedBonus;
+        // Calculate early finish profile using continuous scoring
+        const earlyFinishProfile = this.calculateEarlyFinishProfile(
+            method, dominantPct, loserData, confidence
+        );
 
         reasoning.push({
             layer: 3,
             type: 'early_finish',
-            text: `Early finish profile: ${earlyFinishProfile.score.toFixed(1)}%${lopsidedBonus > 0 ? ` + ${lopsidedBonus} lopsided bonus = ${adjustedScore.toFixed(1)}%` : ''} (${earlyFinishProfile.reason})`
+            text: `Early finish profile: ${earlyFinishProfile.score.toFixed(1)} (${earlyFinishProfile.reason})`
         });
 
-        // 5-round fight logic — R1 is most common finish round even in 5-rounders
-        if (isFiveRounder) {
-            if (adjustedScore >= 65) {
-                round = 'R1';
-                reasoning.push({
-                    layer: 3,
-                    type: 'five_round',
-                    text: `5-round fight with strong finish profile (${adjustedScore.toFixed(1)}% >= 65%) - predicting R1`
-                });
-            } else if (adjustedScore >= 50) {
-                round = 'R2';
-                reasoning.push({
-                    layer: 3,
-                    type: 'five_round',
-                    text: `5-round fight with moderate finish profile (${adjustedScore.toFixed(1)}% >= 50%) - predicting R2`
-                });
-            } else if (adjustedScore >= 35) {
-                round = 'R3';
-                reasoning.push({
-                    layer: 3,
-                    type: 'five_round',
-                    text: `5-round fight with lower finish profile - predicting R3`
-                });
-            } else if (adjustedScore >= 20) {
-                round = 'R4';
-                reasoning.push({
-                    layer: 3,
-                    type: 'five_round',
-                    text: `5-round fight with weak finish profile - predicting R4`
-                });
-            } else {
-                round = 'DEC';
-                reasoning.push({
-                    layer: 3,
-                    type: 'five_round',
-                    text: `5-round fight without strong finish profile (${adjustedScore.toFixed(1)}%) - defaulting to DEC`
-                });
-            }
-        } else {
-            // 3-round fight logic — R1 is the most common finish round (~50% of finishes)
-            // R2 ~30%, R3 ~20% per UFC 2022-2025 data
-            if (adjustedScore >= 40) {
-                round = 'R1';
-                reasoning.push({
-                    layer: 3,
-                    type: 'three_round',
-                    text: `Finish profile (${adjustedScore.toFixed(1)}% >= 40%) - predicting R1 (most common finish round, ~50% of finishes)`
-                });
-            } else if (adjustedScore >= 20) {
-                round = 'R2';
-                reasoning.push({
-                    layer: 3,
-                    type: 'three_round',
-                    text: `Lower finish profile (${adjustedScore.toFixed(1)}% >= 20%) - predicting R2`
-                });
-            } else {
-                round = 'R3';
-                reasoning.push({
-                    layer: 3,
-                    type: 'three_round',
-                    text: `Weak finish profile (${adjustedScore.toFixed(1)}% < 20%) - predicting R3`
-                });
+        // Select division-specific thresholds
+        const thresholds = isFiveRounder
+            ? (this.DIVISION_ROUND_THRESHOLDS_5RD[weightClass] || this.FALLBACK_THRESHOLDS_5RD)
+            : (this.DIVISION_ROUND_THRESHOLDS_3RD[weightClass] || this.FALLBACK_THRESHOLDS_3RD);
+
+        // Select round based on tiered thresholds (iterate in order: R1, R2, R3...)
+        for (const [roundName, threshold] of Object.entries(thresholds)) {
+            if (earlyFinishProfile.score >= threshold) {
+                round = roundName;
+                break;
             }
         }
+
+        // Fallback if no threshold matched
+        if (round === 'DEC') {
+            round = isFiveRounder ? 'R4' : 'R3';
+        }
+
+        const thresholdStr = Object.entries(thresholds)
+            .map(([r, t]) => `${r}>=${t}`)
+            .join(', ');
+        reasoning.push({
+            layer: 3,
+            type: 'round_selection',
+            text: `${weightClass} thresholds [${thresholdStr}] → ${round} (score ${earlyFinishProfile.score.toFixed(1)})`
+        });
 
         reasoning.push({
             layer: 3,
@@ -1345,103 +1344,40 @@ class PredictionEngine {
 
     /**
      * Calculate early finish profile for round prediction
-     * Uses UFC Stats if available, falls back to Tapology method data
+     * Uses continuous scoring: base = dominant method % × scale factor,
+     * plus small capped bonuses. Creates natural variance between fights
+     * instead of collapsing everything into R1.
      */
-    calculateEarlyFinishProfile(winnerData, loserData) {
-        let score = 0;
-        let reasons = [];
-        let preferR1 = false;
+    calculateEarlyFinishProfile(method, dominantPct, loserData, confidence) {
+        const bonuses = [];
+        let totalBonus = 0;
 
-        // Access nested ufcStats with fallbacks
-        const koWinPct = winnerData?.ufcStats?.koWinPct || 0;
-        const subWinPct = winnerData?.ufcStats?.subWinPct || 0;
-        const totalFinishPct = koWinPct + subWinPct;
-        const loserFinishLossPct = loserData?.ufcStats?.finishLossPct || 0;
-        const slpm = winnerData?.ufcStats?.slpm || 0;
-        const hasUfcStats = koWinPct > 0 || subWinPct > 0 || slpm > 0;
+        // Base score: continuous function of how dominant the predicted method is
+        const base = dominantPct * this.METHOD_CONFIDENCE_SCALE;
 
-        // Tapology method data as fallback
-        const tapologyKO = winnerData?.tapology?.koTko || 0;
-        const tapologySub = winnerData?.tapology?.sub || 0;
-        const tapologyDec = winnerData?.tapology?.dec || 0;
-        const tapologyFinishPct = tapologyKO + tapologySub;
-        const hasTapologyMethod = tapologyKO > 0 || tapologySub > 0 || tapologyDec > 0;
-
-        // STRATEGY A: Use UFC Stats if available
-        if (hasUfcStats) {
-            // Winner's finish rate contribution
-            if (totalFinishPct >= 70) {
-                score += 40;
-                reasons.push('high finisher');
-            } else if (totalFinishPct >= 50) {
-                score += 25;
-                reasons.push('moderate finisher');
-            }
-
-            // Opponent's finish loss vulnerability
-            if (loserFinishLossPct >= 60) {
-                score += 30;
-                reasons.push('opponent highly finishable');
-                preferR1 = true;
-            } else if (loserFinishLossPct >= 40) {
-                score += 15;
-                reasons.push('opponent moderately finishable');
-            }
-
-            // High volume = early damage potential
-            if (slpm >= 5.5) {
-                score += 15;
-                reasons.push('high volume striker');
-                preferR1 = true;
-            } else if (slpm >= 4.0) {
-                score += 8;
-            }
-
-            // KO specialist with vulnerable opponent = R1 preference
-            if (koWinPct >= 60 && loserFinishLossPct >= 50) {
-                preferR1 = true;
-                reasons.push('KO specialist vs finishable opponent');
-            }
-        }
-        // STRATEGY B: Use Tapology method data as fallback
-        else if (hasTapologyMethod) {
-            // High finish prediction from Tapology
-            if (tapologyFinishPct >= 70) {
-                score += 45;
-                reasons.push('Tapology predicts high finish probability');
-                // If KO is dominant method, prefer early round
-                if (tapologyKO >= 50) {
-                    preferR1 = true;
-                    reasons.push('KO-heavy prediction');
-                }
-            } else if (tapologyFinishPct >= 50) {
-                score += 30;
-                reasons.push('Tapology predicts moderate finish probability');
-            } else if (tapologyFinishPct >= 30) {
-                score += 15;
-                reasons.push('Tapology predicts some finish probability');
-            }
-
-            // Strong KO prediction = early round preference
-            if (tapologyKO >= 60) {
-                preferR1 = true;
-                score += 10;
-                reasons.push('strong KO prediction');
-            }
-        }
-
-        // Loser's method bars: power puncher losers create earlier finishes
-        // If the loser has high KO%, both fighters are trading, increasing early finish chance
+        // Bonus: Loser is a power puncher (both fighters trading = earlier finishes)
         const loserTapologyKO = loserData?.tapology?.koTko || 0;
         if (loserTapologyKO >= 50) {
-            score += 10;
-            reasons.push(`loser is power puncher (${loserTapologyKO}% KO)`);
+            bonuses.push(`loser is power puncher (${loserTapologyKO}% KO)`);
+            totalBonus += this.BONUS_LOSER_POWER_PUNCHER;
         }
 
+        // Bonus: Lopsided matchup (big favorites finish more often)
+        if (confidence >= 73) {
+            bonuses.push('lopsided matchup');
+            totalBonus += this.BONUS_LOPSIDED;
+        }
+
+        const cappedBonus = Math.min(totalBonus, this.MAX_BONUS_CAP);
+        const score = base + cappedBonus;
+
         return {
-            score: Math.min(score, 100),
-            preferR1,
-            reason: reasons.join(', ') || 'no strong early finish indicators'
+            score,
+            base,
+            dominantPct,
+            bonuses,
+            cappedBonus,
+            reason: `base ${base.toFixed(1)} from ${method} ${dominantPct.toFixed(0)}% × ${this.METHOD_CONFIDENCE_SCALE} + bonus ${cappedBonus.toFixed(1)}${bonuses.length > 0 ? ' (' + bonuses.join(', ') + ')' : ''}`
         };
     }
 }
