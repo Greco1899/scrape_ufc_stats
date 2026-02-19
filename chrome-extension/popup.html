@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UFC Data Collector</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1>UFC Data Collector</h1>
+
+  <div id="status" class="status ready">
+    Ready to collect data
+  </div>
+
+  <div class="source-badges">
+    <span class="badge" id="badge-tapology">Tapology</span>
+    <span class="badge" id="badge-dratings">DRatings</span>
+    <span class="badge" id="badge-fightmatrix">FightMatrix</span>
+  </div>
+
+  <div class="count">
+    <span id="fighter-count">0</span> fighters
+  </div>
+
+  <div id="collected-data" class="collected-data">
+    <h3>Collected Data</h3>
+    <div id="fighter-list"></div>
+  </div>
+
+  <button id="collect-btn" class="primary">
+    Collect Data from This Page
+  </button>
+
+  <button id="collect-results-btn" class="primary green">
+    Collect Results (Post-Event)
+  </button>
+
+  <button id="send-btn" class="primary yellow" disabled>
+    Send to App (Localhost)
+  </button>
+
+  <button id="copy-btn" class="secondary" disabled>
+    Copy to Clipboard (JSON)
+  </button>
+
+  <button id="clear-btn" class="secondary">
+    Clear Collected Data
+  </button>
+
+  <div class="instructions">
+    <p><strong>How to use:</strong></p>
+    <ol>
+      <li>Navigate to a Tapology, DRatings, or FightMatrix event page</li>
+      <li>Click "Collect Data" to extract fighter predictions</li>
+      <li>Visit multiple pages to combine data</li>
+      <li>Copy JSON and paste into UFC Predictor app</li>
+    </ol>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

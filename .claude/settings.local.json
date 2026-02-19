@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(echo:*)",
+      "WebFetch(domain:www.tapology.com)",
+      "Bash(if not exist \"D:\\\\projects\\\\ufc_project\\\\results\" mkdir \"D:\\\\projects\\\\ufc_project\\\\results\")",
+      "WebFetch(domain:ufcstats.com)",
+      "WebFetch(domain:www.ufc.com)",
+      "Bash(node -c:*)",
+      "WebFetch(domain:the-odds-api.com)",
+      "Bash(python -c \"exec\\(open\\(r''D:\\\\projects\\\\ufc_project\\\\save_server.py''\\).read\\(\\).split\\(\"\"if __name__\"\"\\)[0]\\); print\\(''Server code OK''\\)\")",
+      "WebFetch(domain:developer.chrome.com)",
+      "WebFetch(domain:goo.gle)",
+      "Bash(powershell -Command:*)",
+      "Bash(grep:*)",
+      "Bash(cmd /c:*)",
+      "Bash(powershell -NoProfile -Command \"wmic logicaldisk get DeviceID,FreeSpace,Size\")",
+      "Bash(gh repo view:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(ls:*)"
+    ]
+  }
+}

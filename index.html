@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UFC Weekly Predictor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="app-header">
+            <h1>UFC Weekly Predictor</h1>
+            <nav class="main-nav">
+                <button class="nav-btn active" data-view="events">Events</button>
+                <button class="nav-btn" data-view="fight-card">Fight Card</button>
+                <button class="nav-btn" data-view="data-collection">Data</button>
+                <button class="nav-btn" data-view="predictions">Predictions</button>
+                <button class="nav-btn" data-view="results">Results</button>
+                <button class="nav-btn" data-view="accuracy">Accuracy</button>
+                <button class="nav-btn" data-view="analysis">Analysis</button>
+            </nav>
+            <button id="debug-db-btn" class="debug-btn" title="View Database Contents (Debug)">🔍 DB</button>
+            <button id="settings-btn" class="settings-btn" title="Settings">⚙️</button>
+        </header>
+
+        <!-- Active Event Banner -->
+        <div id="active-event-banner" class="active-event-banner hidden">
+            <span class="event-name"></span>
+            <span class="event-date"></span>
+            <span class="event-state"></span>
+            <button id="delete-event-btn" class="btn btn-danger btn-small" title="Delete this event">Delete
+                Event</button>
+        </div>
+
+        <!-- Main Content Area -->
+        <main id="main-content">
+            <!-- Event Manager View -->
+            <section id="events-view" class="view active">
+                <div class="view-header">
+                    <h2>Event Manager</h2>
+                    <button id="create-event-btn" class="btn btn-primary">+ New Event</button>
+                </div>
+
+                <!-- Create Event Modal -->
+                <div id="create-event-modal" class="modal hidden">
+                    <div class="modal-content">
+                        <h3>Create New Event</h3>
+                        <form id="create-event-form">
+                            <div class="form-group">
+                                <label for="event-name">Event Name</label>
+                                <input type="text" id="event-name" required placeholder="UFC 300">
+                            </div>
+                            <div class="form-group">
+                                <label for="event-date">Event Date</label>
+                                <input type="date" id="event-date" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="event-type">Event Type</label>
+                                <select id="event-type" required>
+                                    <option value="ppv">PPV</option>
+                                    <option value="fight-night">Fight Night</option>
+                                    <option value="abc">ABC</option>
+                                    <option value="espn">ESPN</option>
+                                </select>
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-secondary" id="cancel-event-btn">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Create Event</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Event List -->
+                <div id="events-list" class="events-grid">
+                    <p class="empty-state">No events yet. Create your first event to get started.</p>
+                </div>
+            </section>
+
+            <!-- Fight Card Discovery View -->
+            <section id="fight-card-view" class="view">
+                <div class="view-header state-fight-card">
+                    <h2>Fight Card Discovery</h2>
+                    <div class="view-actions">
+                        <button id="refetch-card-btn" class="btn btn-secondary">🔄 Re-fetch Card</button>
+                        <button id="add-fight-manual-btn" class="btn btn-secondary">+ Add Fight Manually</button>
+                        <button id="approve-card-btn" class="btn btn-success" disabled>Approve & Continue →</button>
+                    </div>
+                </div>
+
+                <div id="fight-card-status" class="fight-card-status">
+                    <div class="fetch-info">
+                        <span class="fetch-source">Source: <strong id="fetch-source-name">--</strong></span>
+                        <span class="fetch-time">Fetched: <strong id="fetch-time">--</strong></span>
+                    </div>
+                    <div class="fight-counts">
+                        <span class="count-item approved">
+                            <span id="approved-fight-count">0</span> Approved
+                        </span>
+                        <span class="count-item removed">
+                            <span id="removed-fight-count">0</span> Removed
+                        </span>
+                        <span class="count-item total">
+                            <span id="total-fetched-count">0</span> Total
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Fetching Progress -->
+                <div id="fetch-progress" class="fetch-progress hidden">
+                    <div class="progress-spinner"></div>
+                    <p class="progress-text">Searching for fight card...</p>
+                    <p class="progress-source">Trying: <span id="current-source">UFC.com</span></p>
+                </div>
+
+                <!-- Fetch Error -->
+                <div id="fetch-error" class="fetch-error hidden">
+                    <div class="error-icon">⚠️</div>
+                    <h4>Could not auto-fetch fight card</h4>
+                    <p id="fetch-error-message">Unable to fetch from any source.</p>
+                    <p>You can add fights manually using the button above, or try re-fetching.</p>
+                </div>
+
+                <!-- Fight Card Review List -->
+                <div id="fight-card-list" class="fight-card-list">
+                    <p class="empty-state">Select an event to fetch its fight card.</p>
+                </div>
+
+                <!-- Manual Fight Add Modal -->
+                <div id="manual-fight-modal" class="modal hidden">
+                    <div class="modal-content">
+                        <h3>Add Fight Manually</h3>
+                        <form id="manual-fight-form">
+                            <div class="form-group">
+                                <label for="manual-fighter-a">Fighter A (Red Corner) *</label>
+                                <input type="text" id="manual-fighter-a" required placeholder="Fighter Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="manual-fighter-b">Fighter B (Blue Corner) *</label>
+                                <input type="text" id="manual-fighter-b" required placeholder="Opponent Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="manual-weight-class">Weight Class *</label>
+                                <select id="manual-weight-class" required>
+                                    <option value="">Select...</option>
+                                    <option value="HW">Heavyweight</option>
+                                    <option value="LHW">Light Heavyweight</option>
+                                    <option value="MW">Middleweight</option>
+                                    <option value="WW">Welterweight</option>
+                                    <option value="LW">Lightweight</option>
+                                    <option value="FW">Featherweight</option>
+                                    <option value="BW">Bantamweight</option>
+                                    <option value="FLW">Flyweight</option>
+                                    <option value="WSW">Women's Strawweight</option>
+                                    <option value="WFLW">Women's Flyweight</option>
+                                    <option value="WBW">Women's Bantamweight</option>
+                                    <option value="WFW">Women's Featherweight</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>
+                                    <input type="checkbox" id="manual-is-main-card">
+                                    Main Card Fight
+                                </label>
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-secondary"
+                                    id="cancel-manual-fight-btn">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Add Fight</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Data Collection View -->
+            <section id="data-collection-view" class="view">
+                <div class="view-header state-pre-event">
+                    <h2>Data Collection</h2>
+                    <div class="view-actions">
+                        <button id="expand-all-fights-btn" class="btn btn-secondary btn-sm">Expand All</button>
+                        <button id="collapse-all-fights-btn" class="btn btn-secondary btn-sm">Collapse All</button>
+                        <button id="auto-fetch-data-btn" class="btn btn-secondary">Auto-Fetch All Data</button>
+                        <button id="paste-data-btn" class="btn btn-secondary">Paste Data</button>
+                        <button id="add-fight-btn" class="btn btn-primary">+ Add Fight</button>
+                        <button id="mark-complete-btn" class="btn btn-success" disabled>Mark Data Complete</button>
+                    </div>
+                </div>
+
+                <!-- Auto-fetch Progress -->
+                <div id="auto-fetch-progress" class="auto-fetch-progress hidden">
+                    <div class="progress-spinner"></div>
+                    <p class="progress-text" id="auto-fetch-status">Fetching fighter data...</p>
+                    <div class="source-status">
+                        <span class="source-badge" id="tapology-status">Tapology</span>
+                        <span class="source-badge" id="dratings-status">DRatings</span>
+                        <span class="source-badge" id="fightmatrix-status">FightMatrix</span>
+                        <span class="source-badge" id="ufcstats-status">UFCStats</span>
+                        <span class="source-badge" id="gemini-status">Gemini AI</span>
+                    </div>
+                </div>
+
+                <div id="data-status" class="data-status">
+                    <div class="status-item">
+                        <span class="status-label">Fights:</span>
+                        <span id="fight-count">0</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Complete:</span>
+                        <span id="complete-count">0</span>
+                    </div>
+                    <div class="status-item missing">
+                        <span class="status-label">Missing Data:</span>
+                        <span id="missing-count">0</span>
+                    </div>
+                    <div class="status-item sources">
+                        <span class="status-label">Sources:</span>
+                        <span id="sources-fetched">Manual Entry</span>
+                    </div>
+                </div>
+
+                <!-- Add/Edit Fight Modal -->
+                <div id="fight-modal" class="modal hidden">
+                    <div class="modal-content modal-large">
+                        <h3 id="fight-modal-title">Add Fight</h3>
+                        <form id="fight-form">
+                            <input type="hidden" id="fight-id">
+
+                            <!-- Basic Info -->
+                            <fieldset class="form-section">
+                                <legend>Fight Info</legend>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="weight-class">Weight Class *</label>
+                                        <select id="weight-class" required>
+                                            <option value="">Select...</option>
+                                            <option value="HW">Heavyweight</option>
+                                            <option value="LHW">Light Heavyweight</option>
+                                            <option value="MW">Middleweight</option>
+                                            <option value="WW">Welterweight</option>
+                                            <option value="LW">Lightweight</option>
+                                            <option value="FW">Featherweight</option>
+                                            <option value="BW">Bantamweight</option>
+                                            <option value="FLW">Flyweight</option>
+                                            <option value="WSW">Women's Strawweight</option>
+                                            <option value="WFLW">Women's Flyweight</option>
+                                            <option value="WBW">Women's Bantamweight</option>
+                                            <option value="WFW">Women's Featherweight</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="num-rounds">Rounds</label>
+                                        <select id="num-rounds">
+                                            <option value="3">3 Rounds</option>
+                                            <option value="5">5 Rounds (Main Event)</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>
+                                            <input type="checkbox" id="is-main-event">
+                                            Main/Co-Main Event
+                                        </label>
+                                    </div>
+                                </div>
+                            </fieldset>
+
+                            <!-- Fighter A -->
+                            <fieldset class="form-section fighter-section">
+                                <legend>Fighter A (Red Corner)</legend>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="fighter-a-name">Name *</label>
+                                        <input type="text" id="fighter-a-name" required placeholder="Fighter Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="fighter-a-record">Record</label>
+                                        <input type="text" id="fighter-a-record" placeholder="20-5-0">
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>Tapology Data</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-a-tapology-pct">Consensus % *</label>
+                                            <input type="number" id="fighter-a-tapology-pct" min="0" max="100"
+                                                step="0.1" placeholder="65">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-tapology-ko">KO/TKO %</label>
+                                            <input type="number" id="fighter-a-tapology-ko" min="0" max="100" step="0.1"
+                                                placeholder="30">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-tapology-sub">SUB %</label>
+                                            <input type="number" id="fighter-a-tapology-sub" min="0" max="100"
+                                                step="0.1" placeholder="15">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-tapology-dec">DEC %</label>
+                                            <input type="number" id="fighter-a-tapology-dec" min="0" max="100"
+                                                step="0.1" placeholder="55">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>DRatings & Fight Matrix</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-a-dratings">DRatings Win % *</label>
+                                            <input type="number" id="fighter-a-dratings" min="0" max="100" step="0.1"
+                                                placeholder="58">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-fightmatrix">Fight Matrix CIRRS</label>
+                                            <input type="number" id="fighter-a-fightmatrix" step="1" placeholder="1850">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>Career Stats (UFCStats)</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-a-slpm">SLpM</label>
+                                            <input type="number" id="fighter-a-slpm" min="0" step="0.01"
+                                                placeholder="4.5">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-td-avg">TD Avg/15min</label>
+                                            <input type="number" id="fighter-a-td-avg" min="0" step="0.01"
+                                                placeholder="2.1">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-sub-avg">Sub Avg</label>
+                                            <input type="number" id="fighter-a-sub-avg" min="0" step="0.1"
+                                                placeholder="0.5">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-ctrl-time">Ctrl Time/Rnd (min)</label>
+                                            <input type="number" id="fighter-a-ctrl-time" min="0" step="0.1"
+                                                placeholder="1.5">
+                                        </div>
+                                    </div>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-a-ko-win-pct">KO Win %</label>
+                                            <input type="number" id="fighter-a-ko-win-pct" min="0" max="100" step="0.1"
+                                                placeholder="45">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-sub-win-pct">SUB Win %</label>
+                                            <input type="number" id="fighter-a-sub-win-pct" min="0" max="100" step="0.1"
+                                                placeholder="20">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-a-finish-loss-pct">Finish Loss %</label>
+                                            <input type="number" id="fighter-a-finish-loss-pct" min="0" max="100"
+                                                step="0.1" placeholder="30">
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+
+                            <!-- Fighter B -->
+                            <fieldset class="form-section fighter-section">
+                                <legend>Fighter B (Blue Corner)</legend>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="fighter-b-name">Name *</label>
+                                        <input type="text" id="fighter-b-name" required placeholder="Fighter Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="fighter-b-record">Record</label>
+                                        <input type="text" id="fighter-b-record" placeholder="18-3-0">
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>Tapology Data</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-b-tapology-pct">Consensus % *</label>
+                                            <input type="number" id="fighter-b-tapology-pct" min="0" max="100"
+                                                step="0.1" placeholder="35">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-tapology-ko">KO/TKO %</label>
+                                            <input type="number" id="fighter-b-tapology-ko" min="0" max="100" step="0.1"
+                                                placeholder="25">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-tapology-sub">SUB %</label>
+                                            <input type="number" id="fighter-b-tapology-sub" min="0" max="100"
+                                                step="0.1" placeholder="10">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-tapology-dec">DEC %</label>
+                                            <input type="number" id="fighter-b-tapology-dec" min="0" max="100"
+                                                step="0.1" placeholder="65">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>DRatings & Fight Matrix</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-b-dratings">DRatings Win % *</label>
+                                            <input type="number" id="fighter-b-dratings" min="0" max="100" step="0.1"
+                                                placeholder="42">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-fightmatrix">Fight Matrix CIRRS</label>
+                                            <input type="number" id="fighter-b-fightmatrix" step="1" placeholder="1720">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="data-source-section">
+                                    <h4>Career Stats (UFCStats)</h4>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-b-slpm">SLpM</label>
+                                            <input type="number" id="fighter-b-slpm" min="0" step="0.01"
+                                                placeholder="3.8">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-td-avg">TD Avg/15min</label>
+                                            <input type="number" id="fighter-b-td-avg" min="0" step="0.01"
+                                                placeholder="1.5">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-sub-avg">Sub Avg</label>
+                                            <input type="number" id="fighter-b-sub-avg" min="0" step="0.1"
+                                                placeholder="0.3">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-ctrl-time">Ctrl Time/Rnd (min)</label>
+                                            <input type="number" id="fighter-b-ctrl-time" min="0" step="0.1"
+                                                placeholder="1.0">
+                                        </div>
+                                    </div>
+                                    <div class="form-row">
+                                        <div class="form-group">
+                                            <label for="fighter-b-ko-win-pct">KO Win %</label>
+                                            <input type="number" id="fighter-b-ko-win-pct" min="0" max="100" step="0.1"
+                                                placeholder="35">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-sub-win-pct">SUB Win %</label>
+                                            <input type="number" id="fighter-b-sub-win-pct" min="0" max="100" step="0.1"
+                                                placeholder="15">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="fighter-b-finish-loss-pct">Finish Loss %</label>
+                                            <input type="number" id="fighter-b-finish-loss-pct" min="0" max="100"
+                                                step="0.1" placeholder="25">
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-danger" id="delete-fight-btn"
+                                    style="display:none;">Delete Fight</button>
+                                <button type="button" class="btn btn-secondary" id="cancel-fight-btn">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Save Fight</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Paste Data Modal -->
+                <div id="paste-data-modal" class="modal hidden">
+                    <div class="modal-content modal-large">
+                        <h3>Paste Fighter Data</h3>
+                        <p class="modal-hint">Paste prediction data from Tapology, DRatings, or FightMatrix. The parser
+                            will auto-detect fighter names and percentages.</p>
+
+                        <div class="paste-tabs">
+                            <button type="button" class="paste-tab active" data-source="tapology">Tapology</button>
+                            <button type="button" class="paste-tab" data-source="dratings">DRatings</button>
+                            <button type="button" class="paste-tab" data-source="fightmatrix">FightMatrix</button>
+                            <button type="button" class="paste-tab" data-source="fightmatrix">FightMatrix</button>
+                            <button type="button" class="paste-tab" data-source="json">JSON</button>
+                            <div style="flex-grow: 1;"></div>
+                            <button type="button" id="load-extension-btn" class="btn btn-sm btn-success"
+                                style="padding: 4px 10px; font-size: 12px;">📥 Load from Extension</button>
+                        </div>
+
+                        <div class="paste-instructions" id="paste-instructions">
+                            <p><strong>Tapology:</strong> Go to the event page on Tapology, copy the community
+                                predictions section (including fighter names and percentages).</p>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="paste-data-input">Paste Data Here:</label>
+                            <textarea id="paste-data-input" rows="12"
+                                placeholder="Paste copied text here..."></textarea>
+                        </div>
+
+                        <div id="paste-preview" class="paste-preview hidden">
+                            <h4>Parsed Data Preview:</h4>
+                            <div id="paste-preview-content"></div>
+                        </div>
+
+                        <div class="form-actions">
+                            <button type="button" class="btn btn-secondary" id="cancel-paste-btn">Cancel</button>
+                            <button type="button" class="btn btn-secondary" id="preview-paste-btn">Preview</button>
+                            <button type="button" class="btn btn-primary" id="apply-paste-btn" disabled>Apply
+                                Data</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fights List -->
+                <div id="fights-list" class="fights-container">
+                    <p class="empty-state">No fights added. Click "Add Fight" to enter fight data.</p>
+                </div>
+            </section>
+
+            <!-- Predictions View -->
+            <section id="predictions-view" class="view">
+                <div class="view-header state-prediction">
+                    <h2>Predictions</h2>
+                    <div class="view-actions">
+                        <button id="expand-all-predictions-btn" class="btn btn-secondary btn-sm">Expand All</button>
+                        <button id="collapse-all-predictions-btn" class="btn btn-secondary btn-sm">Collapse All</button>
+                        <button id="ai-analysis-btn" class="btn btn-secondary btn-sm" disabled title="Generate AI fight analysis using Chrome's built-in AI">AI Analysis</button>
+                        <button id="generate-predictions-btn" class="btn btn-primary">Generate Predictions</button>
+                        <button id="confidence-rank-btn" class="btn btn-success" disabled>Confidence Rank</button>
+                    </div>
+                </div>
+
+                <div id="predictions-status" class="predictions-status hidden">
+                    <div class="confidence-legend">
+                        <span class="legend-item high">High Confidence (65%+)</span>
+                        <span class="legend-item medium">Medium (55-64%)</span>
+                        <span class="legend-item low">Low/Volatile (&lt;55%)</span>
+                    </div>
+                </div>
+
+                <div id="predictions-list" class="predictions-container">
+                    <p class="empty-state">Complete data collection to generate predictions.</p>
+                </div>
+
+                <!-- Confidence Ranking Modal -->
+                <div id="confidence-ranking-modal" class="modal hidden">
+                    <div class="modal-content modal-xlarge">
+                        <div class="modal-header">
+                            <h3>Confidence Rankings</h3>
+                            <div class="modal-actions">
+                                <button type="button" class="btn btn-secondary btn-sm" id="copy-ranking-btn">Copy
+                                    Ranking</button>
+                                <button type="button" class="btn btn-secondary btn-sm"
+                                    id="regenerate-ranking-btn">Regenerate</button>
+                                <button type="button" class="btn btn-secondary" id="close-ranking-btn">Close</button>
+                            </div>
+                        </div>
+
+                        <div id="confidence-ranking-content" class="confidence-ranking-content">
+                            <!-- Ranking header will be inserted here -->
+                            <div id="confidence-ranking-header"></div>
+
+                            <!-- Ranking tier legend -->
+                            <div class="ranking-legend">
+                                <span class="legend-item rank-high">Top Tier (High Confidence)</span>
+                                <span class="legend-item rank-medium">Middle Tier (Medium)</span>
+                                <span class="legend-item rank-low">Bottom Tier (Low Confidence)</span>
+                            </div>
+
+                            <!-- Ranking cards container -->
+                            <div id="confidence-ranking-list" class="confidence-ranking-list">
+                                <p class="empty-state">Generating rankings...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Entry View -->
+            <section id="results-view" class="view">
+                <div class="view-header state-post-event">
+                    <h2>Enter Results</h2>
+                    <div class="view-actions">
+                        <button id="paste-results-btn" class="btn btn-secondary">Paste Results from Extension</button>
+                        <button id="save-all-results-btn" class="btn btn-primary" disabled>Save All Results</button>
+                    </div>
+                </div>
+
+                <div id="results-paste-area" class="paste-area hidden">
+                    <textarea id="results-paste-input"
+                        placeholder="Paste JSON results data from Chrome extension here..."></textarea>
+                    <button id="apply-results-paste-btn" class="btn btn-primary">Apply Results</button>
+                </div>
+
+                <div id="results-list" class="results-container">
+                    <p class="empty-state">Generate predictions first, then enter results after the event.</p>
+                </div>
+            </section>
+
+            <!-- Accuracy Dashboard View -->
+            <section id="accuracy-view" class="view">
+                <div class="view-header">
+                    <h2>Accuracy Dashboard</h2>
+                </div>
+
+                <div id="accuracy-overview" class="accuracy-overview">
+                    <div class="accuracy-card">
+                        <h3>Overall Accuracy</h3>
+                        <div class="accuracy-stats">
+                            <div class="stat-item">
+                                <span class="stat-value" id="overall-winner-pct">--</span>
+                                <span class="stat-label">Winner %</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-value" id="overall-method-pct">--</span>
+                                <span class="stat-label">Method %</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-value" id="overall-round-pct">--</span>
+                                <span class="stat-label">Round %</span>
+                            </div>
+                        </div>
+                        <div class="stat-total">
+                            <span id="total-fights-tracked">0</span> fights tracked across <span
+                                id="total-events-tracked">0</span> events
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accuracy-sections">
+                    <div class="accuracy-section">
+                        <h3>By Weight Class</h3>
+                        <div id="accuracy-by-weight" class="accuracy-breakdown"></div>
+                    </div>
+
+                    <div class="accuracy-section">
+                        <h3>By Primary Source</h3>
+                        <div id="accuracy-by-source" class="accuracy-breakdown"></div>
+                    </div>
+
+                    <div class="accuracy-section">
+                        <h3>Volatility Performance</h3>
+                        <div id="accuracy-volatility" class="accuracy-breakdown"></div>
+                    </div>
+
+                    <div class="accuracy-section">
+                        <h3>By Event Type</h3>
+                        <div id="accuracy-by-event-type" class="accuracy-breakdown"></div>
+                    </div>
+                </div>
+
+                <div class="accuracy-history">
+                    <h3>Event History</h3>
+                    <div id="event-history-list" class="event-history"></div>
+                </div>
+            </section>
+
+            <!-- AI Analysis View -->
+            <section id="analysis-view" class="view">
+                <div class="view-header">
+                    <h2>Improvement Analysis</h2>
+                    <button id="run-analysis-btn" class="btn btn-primary">Run Analysis</button>
+                </div>
+
+                <div id="analysis-requirements" class="analysis-notice">
+                    <p>Analysis requires at least 3 completed events with results. Complete more events to unlock AI
+                        recommendations.</p>
+                    <p>Events with results: <span id="completed-events-count">0</span> / 3 minimum</p>
+                </div>
+
+                <div id="analysis-results" class="analysis-results hidden">
+                    <div class="analysis-section">
+                        <h3>Key Findings</h3>
+                        <div id="key-findings" class="findings-list"></div>
+                    </div>
+
+                    <div class="analysis-section">
+                        <h3 class="strategist-header">Strategist's Corner <span class="beta-tag">BETA</span></h3>
+                        <p class="section-subtitle">Betting Strategy & Unit Sizing</p>
+                        <div id="betting-strategy" class="strategy-container"></div>
+                    </div>
+
+                    <div class="analysis-section">
+                        <h3>Recommended Adjustments</h3>
+                        <div id="recommendations" class="recommendations-list"></div>
+                    </div>
+
+                    <div class="analysis-section">
+                        <h3>Trend Analysis</h3>
+                        <div id="trend-analysis" class="trend-charts"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Settings Modal -->
+        <div id="settings-modal" class="modal hidden">
+            <div class="modal-content">
+                <h3>Settings</h3>
+                <form id="settings-form">
+                    <div class="form-group">
+                        <label for="gemini-api-key">Gemini API Key</label>
+                        <input type="password" id="gemini-api-key" placeholder="Enter your Gemini API key">
+                        <p class="form-hint">Optional. Enables AI-powered fight card discovery when other sources fail.
+                            Get a free key at <a href="https://makersuite.google.com/app/apikey" target="_blank">Google
+                                AI Studio</a>.</p>
+                    </div>
+                    <div class="form-group">
+                        <label>
+                            <input type="checkbox" id="show-api-key">
+                            Show API key
+                        </label>
+                    </div>
+                    <div class="api-status">
+                        <span>Status: </span>
+                        <span id="api-status-text" class="status-not-configured">Not configured</span>
+                    </div>
+
+                    <hr style="margin: 1.5rem 0; border-color: var(--border-color);">
+
+                    <div class="form-group">
+                        <label>Auto-Save Folder</label>
+                        <p class="form-hint">Choose a folder where prediction data will be automatically saved as JSON
+                            files.</p>
+                        <div style="display: flex; gap: 0.5rem; align-items: center; margin-top: 0.5rem;">
+                            <button type="button" id="pick-save-folder-btn" class="btn btn-secondary">Choose
+                                Folder</button>
+                            <span id="save-folder-name" style="color: var(--text-secondary);">Not configured</span>
+                        </div>
+                    </div>
+
+                    <hr style="margin: 1.5rem 0; border-color: var(--border-color);">
+
+                    <div class="form-group">
+                        <label><strong>Chrome AI Analysis</strong></label>
+                        <p class="form-hint">Uses Chrome's built-in Gemini Nano model for on-device fight analysis. No API key needed. Requires Chrome 138+.</p>
+                        <div class="api-status" style="margin: 0.5rem 0;">
+                            <span>Status: </span>
+                            <span id="chrome-ai-status-text" class="status-not-configured">Checking...</span>
+                        </div>
+                        <label style="display: block; margin-top: 0.5rem;">
+                            <input type="checkbox" id="chrome-ai-enabled" checked>
+                            Enable AI fight analysis
+                        </label>
+                        <label style="display: block; margin-top: 0.25rem;">
+                            <input type="checkbox" id="chrome-ai-news-enabled" checked>
+                            Include MMA news context
+                        </label>
+                        <div id="news-sources-config" style="margin-top: 0.5rem; padding-left: 1.5rem;">
+                            <label style="display: block;"><input type="checkbox" class="news-source-toggle" data-source="mmajunkie" checked> MMA Junkie</label>
+                            <label style="display: block;"><input type="checkbox" class="news-source-toggle" data-source="mmafighting" checked> MMA Fighting</label>
+                            <label style="display: block;"><input type="checkbox" class="news-source-toggle" data-source="espnmma" checked> ESPN MMA</label>
+                            <label style="display: block;"><input type="checkbox" class="news-source-toggle" data-source="sherdog" checked> Sherdog</label>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary" id="cancel-settings-btn">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save Settings</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Loading Overlay -->
+        <div id="loading-overlay" class="loading-overlay hidden">
+            <div class="loading-spinner"></div>
+            <p class="loading-text">Loading...</p>
+        </div>
+
+        <!-- Toast Notifications -->
+        <div id="toast-container" class="toast-container"></div>
+    </div>
+
+    <script src="storage.js"></script>
+    <script src="fight-card-fetcher.js"></script>
+    <script src="fighter-data-fetcher.js"></script>
+    <script src="prediction-engine.js"></script>
+    <script src="confidence-ranker.js"></script>
+    <script src="accuracy-tracker.js"></script>
+    <script src="ai-analyzer.js"></script>
+    <script src="chrome-ai.js"></script>
+    <script src="ui-components.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

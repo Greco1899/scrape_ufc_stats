@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Generate UFC Collector Icons</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    canvas { border: 1px solid #ccc; margin: 10px; }
+    .icon-row { display: flex; gap: 20px; align-items: center; margin-bottom: 20px; }
+    button { padding: 10px 20px; font-size: 14px; cursor: pointer; }
+    a { display: block; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>UFC Data Collector Icon Generator</h1>
+  <p>Click each "Download" link to save the icons, then place them in the icons folder.</p>
+
+  <div class="icon-row">
+    <div>
+      <canvas id="icon128" width="128" height="128"></canvas>
+      <a id="download128" download="icon128.png">Download 128x128</a>
+    </div>
+    <div>
+      <canvas id="icon48" width="48" height="48"></canvas>
+      <a id="download48" download="icon48.png">Download 48x48</a>
+    </div>
+    <div>
+      <canvas id="icon16" width="16" height="16"></canvas>
+      <a id="download16" download="icon16.png">Download 16x16</a>
+    </div>
+  </div>
+
+  <script>
+    function drawIcon(canvas) {
+      const ctx = canvas.getContext('2d');
+      const size = canvas.width;
+      const padding = size * 0.1;
+
+      // Background - rounded rectangle
+      ctx.fillStyle = '#1a73e8';
+      roundRect(ctx, 0, 0, size, size, size * 0.15);
+      ctx.fill();
+
+      // Draw octagon
+      ctx.fillStyle = '#ffffff';
+      ctx.beginPath();
+      const cx = size / 2;
+      const cy = size / 2;
+      const r = size * 0.35;
+      for (let i = 0; i < 8; i++) {
+        const angle = (i * Math.PI / 4) - Math.PI / 8;
+        const x = cx + r * Math.cos(angle);
+        const y = cy + r * Math.sin(angle);
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      }
+      ctx.closePath();
+      ctx.fill();
+
+      // Draw "U" in center
+      ctx.fillStyle = '#1a73e8';
+      ctx.font = `bold ${size * 0.3}px Arial`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('U', cx, cy + size * 0.02);
+    }
+
+    function roundRect(ctx, x, y, w, h, r) {
+      ctx.beginPath();
+      ctx.moveTo(x + r, y);
+      ctx.lineTo(x + w - r, y);
+      ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+      ctx.lineTo(x + w, y + h - r);
+      ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+      ctx.lineTo(x + r, y + h);
+      ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+      ctx.lineTo(x, y + r);
+      ctx.quadraticCurveTo(x, y, x + r, y);
+      ctx.closePath();
+    }
+
+    // Draw all icons
+    ['128', '48', '16'].forEach(size => {
+      const canvas = document.getElementById('icon' + size);
+      drawIcon(canvas);
+
+      // Set download link
+      const link = document.getElementById('download' + size);
+      link.href = canvas.toDataURL('image/png');
+    });
+  </script>
+</body>
+</html>

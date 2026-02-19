@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "UFC Predictor Data Collector",
+  "version": "1.1.0",
+  "description": "Automatically collects fighter prediction data from Tapology, DRatings, and FightMatrix for UFC Weekly Predictor",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.tapology.com/*",
+    "https://tapology.com/*",
+    "https://www.dratings.com/*",
+    "https://dratings.com/*",
+    "https://www.fightmatrix.com/*",
+    "https://fightmatrix.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
