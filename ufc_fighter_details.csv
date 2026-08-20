@@ -171,7 +171,7 @@ Shinsho,Anzai,Animal,http://ufcstats.com/fighter-details/4665f9f909cd7214
 Jin,Aoi,,http://ufcstats.com/fighter-details/031da10a00c8ccd4
 Shinya,Aoki,Tobikan Judan,http://ufcstats.com/fighter-details/79ded75550efc139
 ,Aoriqileng,The Mongolian Murderer,http://ufcstats.com/fighter-details/7d420039bbfe7c1a
-Alexis,Apodaca,,http://ufcstats.com/fighter-details/14a48a86b2b57f0e
+Alex,Apodaca,,http://ufcstats.com/fighter-details/14a48a86b2b57f0e
 Josh,Appelt,,http://ufcstats.com/fighter-details/0c1a04afca64e38f
 Erik,Apple,,http://ufcstats.com/fighter-details/1ccff7f0cfdf85eb
 Kenji,Arai,,http://ufcstats.com/fighter-details/269d103c96a4c3a5
@@ -875,6 +875,7 @@ Chris,Curtis,Action-Man,http://ufcstats.com/fighter-details/5442f1bc4b47eaf3
 Ion,Cutelaba,The Hulk,http://ufcstats.com/fighter-details/cd13728ae1151f46
 Gleidson,Cutis,Poney,http://ufcstats.com/fighter-details/44a94bbde42246e4
 Sarah,D'alelio,The Monster,http://ufcstats.com/fighter-details/ac45450f75d14f16
+Douglas,Da Lapa,Robozinho,http://ufcstats.com/fighter-details/d399b2bfa2c27d9e
 Marcos,da Matta,Parrumpinha,http://ufcstats.com/fighter-details/3b6d84343579fd33
 Henrique,da Silva,Frankenstein,http://ufcstats.com/fighter-details/b0bd0c5425668b8f
 Ariane,da Silva,Queen of Violence,http://ufcstats.com/fighter-details/6551c64fbcd1a467
@@ -941,7 +942,6 @@ Isabela,de Padua,Belinha,http://ufcstats.com/fighter-details/e0f959f65d0406b4
 Gloria,de Paula,Glorinha,http://ufcstats.com/fighter-details/5dd180c8b3196786
 Germaine,de Randamie,The Iron Lady,http://ufcstats.com/fighter-details/1d239d571e342453
 Reinier,de Ridder,RdR,http://ufcstats.com/fighter-details/d549cefc7c54ab78
-Hector,de Sousa Santiago,,http://ufcstats.com/fighter-details/8e4902b4a8045070
 Crezio,de Souza,,http://ufcstats.com/fighter-details/3746e21bb508391a
 Carl,Deaton,The Anishinaabe Kid,http://ufcstats.com/fighter-details/914a897455693650
 Tom,DeBlass,,http://ufcstats.com/fighter-details/0bcfe2513cb3bc39
@@ -1814,7 +1814,7 @@ David,Hulett,Hollywood,http://ufcstats.com/fighter-details/b0718335e9868cfd
 Dominik,Humburger,,http://ufcstats.com/fighter-details/e4cbc82c36e47299
 Bryan,Humes,,http://ufcstats.com/fighter-details/b9c75e7fc910f587
 Abongo,Humphrey,,http://ufcstats.com/fighter-details/cb1b4d237b0079e6
-Ronald,Humphrey,,http://ufcstats.com/fighter-details/15e0d2df09025bda
+Ronald,Humphrey,The Career Ender,http://ufcstats.com/fighter-details/15e0d2df09025bda
 Harry,Hunsucker,The Hurricane,http://ufcstats.com/fighter-details/f703250471acaf96
 Mark,Hunt,Super Samoan,http://ufcstats.com/fighter-details/eef9b891edbd4604
 Zevan,Hunt,Cheese,http://ufcstats.com/fighter-details/da27d061bad0f341
@@ -2342,7 +2342,7 @@ Philipe,Lins,Monstro,http://ufcstats.com/fighter-details/53c943c873cffe90
 Tainara,Lisboa,Thai Panther,http://ufcstats.com/fighter-details/2c5f5749569eef66
 Dean,Lister,The Boogeyman,http://ufcstats.com/fighter-details/68c6cd5287b473a7
 Wesley,Little,,http://ufcstats.com/fighter-details/008c6e1a25751575
-Liu,Ce,,http://ufcstats.com/fighter-details/a9936818d709e2d7
+Liu,Ce,The Oriental Dragon,http://ufcstats.com/fighter-details/a9936818d709e2d7
 Adam,Livingston,Bomb,http://ufcstats.com/fighter-details/515890922fe9ce96
 James,Llontop,Goku,http://ufcstats.com/fighter-details/93b2b7caa457cbea
 Abner,Lloveras,Skullman,http://ufcstats.com/fighter-details/6448e57a9533b7e4
@@ -2459,7 +2459,7 @@ Klayton,Mai,,http://ufcstats.com/fighter-details/7a9c1bb08a743d7f
 Demian,Maia,,http://ufcstats.com/fighter-details/427b5953ac8e3a27
 Jennifer,Maia,,http://ufcstats.com/fighter-details/8e1f36476ef02a6a
 Nayara,Maia,Capita,http://ufcstats.com/fighter-details/03b1b79b34eaf217
-Yilizhati,Maimaitijiang,,http://ufcstats.com/fighter-details/df1e855932897f45
+Yilizhati,Maimaitijiang,The Taranchi,http://ufcstats.com/fighter-details/df1e855932897f45
 Roshan,Mainam,The Indian Notorious,http://ufcstats.com/fighter-details/b301292b1bc92bdb
 Levan,Makashvili,The Hornet,http://ufcstats.com/fighter-details/938ad489fb7a1f31
 John,Makdessi,The Bull,http://ufcstats.com/fighter-details/c21a036b4e012f1c
@@ -2982,6 +2982,7 @@ Said,Nurmagomedov,,http://ufcstats.com/fighter-details/0fd5f4b838e890cc
 Abubakar,Nurmagomedov,,http://ufcstats.com/fighter-details/029e1293e609fd74
 Umar,Nurmagomedov,,http://ufcstats.com/fighter-details/2b6fc1c02736833d
 Adilet,Nurmatov,Kok-Zhal,http://ufcstats.com/fighter-details/689502703bbfe5f2
+Francesco,Nuzzi,Berserker,http://ufcstats.com/fighter-details/874cfc98877daecd
 Kennedy,Nzechukwu,Chosen,http://ufcstats.com/fighter-details/8667caa0451d245b
 Jake,O'Brien,Irish,http://ufcstats.com/fighter-details/20bcc9966affb19c
 TJ,O'Brien,The Spider,http://ufcstats.com/fighter-details/d25b93992f285953
@@ -3214,7 +3215,7 @@ Vitor,Petrino,,http://ufcstats.com/fighter-details/71171fc96445bf65
 Andre,Petroski,,http://ufcstats.com/fighter-details/5f61780fe5e9b6d0
 Armen,Petrosyan,Superman,http://ufcstats.com/fighter-details/369ea36e450ae62a
 Ivana,Petrovic,,http://ufcstats.com/fighter-details/38c5817ade8a8014
-Carlos,Petruzella,Tito,http://ufcstats.com/fighter-details/2e1f3640443272ad
+Carlos,Petruzella,El Tito,http://ufcstats.com/fighter-details/2e1f3640443272ad
 Seth,Petruzelli,The Silverback,http://ufcstats.com/fighter-details/93b9496275bbbf80
 Peter,Petties,The Joker,http://ufcstats.com/fighter-details/7ea5d60d2e6a8ad0
 Anthony,Pettis,Showtime,http://ufcstats.com/fighter-details/cbb682f5fcc44bfc
@@ -3230,7 +3231,7 @@ Aaron,Phillips,The Dragon,http://ufcstats.com/fighter-details/34c2b3656f88f7ef
 Elizabeth,Phillips,,http://ufcstats.com/fighter-details/dcbf01d605681ad1
 John,Phillips,The Welsh Wrecking Machine,http://ufcstats.com/fighter-details/e9ac7bfb65c25497
 Kyler,Phillips,The Matrix,http://ufcstats.com/fighter-details/60425d07ef4b91a7
-Mario,Piazzon,,http://ufcstats.com/fighter-details/44f234a36324e6c8
+Mario,Piazzon,The Shark,http://ufcstats.com/fighter-details/44f234a36324e6c8
 Nick,Pica,The Silverback,http://ufcstats.com/fighter-details/7922e8269adcc25a
 Nick,Piccininni,,http://ufcstats.com/fighter-details/a5cb1c29461853ca
 Adam,Piccolotti,,http://ufcstats.com/fighter-details/fa399f7f6e17f7f5
@@ -3645,6 +3646,7 @@ Jorge,Santiago,The Sandman,http://ufcstats.com/fighter-details/f8dc544e7077d014
 Mike,Santiago,,http://ufcstats.com/fighter-details/bc656db347f31e19
 Will,Santiago,The Brown Bomber,http://ufcstats.com/fighter-details/4920292f5d9b76df
 Richie,Santiago,The Milford Mauler,http://ufcstats.com/fighter-details/9f95d6b5b459cc6b
+Hector,Santiago,,http://ufcstats.com/fighter-details/8e4902b4a8045070
 Jose,Santibanez,,http://ufcstats.com/fighter-details/8299206ccebc44a7
 Art,Santore,Pachuco,http://ufcstats.com/fighter-details/012fc7cd0779c09a
 Adriano,Santos,,http://ufcstats.com/fighter-details/c6e6926a81adcd00
@@ -4333,7 +4335,7 @@ Pablo,Villaseca,El Gallo,http://ufcstats.com/fighter-details/34f93dfbd43b2144
 Joey,Villasenor,Smokin' Joe,http://ufcstats.com/fighter-details/15515e797aedc137
 Danillo,Villefort,Indio,http://ufcstats.com/fighter-details/fd87b1bbfcde9d5e
 Yuri,Villefort,,http://ufcstats.com/fighter-details/0fb1e2694a39a02f
-Treston,Vines,TVTime,http://ufcstats.com/fighter-details/563a1d42bb0e3cef
+Treston,Vines,TV Time,http://ufcstats.com/fighter-details/563a1d42bb0e3cef
 Marcos,Vinicius,Vina,http://ufcstats.com/fighter-details/e363b21261814830
 Erick,Visconde,,http://ufcstats.com/fighter-details/65ff41ab071ab326
 Brandon,Visher,The Viper,http://ufcstats.com/fighter-details/7c4ec656d8fcb867
