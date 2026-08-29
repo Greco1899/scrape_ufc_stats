@@ -1,56 +1,106 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 1,Anthony Hernandez,0,10 of 19,52%,10 of 19,0 of 7,0%,0,0,2:48,10 of 19,0 of 0,0 of 0,5 of 12,5 of 7,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 2,Anthony Hernandez,0,19 of 39,48%,19 of 39,1 of 2,50%,0,0,1:02,19 of 39,0 of 0,0 of 0,18 of 37,1 of 2,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 3,Anthony Hernandez,0,12 of 20,60%,17 of 26,1 of 9,11%,0,0,3:49,12 of 20,0 of 0,0 of 0,4 of 12,5 of 5,3 of 3
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 4,Anthony Hernandez,0,25 of 50,50%,26 of 51,1 of 6,16%,0,0,1:20,24 of 49,1 of 1,0 of 0,21 of 44,4 of 6,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 5,Anthony Hernandez,0,24 of 31,77%,39 of 49,0 of 5,0%,0,0,1:41,24 of 31,0 of 0,0 of 0,16 of 20,5 of 8,3 of 3
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 1,Gregory Rodrigues,0,25 of 33,75%,52 of 62,0 of 0,---,0,0,0:04,15 of 21,10 of 12,0 of 0,14 of 21,9 of 10,2 of 2
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 2,Gregory Rodrigues,2,52 of 83,62%,66 of 98,0 of 0,---,0,0,1:12,26 of 53,14 of 16,12 of 14,41 of 65,5 of 8,6 of 10
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 3,Gregory Rodrigues,0,12 of 23,52%,20 of 31,0 of 0,---,0,0,0:00,10 of 19,1 of 3,1 of 1,5 of 12,7 of 11,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 4,Gregory Rodrigues,0,58 of 95,61%,62 of 99,0 of 0,---,0,0,0:00,42 of 76,8 of 11,8 of 8,54 of 89,4 of 6,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 5,Gregory Rodrigues,1,27 of 49,55%,43 of 69,0 of 0,---,0,0,1:24,18 of 40,6 of 6,3 of 3,21 of 41,6 of 8,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 1,Serghei Spivac,0,7 of 29,24%,7 of 29,0 of 0,---,0,0,0:00,7 of 29,0 of 0,0 of 0,7 of 29,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 2,Serghei Spivac,0,3 of 5,60%,12 of 14,0 of 1,0%,0,1,0:22,3 of 5,0 of 0,0 of 0,1 of 3,0 of 0,2 of 2
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 3,Serghei Spivac,0,13 of 33,39%,14 of 34,0 of 1,0%,0,0,0:00,12 of 31,1 of 2,0 of 0,13 of 33,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 1,Vitor Petrino,0,23 of 41,56%,23 of 41,0 of 0,---,0,0,0:00,3 of 16,8 of 12,12 of 13,23 of 41,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 2,Vitor Petrino,0,19 of 24,79%,70 of 90,1 of 2,50%,0,0,4:09,15 of 19,3 of 4,1 of 1,1 of 2,2 of 3,16 of 19
-UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 3,Vitor Petrino,0,22 of 34,64%,33 of 46,3 of 4,75%,0,0,1:58,12 of 23,2 of 3,8 of 8,19 of 31,2 of 2,1 of 1
-UFC Fight Night: Hernandez vs. Rodrigues,Reinier de Ridder vs. Roman Dolidze,Round 1,Reinier de Ridder,0,71 of 83,85%,106 of 119,0 of 0,---,0,0,3:41,70 of 82,1 of 1,0 of 0,3 of 5,0 of 0,68 of 78
-UFC Fight Night: Hernandez vs. Rodrigues,Reinier de Ridder vs. Roman Dolidze,Round 1,Roman Dolidze,0,1 of 4,25%,4 of 8,0 of 0,---,0,0,0:00,0 of 3,0 of 0,1 of 1,1 of 4,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 1,MarQuel Mederos,0,41 of 58,70%,50 of 67,0 of 3,0%,0,1,0:50,26 of 41,3 of 4,12 of 13,38 of 51,3 of 5,0 of 2
-UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 2,MarQuel Mederos,1,32 of 48,66%,32 of 48,0 of 1,0%,0,0,0:04,26 of 42,2 of 2,4 of 4,27 of 41,5 of 7,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 1,Mason Jones,0,48 of 97,49%,55 of 104,1 of 1,100%,0,0,0:30,32 of 79,13 of 15,3 of 3,36 of 83,8 of 9,4 of 5
-UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 2,Mason Jones,0,29 of 54,53%,29 of 54,0 of 0,---,0,0,0:00,21 of 44,6 of 8,2 of 2,22 of 46,7 of 8,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Carli Judice vs. Jeisla Chaves,Round 1,Carli Judice,1,16 of 35,45%,16 of 35,0 of 0,---,0,0,0:02,9 of 25,7 of 10,0 of 0,12 of 31,2 of 2,2 of 2
-UFC Fight Night: Hernandez vs. Rodrigues,Carli Judice vs. Jeisla Chaves,Round 1,Jeisla Chaves,0,10 of 28,35%,10 of 28,0 of 0,---,0,0,0:00,4 of 21,5 of 6,1 of 1,9 of 27,1 of 1,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Wint vs. Terrance Chatman,Round 1,Anthony Wint,0,5 of 9,55%,46 of 50,1 of 3,33%,1,0,2:42,2 of 6,1 of 1,2 of 2,4 of 8,0 of 0,1 of 1
-UFC Fight Night: Hernandez vs. Rodrigues,Anthony Wint vs. Terrance Chatman,Round 1,Terrance Chatman,0,1 of 4,25%,2 of 5,0 of 0,---,1,0,0:02,1 of 3,0 of 0,0 of 1,1 of 4,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Jamall Emmers vs. Lerryan Douglas,Round 1,Jamall Emmers,1,17 of 29,58%,17 of 29,0 of 0,---,0,0,0:02,10 of 20,2 of 3,5 of 6,14 of 25,1 of 1,2 of 3
-UFC Fight Night: Hernandez vs. Rodrigues,Jamall Emmers vs. Lerryan Douglas,Round 1,Lerryan Douglas,0,14 of 27,51%,14 of 27,0 of 0,---,0,0,0:00,6 of 17,1 of 2,7 of 8,14 of 25,0 of 2,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Kennedy Nzechukwu vs. Shamil Gaziev,Round 1,Kennedy Nzechukwu,0,3 of 7,42%,3 of 7,0 of 0,---,0,0,0:00,3 of 7,0 of 0,0 of 0,3 of 7,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Kennedy Nzechukwu vs. Shamil Gaziev,Round 1,Shamil Gaziev,1,2 of 5,40%,2 of 5,0 of 0,---,0,0,0:00,2 of 4,0 of 1,0 of 0,2 of 5,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 1,Chris Padilla,0,27 of 43,62%,27 of 43,0 of 0,---,0,0,0:00,7 of 21,6 of 8,14 of 14,27 of 43,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 2,Chris Padilla,0,46 of 83,55%,46 of 83,0 of 2,0%,0,0,0:02,16 of 48,11 of 15,19 of 20,43 of 78,3 of 5,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 3,Chris Padilla,1,52 of 101,51%,52 of 101,1 of 1,100%,1,0,0:43,40 of 85,4 of 8,8 of 8,37 of 81,5 of 7,10 of 13
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 1,Nasrat Haqparast,0,13 of 36,36%,13 of 36,0 of 0,---,0,0,0:00,5 of 25,7 of 7,1 of 4,13 of 36,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 2,Nasrat Haqparast,0,29 of 64,45%,29 of 64,0 of 0,---,0,0,0:00,20 of 55,9 of 9,0 of 0,25 of 60,4 of 4,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 3,Nasrat Haqparast,0,29 of 68,42%,31 of 70,0 of 2,0%,0,0,0:00,18 of 53,8 of 12,3 of 3,20 of 57,9 of 11,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Marcio Barbosa vs. Ryan Kuse,Round 1,Marcio Barbosa,1,11 of 25,44%,11 of 25,0 of 0,---,0,0,0:12,8 of 22,3 of 3,0 of 0,10 of 23,1 of 2,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Marcio Barbosa vs. Ryan Kuse,Round 1,Ryan Kuse,0,5 of 21,23%,5 of 21,0 of 5,0%,0,0,0:00,4 of 17,0 of 3,1 of 1,5 of 21,0 of 0,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 1,Gauge Young,0,48 of 91,52%,62 of 106,1 of 2,50%,0,0,1:13,32 of 71,7 of 9,9 of 11,38 of 74,3 of 5,7 of 12
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 2,Gauge Young,0,48 of 92,52%,50 of 94,0 of 1,0%,0,0,0:27,28 of 65,15 of 18,5 of 9,45 of 88,3 of 4,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 3,Gauge Young,0,41 of 70,58%,41 of 70,2 of 6,33%,0,0,0:59,33 of 56,7 of 13,1 of 1,39 of 65,2 of 5,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 1,Stan Dorsainvil,0,23 of 81,28%,23 of 81,0 of 2,0%,0,0,0:01,19 of 74,2 of 5,2 of 2,18 of 74,5 of 7,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 2,Stan Dorsainvil,0,50 of 116,43%,55 of 121,1 of 3,33%,0,0,0:40,42 of 106,5 of 7,3 of 3,38 of 96,11 of 19,1 of 1
-UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 3,Stan Dorsainvil,0,50 of 101,49%,55 of 107,1 of 2,50%,0,0,0:48,45 of 92,4 of 7,1 of 2,33 of 79,17 of 22,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Wes Schultz vs. Jackson McVey,Round 1,Wes Schultz,0,24 of 43,55%,28 of 48,1 of 1,100%,1,0,1:05,11 of 27,12 of 15,1 of 1,20 of 37,4 of 6,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Wes Schultz vs. Jackson McVey,Round 1,Jackson McVey,1,38 of 78,48%,40 of 80,0 of 0,---,0,0,0:14,32 of 69,6 of 9,0 of 0,34 of 72,1 of 3,3 of 3
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 1,Shanelle Dyer,0,37 of 63,58%,38 of 64,0 of 0,---,0,0,0:38,19 of 40,8 of 9,10 of 14,32 of 57,5 of 6,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 2,Shanelle Dyer,0,66 of 98,67%,67 of 99,1 of 1,100%,0,0,0:46,39 of 71,19 of 19,8 of 8,50 of 81,16 of 17,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 3,Shanelle Dyer,0,33 of 56,58%,34 of 57,0 of 0,---,0,0,0:00,26 of 47,2 of 4,5 of 5,32 of 53,1 of 3,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 1,Elise Reed,0,19 of 40,47%,28 of 50,0 of 0,---,0,0,0:06,3 of 19,10 of 11,6 of 10,17 of 37,2 of 3,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 2,Elise Reed,0,20 of 43,46%,21 of 44,0 of 0,---,0,0,0:09,7 of 22,6 of 10,7 of 11,17 of 39,3 of 4,0 of 0
-UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 3,Elise Reed,0,10 of 21,47%,10 of 21,0 of 0,---,0,0,0:03,3 of 8,5 of 10,2 of 3,10 of 21,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Umar Nurmagomedov,0,7 of 10,70%,17 of 21,1 of 1,100%,0,0,1:58,3 of 5,0 of 0,4 of 5,7 of 10,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Umar Nurmagomedov,0,6 of 11,54%,6 of 11,0 of 2,0%,0,0,0:00,4 of 9,0 of 0,2 of 2,6 of 11,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Song Yadong,0,5 of 10,50%,18 of 23,0 of 0,---,1,0,0:00,1 of 5,2 of 2,2 of 3,5 of 10,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Song Yadong,1,6 of 13,46%,6 of 13,0 of 0,---,0,0,0:02,4 of 10,1 of 1,1 of 2,4 of 10,0 of 0,2 of 3
+UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Yan Xiaonan,0,19 of 59,32%,19 of 59,0 of 0,---,0,0,0:00,11 of 41,3 of 6,5 of 12,18 of 56,1 of 3,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Denise Gomes,1,18 of 48,37%,20 of 50,0 of 0,---,0,0,0:00,12 of 35,3 of 5,3 of 8,16 of 45,0 of 0,2 of 3
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Aoriqileng,0,13 of 25,52%,17 of 29,0 of 0,---,0,0,0:00,5 of 12,4 of 8,4 of 5,13 of 25,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Aoriqileng,0,1 of 3,33%,1 of 3,0 of 0,---,0,0,0:00,0 of 1,1 of 1,0 of 1,1 of 3,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Kai Asakura,0,15 of 34,44%,17 of 36,0 of 1,0%,0,0,0:33,9 of 24,3 of 4,3 of 6,14 of 33,1 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Kai Asakura,1,12 of 16,75%,12 of 16,0 of 0,---,0,0,0:06,10 of 14,2 of 2,0 of 0,7 of 10,0 of 0,5 of 6
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Alex Perez,0,3 of 21,14%,13 of 32,1 of 1,100%,0,0,1:31,2 of 15,0 of 3,1 of 3,3 of 20,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Alex Perez,0,3 of 11,27%,31 of 41,3 of 3,100%,0,0,3:06,2 of 8,0 of 1,1 of 2,3 of 10,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Alex Perez,0,4 of 11,36%,8 of 15,0 of 4,0%,0,0,2:43,2 of 8,2 of 3,0 of 0,4 of 11,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Sumudaerji,0,12 of 28,42%,25 of 41,0 of 0,---,0,0,0:00,2 of 14,2 of 4,8 of 10,12 of 28,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Sumudaerji,0,11 of 20,55%,16 of 27,0 of 0,---,0,0,0:00,3 of 11,1 of 2,7 of 7,11 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Sumudaerji,0,18 of 32,56%,44 of 58,0 of 2,0%,0,0,0:14,13 of 25,2 of 3,3 of 4,16 of 30,2 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Liu Ce,2,59 of 82,71%,60 of 83,0 of 0,---,0,0,0:04,42 of 62,9 of 12,8 of 8,54 of 75,5 of 7,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Levi Rodrigues Jr.,0,28 of 57,49%,28 of 57,0 of 2,0%,0,0,0:44,23 of 51,2 of 2,3 of 4,27 of 56,1 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Bilal Hasan,0,38 of 88,43%,41 of 96,1 of 1,100%,0,0,1:03,18 of 52,16 of 28,4 of 8,24 of 72,8 of 9,6 of 7
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Bilal Hasan,1,15 of 41,36%,15 of 41,0 of 0,---,0,0,0:00,10 of 29,4 of 9,1 of 3,14 of 39,0 of 1,1 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Nilson Rojas,0,17 of 38,44%,21 of 42,0 of 0,---,0,0,0:03,8 of 25,9 of 13,0 of 0,13 of 33,4 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Nilson Rojas,0,16 of 28,57%,16 of 28,0 of 0,---,0,0,0:00,9 of 21,4 of 4,3 of 3,15 of 26,1 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Namsrai Batbayar,0,12 of 44,27%,12 of 44,0 of 0,---,0,0,0:00,5 of 31,3 of 4,4 of 9,12 of 44,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Namsrai Batbayar,0,31 of 77,40%,31 of 77,0 of 0,---,0,0,0:00,17 of 60,5 of 7,9 of 10,29 of 75,2 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Namsrai Batbayar,0,8 of 20,40%,8 of 20,0 of 1,0%,0,0,0:08,2 of 10,1 of 1,5 of 9,8 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Andre Lima,0,14 of 20,70%,14 of 20,0 of 0,---,0,0,0:00,7 of 12,2 of 2,5 of 6,14 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Andre Lima,0,25 of 42,59%,25 of 42,0 of 0,---,0,0,0:00,14 of 30,5 of 6,6 of 6,25 of 42,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Andre Lima,0,8 of 15,53%,8 of 15,0 of 0,---,1,1,0:13,2 of 7,2 of 2,4 of 6,8 of 15,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Rei Tsuruya,0,39 of 67,58%,71 of 101,2 of 4,50%,1,0,3:58,39 of 67,0 of 0,0 of 0,0 of 0,0 of 0,39 of 67
+UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Kevin Borjas,0,0 of 0,---,1 of 3,0 of 0,---,0,0,0:00,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Jack Jenkins,0,13 of 36,36%,13 of 36,0 of 0,---,0,0,0:00,5 of 23,0 of 0,8 of 13,13 of 36,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Jack Jenkins,0,7 of 10,70%,35 of 43,0 of 1,0%,1,1,3:17,5 of 8,2 of 2,0 of 0,3 of 5,2 of 3,2 of 2
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Jack Jenkins,0,23 of 49,46%,24 of 51,0 of 4,0%,0,0,1:30,8 of 31,7 of 7,8 of 11,16 of 39,7 of 10,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Sean Woodson,0,25 of 60,41%,25 of 60,0 of 0,---,0,0,0:00,12 of 40,4 of 8,9 of 12,25 of 60,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Sean Woodson,0,2 of 6,33%,45 of 52,0 of 2,0%,0,0,1:11,0 of 2,0 of 2,2 of 2,2 of 5,0 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Sean Woodson,0,31 of 63,49%,60 of 92,0 of 0,---,0,0,0:00,21 of 46,6 of 11,4 of 6,25 of 56,6 of 7,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Xiao Long,0,4 of 7,57%,4 of 7,0 of 0,---,0,0,0:00,0 of 1,2 of 2,2 of 4,4 of 7,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Francesco Nuzzi,1,11 of 20,55%,12 of 21,0 of 0,---,0,0,0:02,9 of 17,2 of 3,0 of 0,6 of 13,3 of 3,2 of 4
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Lawrence Lui,0,25 of 47,53%,25 of 47,0 of 1,0%,0,0,0:01,13 of 31,3 of 7,9 of 9,24 of 45,1 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Lawrence Lui,0,7 of 12,58%,7 of 12,0 of 0,---,0,0,0:00,7 of 11,0 of 0,0 of 1,7 of 12,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Hector Santiago,0,20 of 86,23%,22 of 88,0 of 0,---,0,0,0:01,14 of 77,6 of 9,0 of 0,20 of 85,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Hector Santiago,1,10 of 25,40%,10 of 25,0 of 0,---,0,0,0:06,10 of 22,0 of 3,0 of 0,6 of 20,0 of 0,4 of 5
+UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Xiong Jingnan,0,16 of 42,38%,16 of 44,0 of 0,---,0,0,0:00,7 of 28,5 of 10,4 of 4,12 of 37,4 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Julia Polastri,1,16 of 25,64%,16 of 25,0 of 0,---,0,0,0:00,9 of 17,6 of 6,1 of 2,13 of 21,3 of 4,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Ding Meng,0,13 of 30,43%,23 of 41,0 of 0,---,0,0,0:00,3 of 14,3 of 7,7 of 9,13 of 30,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Ding Meng,0,12 of 27,44%,26 of 42,0 of 0,---,0,0,0:00,4 of 16,2 of 4,6 of 7,12 of 27,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Ding Meng,0,14 of 22,63%,23 of 33,0 of 1,0%,0,0,1:10,5 of 11,8 of 10,1 of 1,9 of 17,5 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Cam Nelson,0,18 of 26,69%,19 of 28,1 of 1,100%,0,0,1:54,13 of 20,0 of 0,5 of 6,6 of 10,0 of 0,12 of 16
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Cam Nelson,0,20 of 39,51%,23 of 43,2 of 2,100%,0,0,2:42,16 of 32,1 of 2,3 of 5,7 of 17,0 of 0,13 of 22
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Cam Nelson,0,3 of 5,60%,5 of 9,1 of 8,12%,0,0,1:58,3 of 5,0 of 0,0 of 0,2 of 3,1 of 2,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 1,Anthony Hernandez,0.0,10 of 19,52%,10 of 19,0 of 7,0%,0.0,0.0,2:48,10 of 19,0 of 0,0 of 0,5 of 12,5 of 7,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 2,Anthony Hernandez,0.0,19 of 39,48%,19 of 39,1 of 2,50%,0.0,0.0,1:02,19 of 39,0 of 0,0 of 0,18 of 37,1 of 2,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 3,Anthony Hernandez,0.0,12 of 20,60%,17 of 26,1 of 9,11%,0.0,0.0,3:49,12 of 20,0 of 0,0 of 0,4 of 12,5 of 5,3 of 3
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 4,Anthony Hernandez,0.0,25 of 50,50%,26 of 51,1 of 6,16%,0.0,0.0,1:20,24 of 49,1 of 1,0 of 0,21 of 44,4 of 6,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 5,Anthony Hernandez,0.0,24 of 31,77%,39 of 49,0 of 5,0%,0.0,0.0,1:41,24 of 31,0 of 0,0 of 0,16 of 20,5 of 8,3 of 3
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 1,Gregory Rodrigues,0.0,25 of 33,75%,52 of 62,0 of 0,---,0.0,0.0,0:04,15 of 21,10 of 12,0 of 0,14 of 21,9 of 10,2 of 2
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 2,Gregory Rodrigues,2.0,52 of 83,62%,66 of 98,0 of 0,---,0.0,0.0,1:12,26 of 53,14 of 16,12 of 14,41 of 65,5 of 8,6 of 10
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 3,Gregory Rodrigues,0.0,12 of 23,52%,20 of 31,0 of 0,---,0.0,0.0,0:00,10 of 19,1 of 3,1 of 1,5 of 12,7 of 11,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 4,Gregory Rodrigues,0.0,58 of 95,61%,62 of 99,0 of 0,---,0.0,0.0,0:00,42 of 76,8 of 11,8 of 8,54 of 89,4 of 6,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 5,Gregory Rodrigues,1.0,27 of 49,55%,43 of 69,0 of 0,---,0.0,0.0,1:24,18 of 40,6 of 6,3 of 3,21 of 41,6 of 8,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 1,Serghei Spivac,0.0,7 of 29,24%,7 of 29,0 of 0,---,0.0,0.0,0:00,7 of 29,0 of 0,0 of 0,7 of 29,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 2,Serghei Spivac,0.0,3 of 5,60%,12 of 14,0 of 1,0%,0.0,1.0,0:22,3 of 5,0 of 0,0 of 0,1 of 3,0 of 0,2 of 2
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 3,Serghei Spivac,0.0,13 of 33,39%,14 of 34,0 of 1,0%,0.0,0.0,0:00,12 of 31,1 of 2,0 of 0,13 of 33,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 1,Vitor Petrino,0.0,23 of 41,56%,23 of 41,0 of 0,---,0.0,0.0,0:00,3 of 16,8 of 12,12 of 13,23 of 41,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 2,Vitor Petrino,0.0,19 of 24,79%,70 of 90,1 of 2,50%,0.0,0.0,4:09,15 of 19,3 of 4,1 of 1,1 of 2,2 of 3,16 of 19
+UFC Fight Night: Hernandez vs. Rodrigues,Serghei Spivac vs. Vitor Petrino,Round 3,Vitor Petrino,0.0,22 of 34,64%,33 of 46,3 of 4,75%,0.0,0.0,1:58,12 of 23,2 of 3,8 of 8,19 of 31,2 of 2,1 of 1
+UFC Fight Night: Hernandez vs. Rodrigues,Reinier de Ridder vs. Roman Dolidze,Round 1,Reinier de Ridder,0.0,71 of 83,85%,106 of 119,0 of 0,---,0.0,0.0,3:41,70 of 82,1 of 1,0 of 0,3 of 5,0 of 0,68 of 78
+UFC Fight Night: Hernandez vs. Rodrigues,Reinier de Ridder vs. Roman Dolidze,Round 1,Roman Dolidze,0.0,1 of 4,25%,4 of 8,0 of 0,---,0.0,0.0,0:00,0 of 3,0 of 0,1 of 1,1 of 4,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 1,MarQuel Mederos,0.0,41 of 58,70%,50 of 67,0 of 3,0%,0.0,1.0,0:50,26 of 41,3 of 4,12 of 13,38 of 51,3 of 5,0 of 2
+UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 2,MarQuel Mederos,1.0,32 of 48,66%,32 of 48,0 of 1,0%,0.0,0.0,0:04,26 of 42,2 of 2,4 of 4,27 of 41,5 of 7,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 1,Mason Jones,0.0,48 of 97,49%,55 of 104,1 of 1,100%,0.0,0.0,0:30,32 of 79,13 of 15,3 of 3,36 of 83,8 of 9,4 of 5
+UFC Fight Night: Hernandez vs. Rodrigues,MarQuel Mederos vs. Mason Jones,Round 2,Mason Jones,0.0,29 of 54,53%,29 of 54,0 of 0,---,0.0,0.0,0:00,21 of 44,6 of 8,2 of 2,22 of 46,7 of 8,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Carli Judice vs. Jeisla Chaves,Round 1,Carli Judice,1.0,16 of 35,45%,16 of 35,0 of 0,---,0.0,0.0,0:02,9 of 25,7 of 10,0 of 0,12 of 31,2 of 2,2 of 2
+UFC Fight Night: Hernandez vs. Rodrigues,Carli Judice vs. Jeisla Chaves,Round 1,Jeisla Chaves,0.0,10 of 28,35%,10 of 28,0 of 0,---,0.0,0.0,0:00,4 of 21,5 of 6,1 of 1,9 of 27,1 of 1,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Wint vs. Terrance Chatman,Round 1,Anthony Wint,0.0,5 of 9,55%,46 of 50,1 of 3,33%,1.0,0.0,2:42,2 of 6,1 of 1,2 of 2,4 of 8,0 of 0,1 of 1
+UFC Fight Night: Hernandez vs. Rodrigues,Anthony Wint vs. Terrance Chatman,Round 1,Terrance Chatman,0.0,1 of 4,25%,2 of 5,0 of 0,---,1.0,0.0,0:02,1 of 3,0 of 0,0 of 1,1 of 4,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Jamall Emmers vs. Lerryan Douglas,Round 1,Jamall Emmers,1.0,17 of 29,58%,17 of 29,0 of 0,---,0.0,0.0,0:02,10 of 20,2 of 3,5 of 6,14 of 25,1 of 1,2 of 3
+UFC Fight Night: Hernandez vs. Rodrigues,Jamall Emmers vs. Lerryan Douglas,Round 1,Lerryan Douglas,0.0,14 of 27,51%,14 of 27,0 of 0,---,0.0,0.0,0:00,6 of 17,1 of 2,7 of 8,14 of 25,0 of 2,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Kennedy Nzechukwu vs. Shamil Gaziev,Round 1,Kennedy Nzechukwu,0.0,3 of 7,42%,3 of 7,0 of 0,---,0.0,0.0,0:00,3 of 7,0 of 0,0 of 0,3 of 7,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Kennedy Nzechukwu vs. Shamil Gaziev,Round 1,Shamil Gaziev,1.0,2 of 5,40%,2 of 5,0 of 0,---,0.0,0.0,0:00,2 of 4,0 of 1,0 of 0,2 of 5,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 1,Chris Padilla,0.0,27 of 43,62%,27 of 43,0 of 0,---,0.0,0.0,0:00,7 of 21,6 of 8,14 of 14,27 of 43,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 2,Chris Padilla,0.0,46 of 83,55%,46 of 83,0 of 2,0%,0.0,0.0,0:02,16 of 48,11 of 15,19 of 20,43 of 78,3 of 5,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 3,Chris Padilla,1.0,52 of 101,51%,52 of 101,1 of 1,100%,1.0,0.0,0:43,40 of 85,4 of 8,8 of 8,37 of 81,5 of 7,10 of 13
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 1,Nasrat Haqparast,0.0,13 of 36,36%,13 of 36,0 of 0,---,0.0,0.0,0:00,5 of 25,7 of 7,1 of 4,13 of 36,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 2,Nasrat Haqparast,0.0,29 of 64,45%,29 of 64,0 of 0,---,0.0,0.0,0:00,20 of 55,9 of 9,0 of 0,25 of 60,4 of 4,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Chris Padilla vs. Nasrat Haqparast,Round 3,Nasrat Haqparast,0.0,29 of 68,42%,31 of 70,0 of 2,0%,0.0,0.0,0:00,18 of 53,8 of 12,3 of 3,20 of 57,9 of 11,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Marcio Barbosa vs. Ryan Kuse,Round 1,Marcio Barbosa,1.0,11 of 25,44%,11 of 25,0 of 0,---,0.0,0.0,0:12,8 of 22,3 of 3,0 of 0,10 of 23,1 of 2,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Marcio Barbosa vs. Ryan Kuse,Round 1,Ryan Kuse,0.0,5 of 21,23%,5 of 21,0 of 5,0%,0.0,0.0,0:00,4 of 17,0 of 3,1 of 1,5 of 21,0 of 0,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 1,Gauge Young,0.0,48 of 91,52%,62 of 106,1 of 2,50%,0.0,0.0,1:13,32 of 71,7 of 9,9 of 11,38 of 74,3 of 5,7 of 12
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 2,Gauge Young,0.0,48 of 92,52%,50 of 94,0 of 1,0%,0.0,0.0,0:27,28 of 65,15 of 18,5 of 9,45 of 88,3 of 4,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 3,Gauge Young,0.0,41 of 70,58%,41 of 70,2 of 6,33%,0.0,0.0,0:59,33 of 56,7 of 13,1 of 1,39 of 65,2 of 5,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 1,Stan Dorsainvil,0.0,23 of 81,28%,23 of 81,0 of 2,0%,0.0,0.0,0:01,19 of 74,2 of 5,2 of 2,18 of 74,5 of 7,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 2,Stan Dorsainvil,0.0,50 of 116,43%,55 of 121,1 of 3,33%,0.0,0.0,0:40,42 of 106,5 of 7,3 of 3,38 of 96,11 of 19,1 of 1
+UFC Fight Night: Hernandez vs. Rodrigues,Gauge Young vs. Stan Dorsainvil,Round 3,Stan Dorsainvil,0.0,50 of 101,49%,55 of 107,1 of 2,50%,0.0,0.0,0:48,45 of 92,4 of 7,1 of 2,33 of 79,17 of 22,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Wes Schultz vs. Jackson McVey,Round 1,Wes Schultz,0.0,24 of 43,55%,28 of 48,1 of 1,100%,1.0,0.0,1:05,11 of 27,12 of 15,1 of 1,20 of 37,4 of 6,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Wes Schultz vs. Jackson McVey,Round 1,Jackson McVey,1.0,38 of 78,48%,40 of 80,0 of 0,---,0.0,0.0,0:14,32 of 69,6 of 9,0 of 0,34 of 72,1 of 3,3 of 3
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 1,Shanelle Dyer,0.0,37 of 63,58%,38 of 64,0 of 0,---,0.0,0.0,0:38,19 of 40,8 of 9,10 of 14,32 of 57,5 of 6,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 2,Shanelle Dyer,0.0,66 of 98,67%,67 of 99,1 of 1,100%,0.0,0.0,0:46,39 of 71,19 of 19,8 of 8,50 of 81,16 of 17,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 3,Shanelle Dyer,0.0,33 of 56,58%,34 of 57,0 of 0,---,0.0,0.0,0:00,26 of 47,2 of 4,5 of 5,32 of 53,1 of 3,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 1,Elise Reed,0.0,19 of 40,47%,28 of 50,0 of 0,---,0.0,0.0,0:06,3 of 19,10 of 11,6 of 10,17 of 37,2 of 3,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 2,Elise Reed,0.0,20 of 43,46%,21 of 44,0 of 0,---,0.0,0.0,0:09,7 of 22,6 of 10,7 of 11,17 of 39,3 of 4,0 of 0
+UFC Fight Night: Hernandez vs. Rodrigues,Shanelle Dyer vs. Elise Reed,Round 3,Elise Reed,0.0,10 of 21,47%,10 of 21,0 of 0,---,0.0,0.0,0:03,3 of 8,5 of 10,2 of 3,10 of 21,0 of 0,0 of 0
 UFC 330: Makhachev vs. Machado Garry,Islam Makhachev vs. Ian Machado Garry,Round 1,Islam Makhachev,0.0,3 of 5,60%,23 of 25,1 of 5,20%,0.0,0.0,3:38,1 of 3,0 of 0,2 of 2,2 of 3,0 of 1,1 of 1
 UFC 330: Makhachev vs. Machado Garry,Islam Makhachev vs. Ian Machado Garry,Round 2,Islam Makhachev,1.0,11 of 20,55%,24 of 35,1 of 1,100%,0.0,0.0,2:19,6 of 15,2 of 2,3 of 3,6 of 15,5 of 5,0 of 0
 UFC 330: Makhachev vs. Machado Garry,Islam Makhachev vs. Ian Machado Garry,Round 3,Islam Makhachev,0.0,5 of 10,50%,5 of 10,1 of 2,50%,0.0,0.0,0:16,1 of 6,1 of 1,3 of 3,5 of 10,0 of 0,0 of 0
