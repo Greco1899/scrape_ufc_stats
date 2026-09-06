@@ -1,54 +1,116 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Umar Nurmagomedov,0,7 of 10,70%,17 of 21,1 of 1,100%,0,0,1:58,3 of 5,0 of 0,4 of 5,7 of 10,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Umar Nurmagomedov,0,6 of 11,54%,6 of 11,0 of 2,0%,0,0,0:00,4 of 9,0 of 0,2 of 2,6 of 11,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Song Yadong,0,5 of 10,50%,18 of 23,0 of 0,---,1,0,0:00,1 of 5,2 of 2,2 of 3,5 of 10,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Song Yadong,1,6 of 13,46%,6 of 13,0 of 0,---,0,0,0:02,4 of 10,1 of 1,1 of 2,4 of 10,0 of 0,2 of 3
-UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Yan Xiaonan,0,19 of 59,32%,19 of 59,0 of 0,---,0,0,0:00,11 of 41,3 of 6,5 of 12,18 of 56,1 of 3,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Denise Gomes,1,18 of 48,37%,20 of 50,0 of 0,---,0,0,0:00,12 of 35,3 of 5,3 of 8,16 of 45,0 of 0,2 of 3
-UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Aoriqileng,0,13 of 25,52%,17 of 29,0 of 0,---,0,0,0:00,5 of 12,4 of 8,4 of 5,13 of 25,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Aoriqileng,0,1 of 3,33%,1 of 3,0 of 0,---,0,0,0:00,0 of 1,1 of 1,0 of 1,1 of 3,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Kai Asakura,0,15 of 34,44%,17 of 36,0 of 1,0%,0,0,0:33,9 of 24,3 of 4,3 of 6,14 of 33,1 of 1,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Kai Asakura,1,12 of 16,75%,12 of 16,0 of 0,---,0,0,0:06,10 of 14,2 of 2,0 of 0,7 of 10,0 of 0,5 of 6
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Alex Perez,0,3 of 21,14%,13 of 32,1 of 1,100%,0,0,1:31,2 of 15,0 of 3,1 of 3,3 of 20,0 of 0,0 of 1
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Alex Perez,0,3 of 11,27%,31 of 41,3 of 3,100%,0,0,3:06,2 of 8,0 of 1,1 of 2,3 of 10,0 of 0,0 of 1
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Alex Perez,0,4 of 11,36%,8 of 15,0 of 4,0%,0,0,2:43,2 of 8,2 of 3,0 of 0,4 of 11,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Sumudaerji,0,12 of 28,42%,25 of 41,0 of 0,---,0,0,0:00,2 of 14,2 of 4,8 of 10,12 of 28,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Sumudaerji,0,11 of 20,55%,16 of 27,0 of 0,---,0,0,0:00,3 of 11,1 of 2,7 of 7,11 of 20,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Sumudaerji,0,18 of 32,56%,44 of 58,0 of 2,0%,0,0,0:14,13 of 25,2 of 3,3 of 4,16 of 30,2 of 2,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Liu Ce,2,59 of 82,71%,60 of 83,0 of 0,---,0,0,0:04,42 of 62,9 of 12,8 of 8,54 of 75,5 of 7,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Levi Rodrigues Jr.,0,28 of 57,49%,28 of 57,0 of 2,0%,0,0,0:44,23 of 51,2 of 2,3 of 4,27 of 56,1 of 1,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Bilal Hasan,0,38 of 88,43%,41 of 96,1 of 1,100%,0,0,1:03,18 of 52,16 of 28,4 of 8,24 of 72,8 of 9,6 of 7
-UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Bilal Hasan,1,15 of 41,36%,15 of 41,0 of 0,---,0,0,0:00,10 of 29,4 of 9,1 of 3,14 of 39,0 of 1,1 of 1
-UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Nilson Rojas,0,17 of 38,44%,21 of 42,0 of 0,---,0,0,0:03,8 of 25,9 of 13,0 of 0,13 of 33,4 of 5,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Nilson Rojas,0,16 of 28,57%,16 of 28,0 of 0,---,0,0,0:00,9 of 21,4 of 4,3 of 3,15 of 26,1 of 2,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Namsrai Batbayar,0,12 of 44,27%,12 of 44,0 of 0,---,0,0,0:00,5 of 31,3 of 4,4 of 9,12 of 44,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Namsrai Batbayar,0,31 of 77,40%,31 of 77,0 of 0,---,0,0,0:00,17 of 60,5 of 7,9 of 10,29 of 75,2 of 2,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Namsrai Batbayar,0,8 of 20,40%,8 of 20,0 of 1,0%,0,0,0:08,2 of 10,1 of 1,5 of 9,8 of 20,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Andre Lima,0,14 of 20,70%,14 of 20,0 of 0,---,0,0,0:00,7 of 12,2 of 2,5 of 6,14 of 20,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Andre Lima,0,25 of 42,59%,25 of 42,0 of 0,---,0,0,0:00,14 of 30,5 of 6,6 of 6,25 of 42,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Andre Lima,0,8 of 15,53%,8 of 15,0 of 0,---,1,1,0:13,2 of 7,2 of 2,4 of 6,8 of 15,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Rei Tsuruya,0,39 of 67,58%,71 of 101,2 of 4,50%,1,0,3:58,39 of 67,0 of 0,0 of 0,0 of 0,0 of 0,39 of 67
-UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Kevin Borjas,0,0 of 0,---,1 of 3,0 of 0,---,0,0,0:00,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Jack Jenkins,0,13 of 36,36%,13 of 36,0 of 0,---,0,0,0:00,5 of 23,0 of 0,8 of 13,13 of 36,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Jack Jenkins,0,7 of 10,70%,35 of 43,0 of 1,0%,1,1,3:17,5 of 8,2 of 2,0 of 0,3 of 5,2 of 3,2 of 2
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Jack Jenkins,0,23 of 49,46%,24 of 51,0 of 4,0%,0,0,1:30,8 of 31,7 of 7,8 of 11,16 of 39,7 of 10,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Sean Woodson,0,25 of 60,41%,25 of 60,0 of 0,---,0,0,0:00,12 of 40,4 of 8,9 of 12,25 of 60,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Sean Woodson,0,2 of 6,33%,45 of 52,0 of 2,0%,0,0,1:11,0 of 2,0 of 2,2 of 2,2 of 5,0 of 1,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Sean Woodson,0,31 of 63,49%,60 of 92,0 of 0,---,0,0,0:00,21 of 46,6 of 11,4 of 6,25 of 56,6 of 7,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Xiao Long,0,4 of 7,57%,4 of 7,0 of 0,---,0,0,0:00,0 of 1,2 of 2,2 of 4,4 of 7,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Francesco Nuzzi,1,11 of 20,55%,12 of 21,0 of 0,---,0,0,0:02,9 of 17,2 of 3,0 of 0,6 of 13,3 of 3,2 of 4
-UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Lawrence Lui,0,25 of 47,53%,25 of 47,0 of 1,0%,0,0,0:01,13 of 31,3 of 7,9 of 9,24 of 45,1 of 2,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Lawrence Lui,0,7 of 12,58%,7 of 12,0 of 0,---,0,0,0:00,7 of 11,0 of 0,0 of 1,7 of 12,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Hector Santiago,0,20 of 86,23%,22 of 88,0 of 0,---,0,0,0:01,14 of 77,6 of 9,0 of 0,20 of 85,0 of 0,0 of 1
-UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Hector Santiago,1,10 of 25,40%,10 of 25,0 of 0,---,0,0,0:06,10 of 22,0 of 3,0 of 0,6 of 20,0 of 0,4 of 5
-UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Xiong Jingnan,0,16 of 42,38%,16 of 44,0 of 0,---,0,0,0:00,7 of 28,5 of 10,4 of 4,12 of 37,4 of 5,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Julia Polastri,1,16 of 25,64%,16 of 25,0 of 0,---,0,0,0:00,9 of 17,6 of 6,1 of 2,13 of 21,3 of 4,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Ding Meng,0,13 of 30,43%,23 of 41,0 of 0,---,0,0,0:00,3 of 14,3 of 7,7 of 9,13 of 30,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Ding Meng,0,12 of 27,44%,26 of 42,0 of 0,---,0,0,0:00,4 of 16,2 of 4,6 of 7,12 of 27,0 of 0,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Ding Meng,0,14 of 22,63%,23 of 33,0 of 1,0%,0,0,1:10,5 of 11,8 of 10,1 of 1,9 of 17,5 of 5,0 of 0
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Cam Nelson,0,18 of 26,69%,19 of 28,1 of 1,100%,0,0,1:54,13 of 20,0 of 0,5 of 6,6 of 10,0 of 0,12 of 16
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Cam Nelson,0,20 of 39,51%,23 of 43,2 of 2,100%,0,0,2:42,16 of 32,1 of 2,3 of 5,7 of 17,0 of 0,13 of 22
-UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Cam Nelson,0,3 of 5,60%,5 of 9,1 of 8,12%,0,0,1:58,3 of 5,0 of 0,0 of 0,2 of 3,1 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Dan Hooker,0,14 of 31,45%,14 of 31,0 of 0,---,0,0,0:00,0 of 9,2 of 3,12 of 19,14 of 31,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Salahdine Parnasse,1,12 of 17,70%,12 of 17,0 of 0,---,0,0,0:02,7 of 12,2 of 2,3 of 3,9 of 14,0 of 0,3 of 3
+UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Fares Ziam,0,7 of 13,53%,7 of 13,0 of 0,---,0,0,0:00,0 of 5,2 of 2,5 of 6,7 of 13,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Axel Sola,1,9 of 13,69%,9 of 13,0 of 0,---,0,0,0:02,7 of 10,2 of 3,0 of 0,6 of 10,0 of 0,3 of 3
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Michael Page,0,4 of 5,80%,18 of 20,0 of 1,0%,1,0,0:00,2 of 3,1 of 1,1 of 1,3 of 4,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Michael Page,0,5 of 13,38%,17 of 25,0 of 1,0%,0,0,0:49,2 of 8,1 of 2,2 of 3,5 of 13,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Michael Page,0,3 of 10,30%,14 of 21,0 of 0,---,0,0,0:17,3 of 8,0 of 2,0 of 0,3 of 10,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Nursulton Ruziboev,0,4 of 6,66%,16 of 18,1 of 1,100%,0,0,4:20,4 of 6,0 of 0,0 of 0,0 of 2,0 of 0,4 of 4
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Nursulton Ruziboev,0,2 of 14,14%,2 of 14,0 of 1,0%,0,0,0:01,0 of 12,1 of 1,1 of 1,2 of 13,0 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Nursulton Ruziboev,0,2 of 9,22%,3 of 10,1 of 1,100%,0,0,1:07,1 of 8,1 of 1,0 of 0,1 of 8,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Daniil Donchenko,1,37 of 53,69%,50 of 67,0 of 0,---,0,0,0:39,18 of 33,12 of 13,7 of 7,25 of 40,4 of 5,8 of 8
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Daniil Donchenko,0,33 of 52,63%,33 of 52,0 of 1,0%,0,0,0:00,15 of 32,9 of 11,9 of 9,32 of 51,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Daniil Donchenko,0,13 of 32,40%,37 of 61,0 of 0,---,0,0,0:02,13 of 29,0 of 3,0 of 0,7 of 25,6 of 7,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Punahele Soriano,0,5 of 22,22%,5 of 22,0 of 3,0%,0,0,0:05,5 of 16,0 of 6,0 of 0,4 of 20,1 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Punahele Soriano,0,6 of 47,12%,6 of 47,1 of 2,50%,0,0,0:11,5 of 39,1 of 8,0 of 0,4 of 44,2 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Punahele Soriano,0,4 of 15,26%,32 of 46,3 of 6,50%,1,0,3:16,2 of 13,2 of 2,0 of 0,3 of 14,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Kurtis Campbell,0,34 of 47,72%,42 of 57,7 of 12,58%,0,0,3:31,28 of 37,5 of 8,1 of 2,9 of 16,1 of 3,24 of 28
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Kurtis Campbell,0,4 of 4,100%,26 of 34,3 of 6,50%,0,0,4:40,3 of 3,1 of 1,0 of 0,2 of 2,0 of 0,2 of 2
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Kurtis Campbell,0,6 of 10,60%,11 of 17,3 of 6,50%,1,0,2:09,5 of 8,1 of 2,0 of 0,6 of 10,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Trevor Peek,0,6 of 18,33%,7 of 19,0 of 0,---,0,0,0:00,3 of 13,1 of 1,2 of 4,5 of 17,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Trevor Peek,0,2 of 5,40%,5 of 8,0 of 0,---,0,0,0:00,0 of 3,2 of 2,0 of 0,1 of 3,1 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Trevor Peek,0,4 of 12,33%,5 of 13,0 of 0,---,0,0,0:00,2 of 9,1 of 1,1 of 2,4 of 12,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Losene Keita,2,18 of 30,60%,19 of 31,0 of 0,---,0,0,0:20,16 of 27,2 of 3,0 of 0,10 of 21,0 of 0,8 of 9
+UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Muhammad Naimov,0,4 of 24,16%,4 of 24,0 of 0,---,0,0,0:00,2 of 21,2 of 3,0 of 0,4 of 24,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Morgan Charriere,0,17 of 67,25%,18 of 68,0 of 1,0%,1,0,0:12,11 of 58,6 of 8,0 of 1,17 of 67,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Morgan Charriere,0,11 of 54,20%,12 of 55,0 of 2,0%,0,0,0:00,9 of 48,2 of 6,0 of 0,11 of 52,0 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Morgan Charriere,0,8 of 25,32%,8 of 25,0 of 0,---,0,0,0:19,4 of 16,3 of 8,1 of 1,8 of 25,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Felipe Lima,0,27 of 66,40%,28 of 67,1 of 1,100%,0,0,0:06,20 of 52,4 of 7,3 of 7,27 of 66,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Felipe Lima,0,48 of 79,60%,49 of 80,1 of 1,100%,0,0,0:07,36 of 62,10 of 14,2 of 3,45 of 75,3 of 4,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Felipe Lima,0,37 of 73,50%,38 of 74,0 of 0,---,0,0,0:00,26 of 60,4 of 4,7 of 9,35 of 71,2 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Mario Pinto,0,36 of 54,66%,78 of 96,5 of 6,83%,0,0,2:50,35 of 53,1 of 1,0 of 0,9 of 22,4 of 7,23 of 25
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Mario Pinto,0,12 of 13,92%,36 of 41,1 of 1,100%,0,0,0:43,12 of 13,0 of 0,0 of 0,1 of 2,2 of 2,9 of 9
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Ryan Spann,0,13 of 33,39%,16 of 36,0 of 1,0%,1,0,0:20,10 of 30,3 of 3,0 of 0,6 of 23,7 of 10,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Ryan Spann,0,0 of 1,0%,0 of 1,0 of 0,---,0,0,0:00,0 of 1,0 of 0,0 of 0,0 of 1,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Oumar Sy,0,34 of 53,64%,43 of 64,1 of 3,33%,1,0,3:08,25 of 42,2 of 4,7 of 7,10 of 22,0 of 0,24 of 31
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Oumar Sy,0,5 of 6,83%,5 of 7,2 of 5,40%,0,0,2:00,2 of 3,3 of 3,0 of 0,1 of 1,3 of 4,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Modestas Bukauskas,0,2 of 17,11%,5 of 20,0 of 0,---,0,0,0:00,2 of 17,0 of 0,0 of 0,1 of 16,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Modestas Bukauskas,1,20 of 29,68%,24 of 36,0 of 0,---,0,0,1:35,20 of 29,0 of 0,0 of 0,0 of 3,5 of 7,15 of 19
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Nathaniel Wood,0,8 of 32,25%,15 of 39,0 of 0,---,0,0,0:00,3 of 20,3 of 6,2 of 6,8 of 31,0 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Nathaniel Wood,1,15 of 43,34%,16 of 45,0 of 0,---,0,0,0:09,10 of 35,3 of 4,2 of 4,14 of 38,1 of 4,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Nathaniel Wood,0,5 of 11,45%,26 of 34,0 of 0,---,0,0,0:00,4 of 8,1 of 3,0 of 0,4 of 10,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Pavel Andrusca,0,14 of 34,41%,16 of 36,1 of 4,25%,0,0,0:55,11 of 28,2 of 5,1 of 1,10 of 29,3 of 4,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Pavel Andrusca,0,17 of 37,45%,21 of 41,2 of 10,20%,1,0,1:31,15 of 33,1 of 3,1 of 1,13 of 30,3 of 5,1 of 2
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Pavel Andrusca,0,19 of 34,55%,32 of 54,1 of 5,20%,0,0,3:40,18 of 31,1 of 3,0 of 0,10 of 23,3 of 4,6 of 7
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Michael Aljarouj,0,3 of 15,20%,21 of 35,0 of 2,0%,0,0,1:55,1 of 11,0 of 1,2 of 3,2 of 12,1 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Michael Aljarouj,0,2 of 11,18%,10 of 19,0 of 1,0%,0,0,0:40,1 of 8,0 of 0,1 of 3,1 of 10,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Michael Aljarouj,0,5 of 6,83%,39 of 45,0 of 0,---,1,1,1:49,3 of 4,1 of 1,1 of 1,2 of 2,0 of 0,3 of 4
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Fabia Sintes,0,6 of 15,40%,11 of 21,1 of 3,33%,0,0,0:51,0 of 6,5 of 5,1 of 4,2 of 11,4 of 4,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Fabia Sintes,0,19 of 27,70%,36 of 48,1 of 3,33%,2,0,2:39,12 of 20,6 of 6,1 of 1,8 of 13,2 of 2,9 of 12
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Fabia Sintes,0,3 of 7,42%,14 of 19,1 of 2,50%,1,0,2:49,3 of 6,0 of 1,0 of 0,0 of 2,0 of 0,3 of 5
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Nora Cornolle,0,14 of 25,56%,22 of 35,1 of 3,33%,0,0,2:50,4 of 12,9 of 12,1 of 1,4 of 11,10 of 13,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Nora Cornolle,0,12 of 23,52%,22 of 34,1 of 1,100%,0,0,2:52,7 of 14,4 of 5,1 of 4,3 of 9,7 of 11,2 of 3
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Nora Cornolle,0,8 of 15,53%,16 of 24,2 of 3,66%,1,0,3:17,5 of 12,3 of 3,0 of 0,6 of 10,2 of 5,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Klaudia Sygula,0,8 of 23,34%,47 of 66,0 of 1,0%,0,0,1:06,5 of 19,3 of 4,0 of 0,5 of 20,3 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Klaudia Sygula,0,5 of 15,33%,15 of 27,0 of 0,---,0,0,1:28,2 of 11,3 of 4,0 of 0,2 of 9,3 of 5,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Klaudia Sygula,0,10 of 26,38%,41 of 58,0 of 0,---,0,1,0:41,9 of 25,1 of 1,0 of 0,6 of 21,3 of 3,1 of 2
+UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Matthieu Duclos,1,18 of 43,41%,20 of 47,0 of 0,---,0,0,0:05,13 of 38,4 of 4,1 of 1,16 of 41,1 of 1,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Luis Felipe Dias,0,22 of 50,44%,23 of 51,0 of 0,---,0,0,0:33,15 of 38,4 of 6,3 of 6,19 of 45,3 of 5,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Delphine Benouaich,0,74 of 140,52%,74 of 140,0 of 0,---,0,0,0:00,52 of 114,16 of 20,6 of 6,69 of 133,5 of 7,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Delphine Benouaich,1,72 of 109,66%,80 of 122,0 of 0,---,1,0,1:41,52 of 86,13 of 16,7 of 7,37 of 66,5 of 5,30 of 38
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Sofia Montenegro,0,47 of 131,35%,47 of 131,0 of 0,---,0,0,0:00,34 of 114,9 of 11,4 of 6,46 of 130,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Sofia Montenegro,0,25 of 66,37%,25 of 68,0 of 0,---,0,0,0:00,18 of 56,2 of 5,5 of 5,22 of 60,3 of 6,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Umar Nurmagomedov,0.0,7 of 10,70%,17 of 21,1 of 1,100%,0.0,0.0,1:58,3 of 5,0 of 0,4 of 5,7 of 10,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Umar Nurmagomedov,0.0,6 of 11,54%,6 of 11,0 of 2,0%,0.0,0.0,0:00,4 of 9,0 of 0,2 of 2,6 of 11,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Song Yadong,0.0,5 of 10,50%,18 of 23,0 of 0,---,1.0,0.0,0:00,1 of 5,2 of 2,2 of 3,5 of 10,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Song Yadong,1.0,6 of 13,46%,6 of 13,0 of 0,---,0.0,0.0,0:02,4 of 10,1 of 1,1 of 2,4 of 10,0 of 0,2 of 3
+UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Yan Xiaonan,0.0,19 of 59,32%,19 of 59,0 of 0,---,0.0,0.0,0:00,11 of 41,3 of 6,5 of 12,18 of 56,1 of 3,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Yan Xiaonan vs. Denise Gomes,Round 1,Denise Gomes,1.0,18 of 48,37%,20 of 50,0 of 0,---,0.0,0.0,0:00,12 of 35,3 of 5,3 of 8,16 of 45,0 of 0,2 of 3
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Aoriqileng,0.0,13 of 25,52%,17 of 29,0 of 0,---,0.0,0.0,0:00,5 of 12,4 of 8,4 of 5,13 of 25,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Aoriqileng,0.0,1 of 3,33%,1 of 3,0 of 0,---,0.0,0.0,0:00,0 of 1,1 of 1,0 of 1,1 of 3,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 1,Kai Asakura,0.0,15 of 34,44%,17 of 36,0 of 1,0%,0.0,0.0,0:33,9 of 24,3 of 4,3 of 6,14 of 33,1 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Aoriqileng vs. Kai Asakura,Round 2,Kai Asakura,1.0,12 of 16,75%,12 of 16,0 of 0,---,0.0,0.0,0:06,10 of 14,2 of 2,0 of 0,7 of 10,0 of 0,5 of 6
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Alex Perez,0.0,3 of 21,14%,13 of 32,1 of 1,100%,0.0,0.0,1:31,2 of 15,0 of 3,1 of 3,3 of 20,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Alex Perez,0.0,3 of 11,27%,31 of 41,3 of 3,100%,0.0,0.0,3:06,2 of 8,0 of 1,1 of 2,3 of 10,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Alex Perez,0.0,4 of 11,36%,8 of 15,0 of 4,0%,0.0,0.0,2:43,2 of 8,2 of 3,0 of 0,4 of 11,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 1,Sumudaerji,0.0,12 of 28,42%,25 of 41,0 of 0,---,0.0,0.0,0:00,2 of 14,2 of 4,8 of 10,12 of 28,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 2,Sumudaerji,0.0,11 of 20,55%,16 of 27,0 of 0,---,0.0,0.0,0:00,3 of 11,1 of 2,7 of 7,11 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Alex Perez vs. Sumudaerji,Round 3,Sumudaerji,0.0,18 of 32,56%,44 of 58,0 of 2,0%,0.0,0.0,0:14,13 of 25,2 of 3,3 of 4,16 of 30,2 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Liu Ce,2.0,59 of 82,71%,60 of 83,0 of 0,---,0.0,0.0,0:04,42 of 62,9 of 12,8 of 8,54 of 75,5 of 7,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Liu Ce vs. Levi Rodrigues Jr.,Round 1,Levi Rodrigues Jr.,0.0,28 of 57,49%,28 of 57,0 of 2,0%,0.0,0.0,0:44,23 of 51,2 of 2,3 of 4,27 of 56,1 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Bilal Hasan,0.0,38 of 88,43%,41 of 96,1 of 1,100%,0.0,0.0,1:03,18 of 52,16 of 28,4 of 8,24 of 72,8 of 9,6 of 7
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Bilal Hasan,1.0,15 of 41,36%,15 of 41,0 of 0,---,0.0,0.0,0:00,10 of 29,4 of 9,1 of 3,14 of 39,0 of 1,1 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 1,Nilson Rojas,0.0,17 of 38,44%,21 of 42,0 of 0,---,0.0,0.0,0:03,8 of 25,9 of 13,0 of 0,13 of 33,4 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Bilal Hasan vs. Nilson Rojas,Round 2,Nilson Rojas,0.0,16 of 28,57%,16 of 28,0 of 0,---,0.0,0.0,0:00,9 of 21,4 of 4,3 of 3,15 of 26,1 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Namsrai Batbayar,0.0,12 of 44,27%,12 of 44,0 of 0,---,0.0,0.0,0:00,5 of 31,3 of 4,4 of 9,12 of 44,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Namsrai Batbayar,0.0,31 of 77,40%,31 of 77,0 of 0,---,0.0,0.0,0:00,17 of 60,5 of 7,9 of 10,29 of 75,2 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Namsrai Batbayar,0.0,8 of 20,40%,8 of 20,0 of 1,0%,0.0,0.0,0:08,2 of 10,1 of 1,5 of 9,8 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 1,Andre Lima,0.0,14 of 20,70%,14 of 20,0 of 0,---,0.0,0.0,0:00,7 of 12,2 of 2,5 of 6,14 of 20,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 2,Andre Lima,0.0,25 of 42,59%,25 of 42,0 of 0,---,0.0,0.0,0:00,14 of 30,5 of 6,6 of 6,25 of 42,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Namsrai Batbayar vs. Andre Lima,Round 3,Andre Lima,0.0,8 of 15,53%,8 of 15,0 of 0,---,1.0,1.0,0:13,2 of 7,2 of 2,4 of 6,8 of 15,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Rei Tsuruya,0.0,39 of 67,58%,71 of 101,2 of 4,50%,1.0,0.0,3:58,39 of 67,0 of 0,0 of 0,0 of 0,0 of 0,39 of 67
+UFC Fight Night: Nurmagomedov vs. Song,Rei Tsuruya vs. Kevin Borjas,Round 1,Kevin Borjas,0.0,0 of 0,---,1 of 3,0 of 0,---,0.0,0.0,0:00,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Jack Jenkins,0.0,13 of 36,36%,13 of 36,0 of 0,---,0.0,0.0,0:00,5 of 23,0 of 0,8 of 13,13 of 36,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Jack Jenkins,0.0,7 of 10,70%,35 of 43,0 of 1,0%,1.0,1.0,3:17,5 of 8,2 of 2,0 of 0,3 of 5,2 of 3,2 of 2
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Jack Jenkins,0.0,23 of 49,46%,24 of 51,0 of 4,0%,0.0,0.0,1:30,8 of 31,7 of 7,8 of 11,16 of 39,7 of 10,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 1,Sean Woodson,0.0,25 of 60,41%,25 of 60,0 of 0,---,0.0,0.0,0:00,12 of 40,4 of 8,9 of 12,25 of 60,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 2,Sean Woodson,0.0,2 of 6,33%,45 of 52,0 of 2,0%,0.0,0.0,1:11,0 of 2,0 of 2,2 of 2,2 of 5,0 of 1,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Jack Jenkins vs. Sean Woodson,Round 3,Sean Woodson,0.0,31 of 63,49%,60 of 92,0 of 0,---,0.0,0.0,0:00,21 of 46,6 of 11,4 of 6,25 of 56,6 of 7,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Xiao Long,0.0,4 of 7,57%,4 of 7,0 of 0,---,0.0,0.0,0:00,0 of 1,2 of 2,2 of 4,4 of 7,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiao Long vs. Francesco Nuzzi,Round 1,Francesco Nuzzi,1.0,11 of 20,55%,12 of 21,0 of 0,---,0.0,0.0,0:02,9 of 17,2 of 3,0 of 0,6 of 13,3 of 3,2 of 4
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Lawrence Lui,0.0,25 of 47,53%,25 of 47,0 of 1,0%,0.0,0.0,0:01,13 of 31,3 of 7,9 of 9,24 of 45,1 of 2,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Lawrence Lui,0.0,7 of 12,58%,7 of 12,0 of 0,---,0.0,0.0,0:00,7 of 11,0 of 0,0 of 1,7 of 12,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 1,Hector Santiago,0.0,20 of 86,23%,22 of 88,0 of 0,---,0.0,0.0,0:01,14 of 77,6 of 9,0 of 0,20 of 85,0 of 0,0 of 1
+UFC Fight Night: Nurmagomedov vs. Song,Lawrence Lui vs. Hector Santiago,Round 2,Hector Santiago,1.0,10 of 25,40%,10 of 25,0 of 0,---,0.0,0.0,0:06,10 of 22,0 of 3,0 of 0,6 of 20,0 of 0,4 of 5
+UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Xiong Jingnan,0.0,16 of 42,38%,16 of 44,0 of 0,---,0.0,0.0,0:00,7 of 28,5 of 10,4 of 4,12 of 37,4 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Xiong Jingnan vs. Julia Polastri,Round 1,Julia Polastri,1.0,16 of 25,64%,16 of 25,0 of 0,---,0.0,0.0,0:00,9 of 17,6 of 6,1 of 2,13 of 21,3 of 4,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Ding Meng,0.0,13 of 30,43%,23 of 41,0 of 0,---,0.0,0.0,0:00,3 of 14,3 of 7,7 of 9,13 of 30,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Ding Meng,0.0,12 of 27,44%,26 of 42,0 of 0,---,0.0,0.0,0:00,4 of 16,2 of 4,6 of 7,12 of 27,0 of 0,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Ding Meng,0.0,14 of 22,63%,23 of 33,0 of 1,0%,0.0,0.0,1:10,5 of 11,8 of 10,1 of 1,9 of 17,5 of 5,0 of 0
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 1,Cam Nelson,0.0,18 of 26,69%,19 of 28,1 of 1,100%,0.0,0.0,1:54,13 of 20,0 of 0,5 of 6,6 of 10,0 of 0,12 of 16
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 2,Cam Nelson,0.0,20 of 39,51%,23 of 43,2 of 2,100%,0.0,0.0,2:42,16 of 32,1 of 2,3 of 5,7 of 17,0 of 0,13 of 22
+UFC Fight Night: Nurmagomedov vs. Song,Ding Meng vs. Cam Nelson,Round 3,Cam Nelson,0.0,3 of 5,60%,5 of 9,1 of 8,12%,0.0,0.0,1:58,3 of 5,0 of 0,0 of 0,2 of 3,1 of 2,0 of 0
 UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 1,Anthony Hernandez,0.0,10 of 19,52%,10 of 19,0 of 7,0%,0.0,0.0,2:48,10 of 19,0 of 0,0 of 0,5 of 12,5 of 7,0 of 0
 UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 2,Anthony Hernandez,0.0,19 of 39,48%,19 of 39,1 of 2,50%,0.0,0.0,1:02,19 of 39,0 of 0,0 of 0,18 of 37,1 of 2,0 of 0
 UFC Fight Night: Hernandez vs. Rodrigues,Anthony Hernandez vs. Gregory Rodrigues,Round 3,Anthony Hernandez,0.0,12 of 20,60%,17 of 26,1 of 9,11%,0.0,0.0,3:49,12 of 20,0 of 0,0 of 0,4 of 12,5 of 5,3 of 3
