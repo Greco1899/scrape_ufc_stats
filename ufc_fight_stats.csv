@@ -1,66 +1,136 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Dan Hooker,0,14 of 31,45%,14 of 31,0 of 0,---,0,0,0:00,0 of 9,2 of 3,12 of 19,14 of 31,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Salahdine Parnasse,1,12 of 17,70%,12 of 17,0 of 0,---,0,0,0:02,7 of 12,2 of 2,3 of 3,9 of 14,0 of 0,3 of 3
-UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Fares Ziam,0,7 of 13,53%,7 of 13,0 of 0,---,0,0,0:00,0 of 5,2 of 2,5 of 6,7 of 13,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Axel Sola,1,9 of 13,69%,9 of 13,0 of 0,---,0,0,0:02,7 of 10,2 of 3,0 of 0,6 of 10,0 of 0,3 of 3
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Michael Page,0,4 of 5,80%,18 of 20,0 of 1,0%,1,0,0:00,2 of 3,1 of 1,1 of 1,3 of 4,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Michael Page,0,5 of 13,38%,17 of 25,0 of 1,0%,0,0,0:49,2 of 8,1 of 2,2 of 3,5 of 13,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Michael Page,0,3 of 10,30%,14 of 21,0 of 0,---,0,0,0:17,3 of 8,0 of 2,0 of 0,3 of 10,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Nursulton Ruziboev,0,4 of 6,66%,16 of 18,1 of 1,100%,0,0,4:20,4 of 6,0 of 0,0 of 0,0 of 2,0 of 0,4 of 4
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Nursulton Ruziboev,0,2 of 14,14%,2 of 14,0 of 1,0%,0,0,0:01,0 of 12,1 of 1,1 of 1,2 of 13,0 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Nursulton Ruziboev,0,2 of 9,22%,3 of 10,1 of 1,100%,0,0,1:07,1 of 8,1 of 1,0 of 0,1 of 8,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Daniil Donchenko,1,37 of 53,69%,50 of 67,0 of 0,---,0,0,0:39,18 of 33,12 of 13,7 of 7,25 of 40,4 of 5,8 of 8
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Daniil Donchenko,0,33 of 52,63%,33 of 52,0 of 1,0%,0,0,0:00,15 of 32,9 of 11,9 of 9,32 of 51,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Daniil Donchenko,0,13 of 32,40%,37 of 61,0 of 0,---,0,0,0:02,13 of 29,0 of 3,0 of 0,7 of 25,6 of 7,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Punahele Soriano,0,5 of 22,22%,5 of 22,0 of 3,0%,0,0,0:05,5 of 16,0 of 6,0 of 0,4 of 20,1 of 2,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Punahele Soriano,0,6 of 47,12%,6 of 47,1 of 2,50%,0,0,0:11,5 of 39,1 of 8,0 of 0,4 of 44,2 of 3,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Punahele Soriano,0,4 of 15,26%,32 of 46,3 of 6,50%,1,0,3:16,2 of 13,2 of 2,0 of 0,3 of 14,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Kurtis Campbell,0,34 of 47,72%,42 of 57,7 of 12,58%,0,0,3:31,28 of 37,5 of 8,1 of 2,9 of 16,1 of 3,24 of 28
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Kurtis Campbell,0,4 of 4,100%,26 of 34,3 of 6,50%,0,0,4:40,3 of 3,1 of 1,0 of 0,2 of 2,0 of 0,2 of 2
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Kurtis Campbell,0,6 of 10,60%,11 of 17,3 of 6,50%,1,0,2:09,5 of 8,1 of 2,0 of 0,6 of 10,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Trevor Peek,0,6 of 18,33%,7 of 19,0 of 0,---,0,0,0:00,3 of 13,1 of 1,2 of 4,5 of 17,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Trevor Peek,0,2 of 5,40%,5 of 8,0 of 0,---,0,0,0:00,0 of 3,2 of 2,0 of 0,1 of 3,1 of 2,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Trevor Peek,0,4 of 12,33%,5 of 13,0 of 0,---,0,0,0:00,2 of 9,1 of 1,1 of 2,4 of 12,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Losene Keita,2,18 of 30,60%,19 of 31,0 of 0,---,0,0,0:20,16 of 27,2 of 3,0 of 0,10 of 21,0 of 0,8 of 9
-UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Muhammad Naimov,0,4 of 24,16%,4 of 24,0 of 0,---,0,0,0:00,2 of 21,2 of 3,0 of 0,4 of 24,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Morgan Charriere,0,17 of 67,25%,18 of 68,0 of 1,0%,1,0,0:12,11 of 58,6 of 8,0 of 1,17 of 67,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Morgan Charriere,0,11 of 54,20%,12 of 55,0 of 2,0%,0,0,0:00,9 of 48,2 of 6,0 of 0,11 of 52,0 of 2,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Morgan Charriere,0,8 of 25,32%,8 of 25,0 of 0,---,0,0,0:19,4 of 16,3 of 8,1 of 1,8 of 25,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Felipe Lima,0,27 of 66,40%,28 of 67,1 of 1,100%,0,0,0:06,20 of 52,4 of 7,3 of 7,27 of 66,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Felipe Lima,0,48 of 79,60%,49 of 80,1 of 1,100%,0,0,0:07,36 of 62,10 of 14,2 of 3,45 of 75,3 of 4,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Felipe Lima,0,37 of 73,50%,38 of 74,0 of 0,---,0,0,0:00,26 of 60,4 of 4,7 of 9,35 of 71,2 of 2,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Mario Pinto,0,36 of 54,66%,78 of 96,5 of 6,83%,0,0,2:50,35 of 53,1 of 1,0 of 0,9 of 22,4 of 7,23 of 25
-UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Mario Pinto,0,12 of 13,92%,36 of 41,1 of 1,100%,0,0,0:43,12 of 13,0 of 0,0 of 0,1 of 2,2 of 2,9 of 9
-UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Ryan Spann,0,13 of 33,39%,16 of 36,0 of 1,0%,1,0,0:20,10 of 30,3 of 3,0 of 0,6 of 23,7 of 10,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Ryan Spann,0,0 of 1,0%,0 of 1,0 of 0,---,0,0,0:00,0 of 1,0 of 0,0 of 0,0 of 1,0 of 0,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Oumar Sy,0,34 of 53,64%,43 of 64,1 of 3,33%,1,0,3:08,25 of 42,2 of 4,7 of 7,10 of 22,0 of 0,24 of 31
-UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Oumar Sy,0,5 of 6,83%,5 of 7,2 of 5,40%,0,0,2:00,2 of 3,3 of 3,0 of 0,1 of 1,3 of 4,1 of 1
-UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Modestas Bukauskas,0,2 of 17,11%,5 of 20,0 of 0,---,0,0,0:00,2 of 17,0 of 0,0 of 0,1 of 16,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Modestas Bukauskas,1,20 of 29,68%,24 of 36,0 of 0,---,0,0,1:35,20 of 29,0 of 0,0 of 0,0 of 3,5 of 7,15 of 19
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Nathaniel Wood,0,8 of 32,25%,15 of 39,0 of 0,---,0,0,0:00,3 of 20,3 of 6,2 of 6,8 of 31,0 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Nathaniel Wood,1,15 of 43,34%,16 of 45,0 of 0,---,0,0,0:09,10 of 35,3 of 4,2 of 4,14 of 38,1 of 4,0 of 1
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Nathaniel Wood,0,5 of 11,45%,26 of 34,0 of 0,---,0,0,0:00,4 of 8,1 of 3,0 of 0,4 of 10,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Pavel Andrusca,0,14 of 34,41%,16 of 36,1 of 4,25%,0,0,0:55,11 of 28,2 of 5,1 of 1,10 of 29,3 of 4,1 of 1
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Pavel Andrusca,0,17 of 37,45%,21 of 41,2 of 10,20%,1,0,1:31,15 of 33,1 of 3,1 of 1,13 of 30,3 of 5,1 of 2
-UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Pavel Andrusca,0,19 of 34,55%,32 of 54,1 of 5,20%,0,0,3:40,18 of 31,1 of 3,0 of 0,10 of 23,3 of 4,6 of 7
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Michael Aljarouj,0,3 of 15,20%,21 of 35,0 of 2,0%,0,0,1:55,1 of 11,0 of 1,2 of 3,2 of 12,1 of 3,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Michael Aljarouj,0,2 of 11,18%,10 of 19,0 of 1,0%,0,0,0:40,1 of 8,0 of 0,1 of 3,1 of 10,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Michael Aljarouj,0,5 of 6,83%,39 of 45,0 of 0,---,1,1,1:49,3 of 4,1 of 1,1 of 1,2 of 2,0 of 0,3 of 4
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Fabia Sintes,0,6 of 15,40%,11 of 21,1 of 3,33%,0,0,0:51,0 of 6,5 of 5,1 of 4,2 of 11,4 of 4,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Fabia Sintes,0,19 of 27,70%,36 of 48,1 of 3,33%,2,0,2:39,12 of 20,6 of 6,1 of 1,8 of 13,2 of 2,9 of 12
-UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Fabia Sintes,0,3 of 7,42%,14 of 19,1 of 2,50%,1,0,2:49,3 of 6,0 of 1,0 of 0,0 of 2,0 of 0,3 of 5
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Nora Cornolle,0,14 of 25,56%,22 of 35,1 of 3,33%,0,0,2:50,4 of 12,9 of 12,1 of 1,4 of 11,10 of 13,0 of 1
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Nora Cornolle,0,12 of 23,52%,22 of 34,1 of 1,100%,0,0,2:52,7 of 14,4 of 5,1 of 4,3 of 9,7 of 11,2 of 3
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Nora Cornolle,0,8 of 15,53%,16 of 24,2 of 3,66%,1,0,3:17,5 of 12,3 of 3,0 of 0,6 of 10,2 of 5,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Klaudia Sygula,0,8 of 23,34%,47 of 66,0 of 1,0%,0,0,1:06,5 of 19,3 of 4,0 of 0,5 of 20,3 of 3,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Klaudia Sygula,0,5 of 15,33%,15 of 27,0 of 0,---,0,0,1:28,2 of 11,3 of 4,0 of 0,2 of 9,3 of 5,0 of 1
-UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Klaudia Sygula,0,10 of 26,38%,41 of 58,0 of 0,---,0,1,0:41,9 of 25,1 of 1,0 of 0,6 of 21,3 of 3,1 of 2
-UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Matthieu Duclos,1,18 of 43,41%,20 of 47,0 of 0,---,0,0,0:05,13 of 38,4 of 4,1 of 1,16 of 41,1 of 1,1 of 1
-UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Luis Felipe Dias,0,22 of 50,44%,23 of 51,0 of 0,---,0,0,0:33,15 of 38,4 of 6,3 of 6,19 of 45,3 of 5,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Delphine Benouaich,0,74 of 140,52%,74 of 140,0 of 0,---,0,0,0:00,52 of 114,16 of 20,6 of 6,69 of 133,5 of 7,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Delphine Benouaich,1,72 of 109,66%,80 of 122,0 of 0,---,1,0,1:41,52 of 86,13 of 16,7 of 7,37 of 66,5 of 5,30 of 38
-UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Sofia Montenegro,0,47 of 131,35%,47 of 131,0 of 0,---,0,0,0:00,34 of 114,9 of 11,4 of 6,46 of 130,1 of 1,0 of 0
-UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Sofia Montenegro,0,25 of 66,37%,25 of 68,0 of 0,---,0,0,0:00,18 of 56,2 of 5,5 of 5,22 of 60,3 of 6,0 of 0
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 1,Jean Silva,0,3 of 5,60%,3 of 5,0 of 1,0%,0,0,0:11,2 of 4,1 of 1,0 of 0,3 of 5,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 2,Jean Silva,0,23 of 50,46%,24 of 51,1 of 1,100%,0,0,1:02,18 of 40,5 of 10,0 of 0,17 of 40,3 of 5,3 of 5
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 3,Jean Silva,1,13 of 22,59%,13 of 22,0 of 0,---,1,0,0:24,7 of 16,4 of 4,2 of 2,12 of 21,0 of 0,1 of 1
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 1,Jose Delgado,0,17 of 34,50%,18 of 35,0 of 0,---,0,0,0:21,4 of 16,2 of 4,11 of 14,16 of 32,1 of 2,0 of 0
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 2,Jose Delgado,0,14 of 48,29%,14 of 48,0 of 0,---,0,0,0:00,8 of 42,3 of 3,3 of 3,10 of 41,4 of 7,0 of 0
+Noche UFC: Silva vs. Delgado,Jean Silva vs. Jose Delgado,Round 3,Jose Delgado,0,9 of 26,34%,9 of 26,0 of 1,0%,0,0,0:00,5 of 21,0 of 0,4 of 5,9 of 25,0 of 0,0 of 1
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 1,Brandon Moreno,0,27 of 72,37%,29 of 74,0 of 0,---,0,0,0:13,16 of 58,10 of 13,1 of 1,26 of 71,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 2,Brandon Moreno,0,25 of 70,35%,25 of 70,0 of 0,---,0,0,0:00,13 of 57,8 of 9,4 of 4,24 of 69,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 3,Brandon Moreno,0,15 of 38,39%,17 of 40,2 of 2,100%,0,0,2:21,6 of 29,4 of 4,5 of 5,11 of 31,2 of 2,2 of 5
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 1,Joseph Morales,0,29 of 76,38%,29 of 76,1 of 2,50%,0,0,0:21,23 of 66,3 of 6,3 of 4,24 of 71,5 of 5,0 of 0
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 2,Joseph Morales,0,26 of 71,36%,26 of 71,0 of 3,0%,0,0,0:00,22 of 65,3 of 5,1 of 1,25 of 68,1 of 3,0 of 0
+Noche UFC: Silva vs. Delgado,Brandon Moreno vs. Joseph Morales,Round 3,Joseph Morales,0,16 of 36,44%,22 of 42,0 of 3,0%,0,0,0:14,13 of 32,3 of 3,0 of 1,12 of 31,1 of 2,3 of 3
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 1,Tommy McMillen,0,29 of 87,33%,29 of 87,1 of 1,100%,0,0,0:21,20 of 74,4 of 8,5 of 5,29 of 87,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 2,Tommy McMillen,0,38 of 97,39%,47 of 106,2 of 2,100%,1,0,0:45,22 of 76,11 of 15,5 of 6,34 of 93,4 of 4,0 of 0
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 3,Tommy McMillen,1,22 of 53,41%,52 of 87,2 of 2,100%,2,0,3:47,14 of 42,6 of 7,2 of 4,15 of 40,5 of 10,2 of 3
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 1,Marwan Rahiki,0,23 of 76,30%,23 of 76,0 of 0,---,0,0,0:00,9 of 56,8 of 13,6 of 7,23 of 76,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 2,Marwan Rahiki,1,46 of 81,56%,46 of 81,0 of 1,0%,0,0,0:02,32 of 63,12 of 15,2 of 3,39 of 74,7 of 7,0 of 0
+Noche UFC: Silva vs. Delgado,Tommy McMillen vs. Marwan Rahiki,Round 3,Marwan Rahiki,0,10 of 21,47%,11 of 22,1 of 1,100%,0,0,0:05,5 of 16,4 of 4,1 of 1,7 of 18,3 of 3,0 of 0
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 1,Manon Fiorot,0,21 of 75,28%,22 of 76,0 of 0,---,0,0,0:02,15 of 66,5 of 7,1 of 2,20 of 74,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 2,Manon Fiorot,0,24 of 79,30%,24 of 79,0 of 0,---,0,0,0:00,17 of 70,6 of 7,1 of 2,24 of 79,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 3,Manon Fiorot,0,27 of 72,37%,27 of 72,0 of 0,---,0,0,0:00,19 of 60,8 of 12,0 of 0,26 of 70,1 of 2,0 of 0
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 1,Alexa Grasso,1,33 of 74,44%,48 of 90,0 of 0,---,0,0,0:43,29 of 68,0 of 1,4 of 5,26 of 65,4 of 5,3 of 4
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 2,Alexa Grasso,0,23 of 63,36%,23 of 63,0 of 0,---,0,0,0:00,17 of 52,1 of 3,5 of 8,23 of 63,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Manon Fiorot vs. Alexa Grasso,Round 3,Alexa Grasso,0,24 of 59,40%,25 of 60,0 of 0,---,0,0,0:14,17 of 50,4 of 4,3 of 5,20 of 53,4 of 6,0 of 0
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 1,Waldo Cortes Acosta,0,7 of 23,30%,8 of 24,0 of 0,---,0,0,0:00,5 of 20,0 of 0,2 of 3,7 of 23,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 2,Waldo Cortes Acosta,0,9 of 36,25%,9 of 36,0 of 0,---,0,0,0:00,7 of 34,0 of 0,2 of 2,9 of 36,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 3,Waldo Cortes Acosta,0,12 of 36,33%,13 of 37,0 of 0,---,0,0,0:00,9 of 33,0 of 0,3 of 3,12 of 36,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 1,Curtis Blaydes,0,7 of 27,25%,7 of 27,1 of 3,33%,0,0,1:13,1 of 20,2 of 2,4 of 5,6 of 26,0 of 0,1 of 1
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 2,Curtis Blaydes,0,9 of 24,37%,16 of 31,2 of 3,66%,0,0,1:27,3 of 18,1 of 1,5 of 5,9 of 24,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Waldo Cortes Acosta vs. Curtis Blaydes,Round 3,Curtis Blaydes,0,8 of 23,34%,9 of 24,1 of 4,25%,0,0,0:58,1 of 12,1 of 2,6 of 9,8 of 23,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 1,David Martinez,0,17 of 34,50%,17 of 34,0 of 0,---,0,0,0:00,6 of 18,4 of 7,7 of 9,17 of 34,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 2,David Martinez,0,14 of 55,25%,14 of 55,0 of 0,---,0,0,0:00,6 of 43,4 of 7,4 of 5,14 of 55,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 3,David Martinez,0,21 of 50,42%,27 of 57,1 of 1,100%,0,0,0:19,13 of 39,2 of 5,6 of 6,21 of 49,0 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 1,Dan Ige,0,5 of 43,11%,5 of 43,0 of 0,---,0,0,0:02,4 of 34,0 of 7,1 of 2,4 of 42,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 2,Dan Ige,0,9 of 35,25%,9 of 35,0 of 1,0%,0,0,0:03,5 of 26,1 of 4,3 of 5,9 of 35,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,David Martinez vs. Dan Ige,Round 3,Dan Ige,0,13 of 46,28%,13 of 46,0 of 0,---,0,0,0:00,10 of 41,3 of 4,0 of 1,13 of 46,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 1,Tim Elliott,0,27 of 63,42%,48 of 85,1 of 3,33%,0,0,1:12,18 of 46,5 of 12,4 of 5,21 of 53,1 of 1,5 of 9
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 2,Tim Elliott,0,13 of 39,33%,44 of 95,2 of 3,66%,0,0,3:20,12 of 35,0 of 2,1 of 2,10 of 28,0 of 3,3 of 8
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 3,Tim Elliott,0,24 of 102,23%,50 of 129,2 of 5,40%,0,0,1:22,22 of 95,1 of 5,1 of 2,12 of 80,4 of 4,8 of 18
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 1,Edgar Chairez,0,25 of 58,43%,26 of 59,0 of 0,---,0,0,0:00,19 of 51,6 of 7,0 of 0,24 of 57,0 of 0,1 of 1
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 2,Edgar Chairez,0,12 of 21,57%,23 of 32,0 of 0,---,0,0,0:00,5 of 14,3 of 3,4 of 4,12 of 20,0 of 0,0 of 1
+Noche UFC: Silva vs. Delgado,Tim Elliott vs. Edgar Chairez,Round 3,Edgar Chairez,0,21 of 45,46%,21 of 45,0 of 0,---,1,0,0:04,17 of 41,2 of 2,2 of 2,20 of 44,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 1,Ignacio Bahamondes,0,23 of 55,41%,23 of 55,0 of 0,---,0,0,0:00,12 of 37,5 of 9,6 of 9,23 of 55,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 2,Ignacio Bahamondes,0,28 of 53,52%,30 of 55,0 of 0,---,0,0,0:00,11 of 32,7 of 9,10 of 12,26 of 51,2 of 2,0 of 0
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 3,Ignacio Bahamondes,0,27 of 52,51%,38 of 65,0 of 0,---,0,0,0:00,16 of 35,5 of 8,6 of 9,17 of 37,0 of 0,10 of 15
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 1,Muslim Salikhov,0,13 of 31,41%,13 of 31,0 of 2,0%,0,0,0:02,2 of 17,2 of 2,9 of 12,12 of 30,0 of 0,1 of 1
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 2,Muslim Salikhov,0,13 of 30,43%,13 of 30,1 of 4,25%,0,0,0:13,3 of 16,3 of 7,7 of 7,13 of 29,0 of 0,0 of 1
+Noche UFC: Silva vs. Delgado,Ignacio Bahamondes vs. Muslim Salikhov,Round 3,Muslim Salikhov,0,16 of 36,44%,18 of 41,2 of 2,100%,0,0,1:01,7 of 24,5 of 8,4 of 4,13 of 28,0 of 0,3 of 8
+Noche UFC: Silva vs. Delgado,Yousri Belgaroui vs. Djorden Santos,Round 1,Yousri Belgaroui,1,46 of 81,56%,46 of 81,0 of 0,---,0,0,0:00,16 of 43,18 of 26,12 of 12,45 of 80,1 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Yousri Belgaroui vs. Djorden Santos,Round 1,Djorden Santos,0,16 of 48,33%,16 of 48,0 of 0,---,0,0,0:00,13 of 44,0 of 1,3 of 3,16 of 48,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 1,Drakkar Klose,0,3 of 5,60%,30 of 33,0 of 0,---,0,0,0:00,1 of 2,2 of 2,0 of 1,1 of 3,2 of 2,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 2,Drakkar Klose,0,11 of 22,50%,45 of 57,0 of 0,---,0,0,0:02,4 of 13,5 of 7,2 of 2,3 of 7,8 of 15,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 3,Drakkar Klose,0,1 of 3,33%,12 of 18,0 of 0,---,0,1,0:19,1 of 2,0 of 1,0 of 0,1 of 2,0 of 1,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 1,Tommy Gantt,0,22 of 28,78%,43 of 51,1 of 2,50%,0,0,4:00,3 of 9,19 of 19,0 of 0,1 of 6,21 of 22,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 2,Tommy Gantt,0,18 of 35,51%,29 of 48,0 of 3,0%,0,0,3:42,6 of 18,9 of 13,3 of 4,4 of 18,14 of 17,0 of 0
+Noche UFC: Silva vs. Delgado,Drakkar Klose vs. Tommy Gantt,Round 3,Tommy Gantt,0,16 of 19,84%,23 of 27,1 of 3,33%,1,0,2:13,15 of 18,0 of 0,1 of 1,2 of 3,0 of 0,14 of 16
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 1,Rafa Garcia,0,21 of 50,42%,21 of 50,1 of 1,100%,0,0,0:28,18 of 47,1 of 1,2 of 2,18 of 47,2 of 2,1 of 1
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 2,Rafa Garcia,0,23 of 69,33%,25 of 71,0 of 2,0%,0,0,0:23,18 of 62,2 of 4,3 of 3,17 of 59,6 of 10,0 of 0
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 3,Rafa Garcia,0,29 of 70,41%,31 of 72,0 of 6,0%,0,0,0:24,28 of 69,1 of 1,0 of 0,25 of 65,4 of 5,0 of 0
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 1,Rongzhu,0,29 of 69,42%,29 of 69,0 of 0,---,0,0,0:00,19 of 55,2 of 4,8 of 10,28 of 67,1 of 2,0 of 0
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 2,Rongzhu,0,39 of 79,49%,40 of 80,0 of 0,---,0,0,0:00,26 of 64,3 of 5,10 of 10,39 of 79,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Rafa Garcia vs. Rongzhu,Round 3,Rongzhu,0,41 of 99,41%,41 of 99,0 of 0,---,0,0,0:00,33 of 91,4 of 4,4 of 4,41 of 99,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,Sean King III vs. Jessie Rosas,Round 1,Sean King III,0,7 of 13,53%,7 of 13,1 of 1,100%,0,0,0:04,4 of 8,1 of 2,2 of 3,4 of 10,0 of 0,3 of 3
+Noche UFC: Silva vs. Delgado,Sean King III vs. Jessie Rosas,Round 1,Jessie Rosas,0,3 of 6,50%,3 of 6,0 of 0,---,0,0,0:00,0 of 2,1 of 2,2 of 2,3 of 6,0 of 0,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 1,JJ Aldrich,0,21 of 37,56%,29 of 45,0 of 1,0%,0,0,0:33,12 of 27,7 of 8,2 of 2,14 of 30,7 of 7,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 2,JJ Aldrich,0,18 of 40,45%,20 of 42,0 of 2,0%,0,0,0:00,11 of 31,3 of 5,4 of 4,16 of 36,2 of 4,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 3,JJ Aldrich,0,24 of 41,58%,25 of 42,0 of 1,0%,0,0,0:08,16 of 33,4 of 4,4 of 4,16 of 32,8 of 9,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 1,Regina Tarin,0,22 of 52,42%,25 of 55,0 of 0,---,0,0,0:00,12 of 37,6 of 8,4 of 7,12 of 39,10 of 13,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 2,Regina Tarin,0,27 of 70,38%,28 of 71,0 of 0,---,0,0,0:04,17 of 57,8 of 11,2 of 2,23 of 65,4 of 5,0 of 0
+Noche UFC: Silva vs. Delgado,JJ Aldrich vs. Regina Tarin,Round 3,Regina Tarin,0,28 of 68,41%,34 of 74,0 of 0,---,0,0,0:05,16 of 52,6 of 10,6 of 6,22 of 60,6 of 8,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Dan Hooker,0.0,14 of 31,45%,14 of 31,0 of 0,---,0.0,0.0,0:00,0 of 9,2 of 3,12 of 19,14 of 31,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Dan Hooker vs. Salahdine Parnasse,Round 1,Salahdine Parnasse,1.0,12 of 17,70%,12 of 17,0 of 0,---,0.0,0.0,0:02,7 of 12,2 of 2,3 of 3,9 of 14,0 of 0,3 of 3
+UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Fares Ziam,0.0,7 of 13,53%,7 of 13,0 of 0,---,0.0,0.0,0:00,0 of 5,2 of 2,5 of 6,7 of 13,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Fares Ziam vs. Axel Sola,Round 1,Axel Sola,1.0,9 of 13,69%,9 of 13,0 of 0,---,0.0,0.0,0:02,7 of 10,2 of 3,0 of 0,6 of 10,0 of 0,3 of 3
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Michael Page,0.0,4 of 5,80%,18 of 20,0 of 1,0%,1.0,0.0,0:00,2 of 3,1 of 1,1 of 1,3 of 4,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Michael Page,0.0,5 of 13,38%,17 of 25,0 of 1,0%,0.0,0.0,0:49,2 of 8,1 of 2,2 of 3,5 of 13,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Michael Page,0.0,3 of 10,30%,14 of 21,0 of 0,---,0.0,0.0,0:17,3 of 8,0 of 2,0 of 0,3 of 10,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 1,Nursulton Ruziboev,0.0,4 of 6,66%,16 of 18,1 of 1,100%,0.0,0.0,4:20,4 of 6,0 of 0,0 of 0,0 of 2,0 of 0,4 of 4
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 2,Nursulton Ruziboev,0.0,2 of 14,14%,2 of 14,0 of 1,0%,0.0,0.0,0:01,0 of 12,1 of 1,1 of 1,2 of 13,0 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Page vs. Nursulton Ruziboev,Round 3,Nursulton Ruziboev,0.0,2 of 9,22%,3 of 10,1 of 1,100%,0.0,0.0,1:07,1 of 8,1 of 1,0 of 0,1 of 8,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Daniil Donchenko,1.0,37 of 53,69%,50 of 67,0 of 0,---,0.0,0.0,0:39,18 of 33,12 of 13,7 of 7,25 of 40,4 of 5,8 of 8
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Daniil Donchenko,0.0,33 of 52,63%,33 of 52,0 of 1,0%,0.0,0.0,0:00,15 of 32,9 of 11,9 of 9,32 of 51,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Daniil Donchenko,0.0,13 of 32,40%,37 of 61,0 of 0,---,0.0,0.0,0:02,13 of 29,0 of 3,0 of 0,7 of 25,6 of 7,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 1,Punahele Soriano,0.0,5 of 22,22%,5 of 22,0 of 3,0%,0.0,0.0,0:05,5 of 16,0 of 6,0 of 0,4 of 20,1 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 2,Punahele Soriano,0.0,6 of 47,12%,6 of 47,1 of 2,50%,0.0,0.0,0:11,5 of 39,1 of 8,0 of 0,4 of 44,2 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Daniil Donchenko vs. Punahele Soriano,Round 3,Punahele Soriano,0.0,4 of 15,26%,32 of 46,3 of 6,50%,1.0,0.0,3:16,2 of 13,2 of 2,0 of 0,3 of 14,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Kurtis Campbell,0.0,34 of 47,72%,42 of 57,7 of 12,58%,0.0,0.0,3:31,28 of 37,5 of 8,1 of 2,9 of 16,1 of 3,24 of 28
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Kurtis Campbell,0.0,4 of 4,100%,26 of 34,3 of 6,50%,0.0,0.0,4:40,3 of 3,1 of 1,0 of 0,2 of 2,0 of 0,2 of 2
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Kurtis Campbell,0.0,6 of 10,60%,11 of 17,3 of 6,50%,1.0,0.0,2:09,5 of 8,1 of 2,0 of 0,6 of 10,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 1,Trevor Peek,0.0,6 of 18,33%,7 of 19,0 of 0,---,0.0,0.0,0:00,3 of 13,1 of 1,2 of 4,5 of 17,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 2,Trevor Peek,0.0,2 of 5,40%,5 of 8,0 of 0,---,0.0,0.0,0:00,0 of 3,2 of 2,0 of 0,1 of 3,1 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Kurtis Campbell vs. Trevor Peek,Round 3,Trevor Peek,0.0,4 of 12,33%,5 of 13,0 of 0,---,0.0,0.0,0:00,2 of 9,1 of 1,1 of 2,4 of 12,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Losene Keita,2.0,18 of 30,60%,19 of 31,0 of 0,---,0.0,0.0,0:20,16 of 27,2 of 3,0 of 0,10 of 21,0 of 0,8 of 9
+UFC Fight Night: Hooker vs. Parnasse,Losene Keita vs. Muhammad Naimov,Round 1,Muhammad Naimov,0.0,4 of 24,16%,4 of 24,0 of 0,---,0.0,0.0,0:00,2 of 21,2 of 3,0 of 0,4 of 24,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Morgan Charriere,0.0,17 of 67,25%,18 of 68,0 of 1,0%,1.0,0.0,0:12,11 of 58,6 of 8,0 of 1,17 of 67,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Morgan Charriere,0.0,11 of 54,20%,12 of 55,0 of 2,0%,0.0,0.0,0:00,9 of 48,2 of 6,0 of 0,11 of 52,0 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Morgan Charriere,0.0,8 of 25,32%,8 of 25,0 of 0,---,0.0,0.0,0:19,4 of 16,3 of 8,1 of 1,8 of 25,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 1,Felipe Lima,0.0,27 of 66,40%,28 of 67,1 of 1,100%,0.0,0.0,0:06,20 of 52,4 of 7,3 of 7,27 of 66,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 2,Felipe Lima,0.0,48 of 79,60%,49 of 80,1 of 1,100%,0.0,0.0,0:07,36 of 62,10 of 14,2 of 3,45 of 75,3 of 4,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Morgan Charriere vs. Felipe Lima,Round 3,Felipe Lima,0.0,37 of 73,50%,38 of 74,0 of 0,---,0.0,0.0,0:00,26 of 60,4 of 4,7 of 9,35 of 71,2 of 2,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Mario Pinto,0.0,36 of 54,66%,78 of 96,5 of 6,83%,0.0,0.0,2:50,35 of 53,1 of 1,0 of 0,9 of 22,4 of 7,23 of 25
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Mario Pinto,0.0,12 of 13,92%,36 of 41,1 of 1,100%,0.0,0.0,0:43,12 of 13,0 of 0,0 of 0,1 of 2,2 of 2,9 of 9
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 1,Ryan Spann,0.0,13 of 33,39%,16 of 36,0 of 1,0%,1.0,0.0,0:20,10 of 30,3 of 3,0 of 0,6 of 23,7 of 10,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Mario Pinto vs. Ryan Spann,Round 2,Ryan Spann,0.0,0 of 1,0%,0 of 1,0 of 0,---,0.0,0.0,0:00,0 of 1,0 of 0,0 of 0,0 of 1,0 of 0,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Oumar Sy,0.0,34 of 53,64%,43 of 64,1 of 3,33%,1.0,0.0,3:08,25 of 42,2 of 4,7 of 7,10 of 22,0 of 0,24 of 31
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Oumar Sy,0.0,5 of 6,83%,5 of 7,2 of 5,40%,0.0,0.0,2:00,2 of 3,3 of 3,0 of 0,1 of 1,3 of 4,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 1,Modestas Bukauskas,0.0,2 of 17,11%,5 of 20,0 of 0,---,0.0,0.0,0:00,2 of 17,0 of 0,0 of 0,1 of 16,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Oumar Sy vs. Modestas Bukauskas,Round 2,Modestas Bukauskas,1.0,20 of 29,68%,24 of 36,0 of 0,---,0.0,0.0,1:35,20 of 29,0 of 0,0 of 0,0 of 3,5 of 7,15 of 19
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Nathaniel Wood,0.0,8 of 32,25%,15 of 39,0 of 0,---,0.0,0.0,0:00,3 of 20,3 of 6,2 of 6,8 of 31,0 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Nathaniel Wood,1.0,15 of 43,34%,16 of 45,0 of 0,---,0.0,0.0,0:09,10 of 35,3 of 4,2 of 4,14 of 38,1 of 4,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Nathaniel Wood,0.0,5 of 11,45%,26 of 34,0 of 0,---,0.0,0.0,0:00,4 of 8,1 of 3,0 of 0,4 of 10,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 1,Pavel Andrusca,0.0,14 of 34,41%,16 of 36,1 of 4,25%,0.0,0.0,0:55,11 of 28,2 of 5,1 of 1,10 of 29,3 of 4,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 2,Pavel Andrusca,0.0,17 of 37,45%,21 of 41,2 of 10,20%,1.0,0.0,1:31,15 of 33,1 of 3,1 of 1,13 of 30,3 of 5,1 of 2
+UFC Fight Night: Hooker vs. Parnasse,Nathaniel Wood vs. Pavel Andrusca,Round 3,Pavel Andrusca,0.0,19 of 34,55%,32 of 54,1 of 5,20%,0.0,0.0,3:40,18 of 31,1 of 3,0 of 0,10 of 23,3 of 4,6 of 7
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Michael Aljarouj,0.0,3 of 15,20%,21 of 35,0 of 2,0%,0.0,0.0,1:55,1 of 11,0 of 1,2 of 3,2 of 12,1 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Michael Aljarouj,0.0,2 of 11,18%,10 of 19,0 of 1,0%,0.0,0.0,0:40,1 of 8,0 of 0,1 of 3,1 of 10,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Michael Aljarouj,0.0,5 of 6,83%,39 of 45,0 of 0,---,1.0,1.0,1:49,3 of 4,1 of 1,1 of 1,2 of 2,0 of 0,3 of 4
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 1,Fabia Sintes,0.0,6 of 15,40%,11 of 21,1 of 3,33%,0.0,0.0,0:51,0 of 6,5 of 5,1 of 4,2 of 11,4 of 4,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 2,Fabia Sintes,0.0,19 of 27,70%,36 of 48,1 of 3,33%,2.0,0.0,2:39,12 of 20,6 of 6,1 of 1,8 of 13,2 of 2,9 of 12
+UFC Fight Night: Hooker vs. Parnasse,Michael Aljarouj vs. Fabia Sintes,Round 3,Fabia Sintes,0.0,3 of 7,42%,14 of 19,1 of 2,50%,1.0,0.0,2:49,3 of 6,0 of 1,0 of 0,0 of 2,0 of 0,3 of 5
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Nora Cornolle,0.0,14 of 25,56%,22 of 35,1 of 3,33%,0.0,0.0,2:50,4 of 12,9 of 12,1 of 1,4 of 11,10 of 13,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Nora Cornolle,0.0,12 of 23,52%,22 of 34,1 of 1,100%,0.0,0.0,2:52,7 of 14,4 of 5,1 of 4,3 of 9,7 of 11,2 of 3
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Nora Cornolle,0.0,8 of 15,53%,16 of 24,2 of 3,66%,1.0,0.0,3:17,5 of 12,3 of 3,0 of 0,6 of 10,2 of 5,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 1,Klaudia Sygula,0.0,8 of 23,34%,47 of 66,0 of 1,0%,0.0,0.0,1:06,5 of 19,3 of 4,0 of 0,5 of 20,3 of 3,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 2,Klaudia Sygula,0.0,5 of 15,33%,15 of 27,0 of 0,---,0.0,0.0,1:28,2 of 11,3 of 4,0 of 0,2 of 9,3 of 5,0 of 1
+UFC Fight Night: Hooker vs. Parnasse,Nora Cornolle vs. Klaudia Sygula,Round 3,Klaudia Sygula,0.0,10 of 26,38%,41 of 58,0 of 0,---,0.0,1.0,0:41,9 of 25,1 of 1,0 of 0,6 of 21,3 of 3,1 of 2
+UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Matthieu Duclos,1.0,18 of 43,41%,20 of 47,0 of 0,---,0.0,0.0,0:05,13 of 38,4 of 4,1 of 1,16 of 41,1 of 1,1 of 1
+UFC Fight Night: Hooker vs. Parnasse,Matthieu Duclos vs. Luis Felipe Dias,Round 1,Luis Felipe Dias,0.0,22 of 50,44%,23 of 51,0 of 0,---,0.0,0.0,0:33,15 of 38,4 of 6,3 of 6,19 of 45,3 of 5,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Delphine Benouaich,0.0,74 of 140,52%,74 of 140,0 of 0,---,0.0,0.0,0:00,52 of 114,16 of 20,6 of 6,69 of 133,5 of 7,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Delphine Benouaich,1.0,72 of 109,66%,80 of 122,0 of 0,---,1.0,0.0,1:41,52 of 86,13 of 16,7 of 7,37 of 66,5 of 5,30 of 38
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 1,Sofia Montenegro,0.0,47 of 131,35%,47 of 131,0 of 0,---,0.0,0.0,0:00,34 of 114,9 of 11,4 of 6,46 of 130,1 of 1,0 of 0
+UFC Fight Night: Hooker vs. Parnasse,Delphine Benouaich vs. Sofia Montenegro,Round 2,Sofia Montenegro,0.0,25 of 66,37%,25 of 68,0 of 0,---,0.0,0.0,0:00,18 of 56,2 of 5,5 of 5,22 of 60,3 of 6,0 of 0
 UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Umar Nurmagomedov,0.0,7 of 10,70%,17 of 21,1 of 1,100%,0.0,0.0,1:58,3 of 5,0 of 0,4 of 5,7 of 10,0 of 0,0 of 0
 UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 2,Umar Nurmagomedov,0.0,6 of 11,54%,6 of 11,0 of 2,0%,0.0,0.0,0:00,4 of 9,0 of 0,2 of 2,6 of 11,0 of 0,0 of 0
 UFC Fight Night: Nurmagomedov vs. Song,Umar Nurmagomedov vs. Song Yadong,Round 1,Song Yadong,0.0,5 of 10,50%,18 of 23,0 of 0,---,1.0,0.0,0:00,1 of 5,2 of 2,2 of 3,5 of 10,0 of 0,0 of 0
