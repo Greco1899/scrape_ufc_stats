@@ -1,54 +1,104 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 1,Natalia Silva,0,16 of 40,40%,20 of 44,1 of 1,100%,0,0,1:28,12 of 33,3 of 4,1 of 3,12 of 34,4 of 5,0 of 1
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 2,Natalia Silva,1,13 of 29,44%,25 of 41,1 of 2,50%,0,0,2:11,7 of 21,3 of 4,3 of 4,8 of 22,3 of 3,2 of 4
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 3,Natalia Silva,0,23 of 49,46%,23 of 49,0 of 1,0%,0,0,0:01,15 of 36,4 of 8,4 of 5,21 of 47,2 of 2,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 4,Natalia Silva,0,24 of 46,52%,30 of 52,1 of 1,100%,0,0,0:32,11 of 30,9 of 12,4 of 4,21 of 42,3 of 4,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 5,Natalia Silva,0,33 of 52,63%,35 of 54,0 of 0,---,0,0,0:00,19 of 35,9 of 11,5 of 6,31 of 50,2 of 2,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 1,Wang Cong,0,9 of 22,40%,18 of 34,0 of 0,---,0,0,0:00,2 of 11,2 of 3,5 of 8,8 of 21,0 of 0,1 of 1
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 2,Wang Cong,0,12 of 30,40%,29 of 47,0 of 0,---,0,0,0:00,3 of 16,1 of 2,8 of 12,12 of 30,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 3,Wang Cong,0,18 of 39,46%,18 of 39,0 of 0,---,0,0,0:00,9 of 21,3 of 5,6 of 13,17 of 38,1 of 1,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 4,Wang Cong,0,26 of 48,54%,33 of 55,0 of 0,---,0,0,0:57,11 of 22,7 of 13,8 of 13,22 of 44,4 of 4,0 of 0
-UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 5,Wang Cong,0,33 of 67,49%,49 of 84,0 of 0,---,0,0,1:42,20 of 49,6 of 8,7 of 10,28 of 62,5 of 5,0 of 0
-UFC 332: Silva vs. Wang,Deiveson Figueiredo vs. Payton Talbott,Round 1,Deiveson Figueiredo,0,5 of 6,83%,5 of 6,0 of 2,0%,0,0,0:22,3 of 4,1 of 1,1 of 1,5 of 6,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Deiveson Figueiredo vs. Payton Talbott,Round 1,Payton Talbott,2,25 of 44,56%,27 of 46,0 of 0,---,0,0,0:12,18 of 37,5 of 5,2 of 2,17 of 33,0 of 0,8 of 11
-UFC 332: Silva vs. Wang,King Green vs. Esteban Ribovics,Round 1,King Green,0,27 of 49,55%,29 of 51,0 of 1,0%,0,0,0:04,11 of 23,11 of 18,5 of 8,24 of 46,3 of 3,0 of 0
-UFC 332: Silva vs. Wang,King Green vs. Esteban Ribovics,Round 1,Esteban Ribovics,3,35 of 71,49%,41 of 79,0 of 0,---,0,0,0:31,25 of 56,4 of 6,6 of 9,28 of 56,0 of 2,7 of 13
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 1,Roberto Soldic,0,15 of 32,46%,33 of 54,1 of 1,100%,0,0,1:12,7 of 23,5 of 6,3 of 3,15 of 32,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 2,Roberto Soldic,0,43 of 74,58%,57 of 90,1 of 1,100%,0,0,1:38,36 of 63,6 of 9,1 of 2,32 of 57,0 of 0,11 of 17
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 3,Roberto Soldic,0,36 of 56,64%,48 of 69,1 of 1,100%,0,0,1:42,25 of 44,9 of 10,2 of 2,31 of 50,0 of 0,5 of 6
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 1,Khaos Williams,0,16 of 41,39%,16 of 41,0 of 0,---,0,0,0:03,6 of 26,3 of 8,7 of 7,16 of 39,0 of 0,0 of 2
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 2,Khaos Williams,0,6 of 37,16%,6 of 37,0 of 0,---,0,0,0:00,2 of 33,2 of 2,2 of 2,6 of 37,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 3,Khaos Williams,0,5 of 28,17%,5 of 28,0 of 0,---,0,0,0:00,4 of 24,1 of 4,0 of 0,5 of 28,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Ateba Gautier vs. Roman Kopylov,Round 1,Ateba Gautier,0,7 of 30,23%,7 of 30,0 of 0,---,0,0,0:00,3 of 21,4 of 9,0 of 0,7 of 30,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Ateba Gautier vs. Roman Kopylov,Round 1,Roman Kopylov,1,19 of 23,82%,19 of 23,0 of 0,---,0,0,0:05,16 of 20,1 of 1,2 of 2,12 of 15,0 of 0,7 of 8
-UFC 332: Silva vs. Wang,Imanol Rodriguez vs. Alden Coria,Round 1,Imanol Rodriguez,1,20 of 46,43%,20 of 46,1 of 1,100%,0,0,0:06,12 of 35,8 of 10,0 of 1,18 of 41,0 of 0,2 of 5
-UFC 332: Silva vs. Wang,Imanol Rodriguez vs. Alden Coria,Round 1,Alden Coria,0,4 of 17,23%,4 of 17,0 of 0,---,0,0,0:00,3 of 15,0 of 0,1 of 2,4 of 17,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Damian Pinas vs. Andrey Pulyaev,Round 1,Damian Pinas,1,5 of 7,71%,5 of 7,0 of 0,---,0,0,0:03,3 of 4,0 of 1,2 of 2,5 of 7,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Damian Pinas vs. Andrey Pulyaev,Round 1,Andrey Pulyaev,0,4 of 11,36%,4 of 11,0 of 0,---,0,0,0:00,1 of 7,2 of 3,1 of 1,4 of 11,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Marcus McGhee vs. Anthony Romero,Round 1,Marcus McGhee,2,34 of 75,45%,35 of 76,0 of 0,---,0,0,1:01,24 of 63,6 of 8,4 of 4,14 of 43,0 of 0,20 of 32
-UFC 332: Silva vs. Wang,Marcus McGhee vs. Anthony Romero,Round 1,Anthony Romero,0,13 of 37,35%,13 of 37,1 of 1,100%,0,0,0:04,8 of 31,3 of 3,2 of 3,13 of 35,0 of 0,0 of 2
-UFC 332: Silva vs. Wang,Anthony Wint vs. Lucas Armand,Round 1,Anthony Wint,1,12 of 18,66%,12 of 18,0 of 1,0%,0,0,0:05,9 of 14,3 of 4,0 of 0,11 of 17,0 of 0,1 of 1
-UFC 332: Silva vs. Wang,Anthony Wint vs. Lucas Armand,Round 1,Lucas Armand,0,1 of 5,20%,1 of 5,0 of 0,---,0,0,0:00,1 of 5,0 of 0,0 of 0,1 of 5,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Johnny Walker vs. Mick Parkin,Round 1,Johnny Walker,1,23 of 32,71%,23 of 32,0 of 0,---,0,0,0:27,6 of 14,4 of 4,13 of 14,19 of 28,4 of 4,0 of 0
-UFC 332: Silva vs. Wang,Johnny Walker vs. Mick Parkin,Round 1,Mick Parkin,0,11 of 16,68%,14 of 19,0 of 0,---,0,0,0:31,2 of 6,0 of 0,9 of 10,11 of 16,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Jacobe Smith vs. Bruce Whitehead,Round 1,Jacobe Smith,0,11 of 17,64%,19 of 27,1 of 2,50%,0,0,0:29,6 of 12,5 of 5,0 of 0,6 of 12,1 of 1,4 of 4
-UFC 332: Silva vs. Wang,Jacobe Smith vs. Bruce Whitehead,Round 1,Bruce Whitehead,0,4 of 13,30%,15 of 24,0 of 0,---,0,0,0:03,3 of 11,1 of 2,0 of 0,3 of 10,1 of 3,0 of 0
-UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 1,Rafael Dos Anjos,0,25 of 50,50%,25 of 50,0 of 0,---,0,0,0:00,19 of 40,6 of 10,0 of 0,25 of 50,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 2,Rafael Dos Anjos,0,1 of 9,11%,7 of 15,0 of 0,---,0,0,0:00,1 of 9,0 of 0,0 of 0,0 of 8,0 of 0,1 of 1
-UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 1,Alexander Hernandez,0,22 of 52,42%,22 of 52,0 of 0,---,0,0,0:00,14 of 43,7 of 8,1 of 1,22 of 52,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 2,Alexander Hernandez,2,14 of 34,41%,25 of 45,0 of 0,---,0,0,2:44,13 of 33,0 of 0,1 of 1,3 of 11,0 of 1,11 of 22
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 1,Marvin Vettori,0,18 of 64,28%,19 of 65,0 of 2,0%,0,0,0:13,12 of 54,3 of 4,3 of 6,18 of 64,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 2,Marvin Vettori,0,29 of 69,42%,29 of 69,0 of 0,---,0,0,0:00,24 of 63,3 of 4,2 of 2,29 of 69,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 3,Marvin Vettori,0,29 of 68,42%,29 of 68,0 of 0,---,0,0,0:00,26 of 65,1 of 1,2 of 2,29 of 68,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 1,Ismail Naurdiev,0,28 of 59,47%,28 of 59,2 of 2,100%,1,0,1:06,10 of 36,1 of 4,17 of 19,28 of 59,0 of 0,0 of 0
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 2,Ismail Naurdiev,0,26 of 65,40%,26 of 65,1 of 1,100%,0,0,0:02,14 of 49,5 of 8,7 of 8,24 of 63,2 of 2,0 of 0
-UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 3,Ismail Naurdiev,0,20 of 66,30%,20 of 66,0 of 4,0%,0,0,0:02,13 of 56,3 of 4,4 of 6,20 of 65,0 of 1,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 1,Court McGee,0,22 of 76,28%,42 of 96,0 of 3,0%,0,0,1:11,10 of 61,6 of 9,6 of 6,19 of 70,3 of 6,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 2,Court McGee,0,52 of 120,43%,56 of 126,0 of 3,0%,0,0,0:14,40 of 103,7 of 12,5 of 5,47 of 114,5 of 6,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 3,Court McGee,0,24 of 77,31%,29 of 82,0 of 1,0%,0,0,0:17,14 of 63,5 of 9,5 of 5,22 of 74,2 of 3,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 1,Eric Nolan,0,23 of 59,38%,27 of 63,0 of 0,---,0,0,0:02,18 of 51,4 of 7,1 of 1,20 of 55,3 of 4,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 2,Eric Nolan,0,46 of 102,45%,46 of 102,0 of 0,---,0,0,0:00,40 of 93,6 of 9,0 of 0,43 of 97,3 of 5,0 of 0
-UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 3,Eric Nolan,1,52 of 85,61%,52 of 85,0 of 0,---,0,0,0:19,47 of 78,5 of 7,0 of 0,37 of 70,15 of 15,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 1,Brendan Allen,0,15 of 22,68%,16 of 25,1 of 4,25%,0,0,1:31,11 of 18,3 of 3,1 of 1,5 of 12,10 of 10,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 2,Brendan Allen,0,10 of 24,41%,33 of 47,1 of 2,50%,1,0,2:49,6 of 18,2 of 3,2 of 3,8 of 20,1 of 2,1 of 2
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 3,Brendan Allen,0,6 of 6,100%,22 of 23,1 of 3,33%,0,1,2:57,6 of 6,0 of 0,0 of 0,0 of 0,0 of 0,6 of 6
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 4,Brendan Allen,0,17 of 43,39%,17 of 43,0 of 0,---,0,0,0:00,10 of 33,5 of 8,2 of 2,16 of 39,1 of 4,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 5,Brendan Allen,0,3 of 12,25%,3 of 12,1 of 2,50%,1,0,1:22,1 of 10,2 of 2,0 of 0,3 of 12,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 1,Christian Leroy Duncan,0,24 of 39,61%,37 of 53,0 of 0,---,0,0,1:54,13 of 25,6 of 7,5 of 7,17 of 30,7 of 9,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 2,Christian Leroy Duncan,0,14 of 27,51%,14 of 27,0 of 0,---,0,0,0:00,6 of 17,4 of 4,4 of 6,13 of 26,1 of 1,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 3,Christian Leroy Duncan,0,6 of 6,100%,13 of 15,0 of 0,---,0,1,1:57,6 of 6,0 of 0,0 of 0,0 of 0,0 of 0,6 of 6
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 4,Christian Leroy Duncan,0,46 of 89,51%,46 of 89,0 of 0,---,0,0,0:00,28 of 66,8 of 10,10 of 13,45 of 87,1 of 2,0 of 0
+UFC Fight Night: Allen vs. Duncan,Brendan Allen vs. Christian Leroy Duncan,Round 5,Christian Leroy Duncan,0,16 of 28,57%,16 of 28,0 of 0,---,0,0,0:00,12 of 23,2 of 3,2 of 2,12 of 22,1 of 3,3 of 3
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 1,Matheus Camilo,0,13 of 33,39%,14 of 34,1 of 1,100%,0,0,1:02,8 of 24,2 of 2,3 of 7,8 of 26,1 of 1,4 of 6
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 2,Matheus Camilo,0,6 of 14,42%,7 of 15,1 of 1,100%,0,0,1:03,2 of 7,0 of 3,4 of 4,6 of 14,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 3,Matheus Camilo,0,24 of 39,61%,30 of 45,0 of 2,0%,0,0,0:36,16 of 30,4 of 5,4 of 4,22 of 37,2 of 2,0 of 0
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 1,Jai Herbert,0,9 of 42,21%,9 of 42,0 of 0,---,0,0,0:00,6 of 35,2 of 4,1 of 3,9 of 42,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 2,Jai Herbert,0,8 of 37,21%,29 of 65,0 of 0,---,0,1,2:08,3 of 26,3 of 9,2 of 2,5 of 26,0 of 0,3 of 11
+UFC Fight Night: Allen vs. Duncan,Matheus Camilo vs. Jai Herbert,Round 3,Jai Herbert,0,37 of 78,47%,42 of 87,0 of 1,0%,0,0,0:47,16 of 55,14 of 15,7 of 8,29 of 70,8 of 8,0 of 0
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 1,Loopy Godinez,0,29 of 66,43%,29 of 66,1 of 6,16%,0,0,0:05,24 of 59,4 of 5,1 of 2,24 of 59,5 of 7,0 of 0
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 2,Loopy Godinez,0,27 of 59,45%,29 of 61,0 of 5,0%,0,0,0:20,19 of 51,6 of 6,2 of 2,22 of 50,5 of 9,0 of 0
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 3,Loopy Godinez,0,11 of 21,52%,70 of 85,1 of 2,50%,0,0,3:14,11 of 21,0 of 0,0 of 0,10 of 18,0 of 1,1 of 2
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 1,Ketlen Souza,0,24 of 64,37%,29 of 69,0 of 0,---,0,0,0:00,17 of 56,5 of 6,2 of 2,23 of 62,1 of 2,0 of 0
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 2,Ketlen Souza,0,27 of 59,45%,28 of 60,0 of 0,---,0,0,0:29,17 of 48,4 of 4,6 of 7,27 of 59,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Loopy Godinez vs. Ketlen Souza,Round 3,Ketlen Souza,0,12 of 30,40%,13 of 31,0 of 0,---,0,0,0:00,11 of 28,1 of 2,0 of 0,7 of 25,5 of 5,0 of 0
+UFC Fight Night: Allen vs. Duncan,Andre Fili vs. Kai Kamaka III,Round 1,Andre Fili,0,43 of 91,47%,43 of 91,0 of 0,---,0,0,0:00,36 of 83,4 of 5,3 of 3,40 of 86,3 of 5,0 of 0
+UFC Fight Night: Allen vs. Duncan,Andre Fili vs. Kai Kamaka III,Round 2,Andre Fili,1,7 of 17,41%,7 of 17,0 of 0,---,0,0,0:02,6 of 16,0 of 0,1 of 1,7 of 17,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Andre Fili vs. Kai Kamaka III,Round 1,Kai Kamaka III,0,29 of 63,46%,30 of 64,0 of 0,---,0,0,0:08,17 of 48,8 of 10,4 of 5,29 of 63,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Andre Fili vs. Kai Kamaka III,Round 2,Kai Kamaka III,0,4 of 11,36%,4 of 11,0 of 0,---,0,0,0:00,2 of 9,1 of 1,1 of 1,4 of 11,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Malcolm Wellmaker vs. Otari Tanzilovi,Round 1,Malcolm Wellmaker,1,9 of 30,30%,35 of 59,0 of 0,---,0,0,0:27,2 of 18,7 of 12,0 of 0,9 of 30,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Malcolm Wellmaker vs. Otari Tanzilovi,Round 2,Malcolm Wellmaker,0,8 of 28,28%,10 of 30,0 of 0,---,0,0,0:06,2 of 19,6 of 9,0 of 0,6 of 26,2 of 2,0 of 0
+UFC Fight Night: Allen vs. Duncan,Malcolm Wellmaker vs. Otari Tanzilovi,Round 1,Otari Tanzilovi,0,24 of 41,58%,27 of 44,2 of 3,66%,0,0,0:34,14 of 30,5 of 6,5 of 5,20 of 37,3 of 3,1 of 1
+UFC Fight Night: Allen vs. Duncan,Malcolm Wellmaker vs. Otari Tanzilovi,Round 2,Otari Tanzilovi,1,14 of 26,53%,17 of 29,0 of 1,0%,0,0,0:17,12 of 24,1 of 1,1 of 1,12 of 22,1 of 3,1 of 1
+UFC Fight Night: Allen vs. Duncan,Julius Walker vs. Gerald Meerschaert,Round 1,Julius Walker,0,27 of 37,72%,56 of 68,1 of 1,100%,1,0,3:32,26 of 36,1 of 1,0 of 0,5 of 11,0 of 1,22 of 25
+UFC Fight Night: Allen vs. Duncan,Julius Walker vs. Gerald Meerschaert,Round 2,Julius Walker,0,11 of 13,84%,27 of 32,2 of 2,100%,0,0,3:13,11 of 13,0 of 0,0 of 0,0 of 1,0 of 0,11 of 12
+UFC Fight Night: Allen vs. Duncan,Julius Walker vs. Gerald Meerschaert,Round 1,Gerald Meerschaert,0,7 of 12,58%,12 of 17,0 of 0,---,0,0,0:00,5 of 10,1 of 1,1 of 1,6 of 11,1 of 1,0 of 0
+UFC Fight Night: Allen vs. Duncan,Julius Walker vs. Gerald Meerschaert,Round 2,Gerald Meerschaert,0,2 of 2,100%,14 of 17,0 of 1,0%,0,0,0:03,0 of 0,2 of 2,0 of 0,1 of 1,1 of 1,0 of 0
+UFC Fight Night: Allen vs. Duncan,Francisco Prado vs. Ismael Bonfim,Round 1,Francisco Prado,0,25 of 51,49%,34 of 61,2 of 2,100%,0,0,2:16,19 of 42,1 of 3,5 of 6,8 of 26,0 of 0,17 of 25
+UFC Fight Night: Allen vs. Duncan,Francisco Prado vs. Ismael Bonfim,Round 1,Ismael Bonfim,0,13 of 26,50%,13 of 26,0 of 0,---,0,0,0:00,7 of 20,1 of 1,5 of 5,13 of 26,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Niko Price vs. Leon Shahbazyan,Round 1,Niko Price,0,41 of 59,69%,58 of 78,0 of 0,---,0,0,1:45,39 of 57,2 of 2,0 of 0,4 of 6,0 of 0,37 of 53
+UFC Fight Night: Allen vs. Duncan,Niko Price vs. Leon Shahbazyan,Round 1,Leon Shahbazyan,0,0 of 1,0%,0 of 1,0 of 2,0%,0,0,0:00,0 of 1,0 of 0,0 of 0,0 of 1,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Felipe Franco vs. Brendson Ribeiro,Round 1,Felipe Franco,0,1 of 5,20%,1 of 5,1 of 2,50%,0,0,0:03,1 of 5,0 of 0,0 of 0,1 of 5,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Felipe Franco vs. Brendson Ribeiro,Round 1,Brendson Ribeiro,0,6 of 11,54%,6 of 11,0 of 0,---,1,1,0:12,3 of 8,1 of 1,2 of 2,6 of 11,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Allen Frye Jr. vs. RJ Harris,Round 1,Allen Frye Jr.,1,40 of 55,72%,40 of 57,0 of 0,---,0,0,0:05,27 of 39,1 of 3,12 of 13,35 of 50,1 of 1,4 of 4
+UFC Fight Night: Allen vs. Duncan,Allen Frye Jr. vs. RJ Harris,Round 1,RJ Harris,0,20 of 56,35%,20 of 56,0 of 0,---,0,0,0:01,9 of 43,2 of 4,9 of 9,19 of 54,1 of 2,0 of 0
+UFC Fight Night: Allen vs. Duncan,Alice Pereira vs. Daria Zhelezniakova,Round 1,Alice Pereira,0,20 of 32,62%,33 of 48,1 of 1,100%,0,0,4:05,18 of 29,2 of 3,0 of 0,5 of 14,1 of 1,14 of 17
+UFC Fight Night: Allen vs. Duncan,Alice Pereira vs. Daria Zhelezniakova,Round 1,Daria Zhelezniakova,0,6 of 10,60%,7 of 11,0 of 0,---,0,0,0:00,6 of 9,0 of 1,0 of 0,6 of 10,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 1,Ernesta Kareckaite,0,7 of 16,43%,31 of 42,0 of 1,0%,0,0,3:06,5 of 14,2 of 2,0 of 0,4 of 13,3 of 3,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 2,Ernesta Kareckaite,0,30 of 84,35%,62 of 117,0 of 0,---,0,0,1:04,22 of 75,5 of 6,3 of 3,27 of 81,3 of 3,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 3,Ernesta Kareckaite,0,11 of 21,52%,11 of 21,0 of 0,---,0,0,0:00,7 of 17,4 of 4,0 of 0,11 of 21,0 of 0,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 1,Melissa Gatto,0,10 of 17,58%,17 of 24,0 of 4,0%,1,0,0:55,4 of 8,5 of 7,1 of 2,5 of 10,5 of 7,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 2,Melissa Gatto,0,27 of 52,51%,35 of 60,0 of 5,0%,0,0,0:36,11 of 33,12 of 15,4 of 4,19 of 42,8 of 10,0 of 0
+UFC Fight Night: Allen vs. Duncan,Ernesta Kareckaite vs. Melissa Gatto,Round 3,Melissa Gatto,0,4 of 10,40%,22 of 31,1 of 2,50%,1,0,4:24,1 of 5,3 of 5,0 of 0,4 of 10,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 1,Natalia Silva,0.0,16 of 40,40%,20 of 44,1 of 1,100%,0.0,0.0,1:28,12 of 33,3 of 4,1 of 3,12 of 34,4 of 5,0 of 1
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 2,Natalia Silva,1.0,13 of 29,44%,25 of 41,1 of 2,50%,0.0,0.0,2:11,7 of 21,3 of 4,3 of 4,8 of 22,3 of 3,2 of 4
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 3,Natalia Silva,0.0,23 of 49,46%,23 of 49,0 of 1,0%,0.0,0.0,0:01,15 of 36,4 of 8,4 of 5,21 of 47,2 of 2,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 4,Natalia Silva,0.0,24 of 46,52%,30 of 52,1 of 1,100%,0.0,0.0,0:32,11 of 30,9 of 12,4 of 4,21 of 42,3 of 4,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 5,Natalia Silva,0.0,33 of 52,63%,35 of 54,0 of 0,---,0.0,0.0,0:00,19 of 35,9 of 11,5 of 6,31 of 50,2 of 2,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 1,Wang Cong,0.0,9 of 22,40%,18 of 34,0 of 0,---,0.0,0.0,0:00,2 of 11,2 of 3,5 of 8,8 of 21,0 of 0,1 of 1
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 2,Wang Cong,0.0,12 of 30,40%,29 of 47,0 of 0,---,0.0,0.0,0:00,3 of 16,1 of 2,8 of 12,12 of 30,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 3,Wang Cong,0.0,18 of 39,46%,18 of 39,0 of 0,---,0.0,0.0,0:00,9 of 21,3 of 5,6 of 13,17 of 38,1 of 1,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 4,Wang Cong,0.0,26 of 48,54%,33 of 55,0 of 0,---,0.0,0.0,0:57,11 of 22,7 of 13,8 of 13,22 of 44,4 of 4,0 of 0
+UFC 332: Silva vs. Wang,Natalia Silva vs. Wang Cong,Round 5,Wang Cong,0.0,33 of 67,49%,49 of 84,0 of 0,---,0.0,0.0,1:42,20 of 49,6 of 8,7 of 10,28 of 62,5 of 5,0 of 0
+UFC 332: Silva vs. Wang,Deiveson Figueiredo vs. Payton Talbott,Round 1,Deiveson Figueiredo,0.0,5 of 6,83%,5 of 6,0 of 2,0%,0.0,0.0,0:22,3 of 4,1 of 1,1 of 1,5 of 6,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Deiveson Figueiredo vs. Payton Talbott,Round 1,Payton Talbott,2.0,25 of 44,56%,27 of 46,0 of 0,---,0.0,0.0,0:12,18 of 37,5 of 5,2 of 2,17 of 33,0 of 0,8 of 11
+UFC 332: Silva vs. Wang,King Green vs. Esteban Ribovics,Round 1,King Green,0.0,27 of 49,55%,29 of 51,0 of 1,0%,0.0,0.0,0:04,11 of 23,11 of 18,5 of 8,24 of 46,3 of 3,0 of 0
+UFC 332: Silva vs. Wang,King Green vs. Esteban Ribovics,Round 1,Esteban Ribovics,3.0,35 of 71,49%,41 of 79,0 of 0,---,0.0,0.0,0:31,25 of 56,4 of 6,6 of 9,28 of 56,0 of 2,7 of 13
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 1,Roberto Soldic,0.0,15 of 32,46%,33 of 54,1 of 1,100%,0.0,0.0,1:12,7 of 23,5 of 6,3 of 3,15 of 32,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 2,Roberto Soldic,0.0,43 of 74,58%,57 of 90,1 of 1,100%,0.0,0.0,1:38,36 of 63,6 of 9,1 of 2,32 of 57,0 of 0,11 of 17
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 3,Roberto Soldic,0.0,36 of 56,64%,48 of 69,1 of 1,100%,0.0,0.0,1:42,25 of 44,9 of 10,2 of 2,31 of 50,0 of 0,5 of 6
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 1,Khaos Williams,0.0,16 of 41,39%,16 of 41,0 of 0,---,0.0,0.0,0:03,6 of 26,3 of 8,7 of 7,16 of 39,0 of 0,0 of 2
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 2,Khaos Williams,0.0,6 of 37,16%,6 of 37,0 of 0,---,0.0,0.0,0:00,2 of 33,2 of 2,2 of 2,6 of 37,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Roberto Soldic vs. Khaos Williams,Round 3,Khaos Williams,0.0,5 of 28,17%,5 of 28,0 of 0,---,0.0,0.0,0:00,4 of 24,1 of 4,0 of 0,5 of 28,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Ateba Gautier vs. Roman Kopylov,Round 1,Ateba Gautier,0.0,7 of 30,23%,7 of 30,0 of 0,---,0.0,0.0,0:00,3 of 21,4 of 9,0 of 0,7 of 30,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Ateba Gautier vs. Roman Kopylov,Round 1,Roman Kopylov,1.0,19 of 23,82%,19 of 23,0 of 0,---,0.0,0.0,0:05,16 of 20,1 of 1,2 of 2,12 of 15,0 of 0,7 of 8
+UFC 332: Silva vs. Wang,Imanol Rodriguez vs. Alden Coria,Round 1,Imanol Rodriguez,1.0,20 of 46,43%,20 of 46,1 of 1,100%,0.0,0.0,0:06,12 of 35,8 of 10,0 of 1,18 of 41,0 of 0,2 of 5
+UFC 332: Silva vs. Wang,Imanol Rodriguez vs. Alden Coria,Round 1,Alden Coria,0.0,4 of 17,23%,4 of 17,0 of 0,---,0.0,0.0,0:00,3 of 15,0 of 0,1 of 2,4 of 17,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Damian Pinas vs. Andrey Pulyaev,Round 1,Damian Pinas,1.0,5 of 7,71%,5 of 7,0 of 0,---,0.0,0.0,0:03,3 of 4,0 of 1,2 of 2,5 of 7,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Damian Pinas vs. Andrey Pulyaev,Round 1,Andrey Pulyaev,0.0,4 of 11,36%,4 of 11,0 of 0,---,0.0,0.0,0:00,1 of 7,2 of 3,1 of 1,4 of 11,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Marcus McGhee vs. Anthony Romero,Round 1,Marcus McGhee,2.0,34 of 75,45%,35 of 76,0 of 0,---,0.0,0.0,1:01,24 of 63,6 of 8,4 of 4,14 of 43,0 of 0,20 of 32
+UFC 332: Silva vs. Wang,Marcus McGhee vs. Anthony Romero,Round 1,Anthony Romero,0.0,13 of 37,35%,13 of 37,1 of 1,100%,0.0,0.0,0:04,8 of 31,3 of 3,2 of 3,13 of 35,0 of 0,0 of 2
+UFC 332: Silva vs. Wang,Anthony Wint vs. Lucas Armand,Round 1,Anthony Wint,1.0,12 of 18,66%,12 of 18,0 of 1,0%,0.0,0.0,0:05,9 of 14,3 of 4,0 of 0,11 of 17,0 of 0,1 of 1
+UFC 332: Silva vs. Wang,Anthony Wint vs. Lucas Armand,Round 1,Lucas Armand,0.0,1 of 5,20%,1 of 5,0 of 0,---,0.0,0.0,0:00,1 of 5,0 of 0,0 of 0,1 of 5,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Johnny Walker vs. Mick Parkin,Round 1,Johnny Walker,1.0,23 of 32,71%,23 of 32,0 of 0,---,0.0,0.0,0:27,6 of 14,4 of 4,13 of 14,19 of 28,4 of 4,0 of 0
+UFC 332: Silva vs. Wang,Johnny Walker vs. Mick Parkin,Round 1,Mick Parkin,0.0,11 of 16,68%,14 of 19,0 of 0,---,0.0,0.0,0:31,2 of 6,0 of 0,9 of 10,11 of 16,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Jacobe Smith vs. Bruce Whitehead,Round 1,Jacobe Smith,0.0,11 of 17,64%,19 of 27,1 of 2,50%,0.0,0.0,0:29,6 of 12,5 of 5,0 of 0,6 of 12,1 of 1,4 of 4
+UFC 332: Silva vs. Wang,Jacobe Smith vs. Bruce Whitehead,Round 1,Bruce Whitehead,0.0,4 of 13,30%,15 of 24,0 of 0,---,0.0,0.0,0:03,3 of 11,1 of 2,0 of 0,3 of 10,1 of 3,0 of 0
+UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 1,Rafael Dos Anjos,0.0,25 of 50,50%,25 of 50,0 of 0,---,0.0,0.0,0:00,19 of 40,6 of 10,0 of 0,25 of 50,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 2,Rafael Dos Anjos,0.0,1 of 9,11%,7 of 15,0 of 0,---,0.0,0.0,0:00,1 of 9,0 of 0,0 of 0,0 of 8,0 of 0,1 of 1
+UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 1,Alexander Hernandez,0.0,22 of 52,42%,22 of 52,0 of 0,---,0.0,0.0,0:00,14 of 43,7 of 8,1 of 1,22 of 52,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Rafael Dos Anjos vs. Alexander Hernandez,Round 2,Alexander Hernandez,2.0,14 of 34,41%,25 of 45,0 of 0,---,0.0,0.0,2:44,13 of 33,0 of 0,1 of 1,3 of 11,0 of 1,11 of 22
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 1,Marvin Vettori,0.0,18 of 64,28%,19 of 65,0 of 2,0%,0.0,0.0,0:13,12 of 54,3 of 4,3 of 6,18 of 64,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 2,Marvin Vettori,0.0,29 of 69,42%,29 of 69,0 of 0,---,0.0,0.0,0:00,24 of 63,3 of 4,2 of 2,29 of 69,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 3,Marvin Vettori,0.0,29 of 68,42%,29 of 68,0 of 0,---,0.0,0.0,0:00,26 of 65,1 of 1,2 of 2,29 of 68,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 1,Ismail Naurdiev,0.0,28 of 59,47%,28 of 59,2 of 2,100%,1.0,0.0,1:06,10 of 36,1 of 4,17 of 19,28 of 59,0 of 0,0 of 0
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 2,Ismail Naurdiev,0.0,26 of 65,40%,26 of 65,1 of 1,100%,0.0,0.0,0:02,14 of 49,5 of 8,7 of 8,24 of 63,2 of 2,0 of 0
+UFC 332: Silva vs. Wang,Marvin Vettori vs. Ismail Naurdiev,Round 3,Ismail Naurdiev,0.0,20 of 66,30%,20 of 66,0 of 4,0%,0.0,0.0,0:02,13 of 56,3 of 4,4 of 6,20 of 65,0 of 1,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 1,Court McGee,0.0,22 of 76,28%,42 of 96,0 of 3,0%,0.0,0.0,1:11,10 of 61,6 of 9,6 of 6,19 of 70,3 of 6,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 2,Court McGee,0.0,52 of 120,43%,56 of 126,0 of 3,0%,0.0,0.0,0:14,40 of 103,7 of 12,5 of 5,47 of 114,5 of 6,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 3,Court McGee,0.0,24 of 77,31%,29 of 82,0 of 1,0%,0.0,0.0,0:17,14 of 63,5 of 9,5 of 5,22 of 74,2 of 3,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 1,Eric Nolan,0.0,23 of 59,38%,27 of 63,0 of 0,---,0.0,0.0,0:02,18 of 51,4 of 7,1 of 1,20 of 55,3 of 4,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 2,Eric Nolan,0.0,46 of 102,45%,46 of 102,0 of 0,---,0.0,0.0,0:00,40 of 93,6 of 9,0 of 0,43 of 97,3 of 5,0 of 0
+UFC 332: Silva vs. Wang,Court McGee vs. Eric Nolan,Round 3,Eric Nolan,1.0,52 of 85,61%,52 of 85,0 of 0,---,0.0,0.0,0:19,47 of 78,5 of 7,0 of 0,37 of 70,15 of 15,0 of 0
 UFC Fight Night: Rosas Jr. vs. Barcelos,Raul Rosas Jr. vs. Raoni Barcelos,Round 1,Raul Rosas Jr.,0.0,29 of 73,39%,49 of 98,0 of 0,---,0.0,0.0,0:00,22 of 64,3 of 5,4 of 4,23 of 65,6 of 8,0 of 0
 UFC Fight Night: Rosas Jr. vs. Barcelos,Raul Rosas Jr. vs. Raoni Barcelos,Round 2,Raul Rosas Jr.,0.0,40 of 81,49%,44 of 85,0 of 0,---,0.0,0.0,0:06,32 of 73,6 of 6,2 of 2,36 of 75,4 of 6,0 of 0
 UFC Fight Night: Rosas Jr. vs. Barcelos,Raul Rosas Jr. vs. Raoni Barcelos,Round 3,Raul Rosas Jr.,0.0,28 of 59,47%,49 of 84,0 of 0,---,0.0,1.0,0:32,24 of 54,3 of 4,1 of 1,20 of 49,4 of 4,4 of 6
