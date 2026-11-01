@@ -1,66 +1,130 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 1,Alexander Volkanovski,0,24 of 47,51%,25 of 48,0 of 1,0%,0,0,0:18,18 of 40,3 of 4,3 of 3,22 of 44,2 of 3,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 2,Alexander Volkanovski,0,32 of 63,50%,36 of 70,1 of 1,100%,0,0,1:26,30 of 61,0 of 0,2 of 2,20 of 46,1 of 1,11 of 16
-UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 1,Movsar Evloev,0,20 of 34,58%,26 of 40,3 of 4,75%,0,0,0:31,11 of 23,6 of 7,3 of 4,12 of 25,7 of 8,1 of 1
-UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 2,Movsar Evloev,0,20 of 31,64%,36 of 48,0 of 3,0%,0,0,0:15,17 of 27,2 of 2,1 of 2,19 of 30,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 1,Petr Yan,0,6 of 11,54%,6 of 11,0 of 0,---,0,0,0:05,1 of 6,1 of 1,4 of 4,5 of 10,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 2,Petr Yan,0,17 of 28,60%,19 of 30,0 of 0,---,0,1,0:10,15 of 26,1 of 1,1 of 1,14 of 25,1 of 1,2 of 2
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 3,Petr Yan,0,24 of 44,54%,24 of 44,0 of 0,---,0,0,0:00,16 of 36,4 of 4,4 of 4,22 of 41,2 of 3,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 4,Petr Yan,0,29 of 57,50%,29 of 57,0 of 0,---,0,0,0:00,24 of 52,4 of 4,1 of 1,27 of 55,2 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 5,Petr Yan,0,52 of 88,59%,53 of 89,0 of 1,0%,0,0,0:08,39 of 74,8 of 9,5 of 5,47 of 79,5 of 9,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 1,Merab Dvalishvili,0,8 of 40,20%,27 of 63,1 of 10,10%,0,0,0:41,3 of 26,1 of 7,4 of 7,6 of 38,2 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 2,Merab Dvalishvili,0,23 of 67,34%,28 of 73,4 of 9,44%,0,0,0:54,15 of 52,1 of 2,7 of 13,21 of 64,2 of 3,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 3,Merab Dvalishvili,0,31 of 78,39%,32 of 79,0 of 13,0%,0,0,0:17,25 of 66,1 of 2,5 of 10,27 of 72,4 of 6,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 4,Merab Dvalishvili,0,29 of 85,34%,30 of 86,0 of 15,0%,0,0,0:00,25 of 72,2 of 3,2 of 10,28 of 83,1 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 5,Merab Dvalishvili,0,40 of 93,43%,42 of 95,0 of 11,0%,0,0,0:02,32 of 82,3 of 4,5 of 7,40 of 93,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Lone'er Kavanagh vs. Ramazan Temirov,Round 1,Lone'er Kavanagh,1,23 of 44,52%,23 of 44,0 of 0,---,0,0,0:01,15 of 33,3 of 6,5 of 5,22 of 43,0 of 0,1 of 1
-UFC 333: Volkanovski vs. Evloev,Lone'er Kavanagh vs. Ramazan Temirov,Round 1,Ramazan Temirov,0,18 of 40,45%,18 of 40,0 of 0,---,0,0,0:00,15 of 36,1 of 2,2 of 2,18 of 40,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 1,Alexander Volkov,0,21 of 59,35%,26 of 64,0 of 0,---,0,0,0:00,7 of 37,9 of 15,5 of 7,18 of 55,3 of 4,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 2,Alexander Volkov,0,26 of 46,56%,27 of 47,0 of 0,---,0,0,0:30,13 of 30,10 of 12,3 of 4,22 of 41,4 of 5,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 3,Alexander Volkov,0,27 of 45,60%,29 of 47,0 of 0,---,1,0,1:32,15 of 32,6 of 6,6 of 7,26 of 44,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 1,Rizvan Kuniev,0,21 of 31,67%,22 of 32,0 of 0,---,0,0,0:04,11 of 18,4 of 6,6 of 7,20 of 30,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 2,Rizvan Kuniev,0,16 of 28,57%,21 of 33,0 of 3,0%,0,0,0:00,12 of 23,2 of 2,2 of 3,15 of 27,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 3,Rizvan Kuniev,0,14 of 28,50%,19 of 33,0 of 1,0%,0,0,0:00,12 of 25,1 of 2,1 of 1,14 of 28,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Aaron Pico vs. Losene Keita,Round 1,Aaron Pico,1,6 of 10,60%,12 of 16,1 of 2,50%,0,0,0:37,6 of 10,0 of 0,0 of 0,1 of 3,1 of 1,4 of 6
-UFC 333: Volkanovski vs. Evloev,Aaron Pico vs. Losene Keita,Round 1,Losene Keita,0,2 of 4,50%,3 of 5,0 of 0,---,0,0,0:00,1 of 3,1 of 1,0 of 0,1 of 3,0 of 0,1 of 1
-UFC 333: Volkanovski vs. Evloev,Azamat Murzakanov vs. Dominick Reyes,Round 1,Azamat Murzakanov,0,3 of 7,42%,3 of 7,0 of 1,0%,0,0,0:00,2 of 6,0 of 0,1 of 1,3 of 7,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Azamat Murzakanov vs. Dominick Reyes,Round 1,Dominick Reyes,1,14 of 24,58%,14 of 24,0 of 0,---,0,0,0:04,7 of 14,1 of 2,6 of 8,9 of 18,0 of 0,5 of 6
-UFC 333: Volkanovski vs. Evloev,Nikita Krylov vs. Abdul Rakhman Yakhyaev,Round 1,Nikita Krylov,0,4 of 6,66%,7 of 9,0 of 1,0%,0,0,1:29,2 of 2,0 of 0,2 of 4,3 of 5,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Nikita Krylov vs. Abdul Rakhman Yakhyaev,Round 1,Abdul Rakhman Yakhyaev,1,6 of 9,66%,19 of 24,1 of 1,100%,1,0,0:44,3 of 6,3 of 3,0 of 0,0 of 2,4 of 4,2 of 3
-UFC 333: Volkanovski vs. Evloev,Abus Magomedov vs. Cam Rowston,Round 1,Abus Magomedov,0,11 of 15,73%,11 of 15,0 of 0,---,1,0,0:07,5 of 7,1 of 2,5 of 6,11 of 15,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Abus Magomedov vs. Cam Rowston,Round 1,Cam Rowston,0,1 of 11,9%,1 of 11,1 of 1,100%,0,0,0:06,0 of 8,0 of 2,1 of 1,1 of 11,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 1,Grant Dawson,0,32 of 63,50%,35 of 66,1 of 3,33%,1,0,0:41,25 of 52,4 of 8,3 of 3,23 of 52,4 of 5,5 of 6
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 2,Grant Dawson,0,33 of 74,44%,50 of 93,2 of 2,100%,0,0,2:35,26 of 65,6 of 7,1 of 2,28 of 67,3 of 5,2 of 2
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 3,Grant Dawson,0,30 of 51,58%,62 of 83,2 of 2,100%,0,0,3:02,20 of 40,6 of 7,4 of 4,21 of 36,0 of 1,9 of 14
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 1,Nurullo Aliev,0,33 of 52,63%,53 of 73,1 of 1,100%,0,0,1:20,26 of 44,6 of 7,1 of 1,32 of 50,1 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 2,Nurullo Aliev,0,18 of 30,60%,26 of 38,0 of 1,0%,0,0,0:03,14 of 25,3 of 4,1 of 1,15 of 27,3 of 3,0 of 0
-UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 3,Nurullo Aliev,0,14 of 24,58%,17 of 27,0 of 0,---,0,0,0:03,10 of 19,3 of 4,1 of 1,14 of 24,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 1,Colby Thicknesse,0,20 of 31,64%,29 of 41,0 of 4,0%,0,0,1:05,8 of 16,12 of 15,0 of 0,2 of 9,18 of 22,0 of 0
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 2,Colby Thicknesse,0,37 of 62,59%,50 of 78,0 of 5,0%,0,0,0:41,18 of 41,17 of 19,2 of 2,17 of 41,20 of 21,0 of 0
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 3,Colby Thicknesse,0,20 of 42,47%,28 of 52,1 of 6,16%,0,0,1:28,11 of 31,7 of 9,2 of 2,8 of 23,12 of 19,0 of 0
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 1,Asaf Chopurov,0,22 of 33,66%,32 of 45,3 of 5,60%,0,0,2:00,13 of 23,9 of 10,0 of 0,3 of 8,18 of 24,1 of 1
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 2,Asaf Chopurov,0,20 of 41,48%,24 of 46,1 of 2,50%,0,0,1:16,14 of 31,4 of 8,2 of 2,11 of 28,9 of 13,0 of 0
-UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 3,Asaf Chopurov,0,12 of 22,54%,15 of 26,4 of 5,80%,0,0,1:45,6 of 14,5 of 7,1 of 1,6 of 14,5 of 6,1 of 2
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 1,Abubakar Vagaev,0,26 of 53,49%,45 of 74,1 of 2,50%,0,0,1:10,17 of 37,2 of 3,7 of 13,24 of 46,0 of 0,2 of 7
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 2,Abubakar Vagaev,0,26 of 48,54%,27 of 49,3 of 5,60%,0,0,0:21,25 of 46,0 of 1,1 of 1,25 of 44,1 of 4,0 of 0
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 3,Abubakar Vagaev,0,19 of 38,50%,20 of 39,2 of 5,40%,0,0,0:36,13 of 30,3 of 5,3 of 3,17 of 33,2 of 5,0 of 0
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 1,Jacob Malkoun,0,30 of 61,49%,36 of 68,0 of 1,0%,0,0,0:03,26 of 53,4 of 8,0 of 0,30 of 61,0 of 0,0 of 0
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 2,Jacob Malkoun,0,45 of 85,52%,46 of 87,0 of 2,0%,0,0,0:00,39 of 75,6 of 10,0 of 0,43 of 83,2 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 3,Jacob Malkoun,0,31 of 56,55%,31 of 57,0 of 1,0%,0,0,0:09,30 of 54,1 of 2,0 of 0,30 of 55,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 1,Bolaji Oki,0,17 of 25,68%,18 of 26,1 of 1,100%,0,0,2:04,8 of 13,7 of 10,2 of 2,9 of 16,4 of 4,4 of 5
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 2,Bolaji Oki,0,14 of 23,60%,14 of 23,0 of 1,0%,0,0,0:15,5 of 14,8 of 8,1 of 1,14 of 22,0 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 3,Bolaji Oki,0,38 of 59,64%,38 of 59,1 of 1,100%,0,0,0:24,32 of 51,6 of 8,0 of 0,35 of 55,3 of 4,0 of 0
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 1,Daniel Santos,0,14 of 30,46%,15 of 32,0 of 0,---,1,0,0:04,10 of 19,3 of 9,1 of 2,13 of 29,1 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 2,Daniel Santos,0,23 of 50,46%,29 of 57,2 of 4,50%,0,0,1:36,9 of 31,7 of 12,7 of 7,21 of 46,2 of 4,0 of 0
-UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 3,Daniel Santos,0,39 of 79,49%,43 of 83,0 of 1,0%,0,0,0:00,16 of 45,9 of 18,14 of 16,36 of 76,3 of 3,0 of 0
-UFC 333: Volkanovski vs. Evloev,Kody Steele vs. Noah Gugnon,Round 1,Kody Steele,1,25 of 52,48%,25 of 52,1 of 3,33%,0,0,0:22,20 of 45,3 of 5,2 of 2,21 of 48,1 of 1,3 of 3
-UFC 333: Volkanovski vs. Evloev,Kody Steele vs. Noah Gugnon,Round 1,Noah Gugnon,0,31 of 57,54%,32 of 58,0 of 0,---,0,0,0:00,26 of 51,0 of 0,5 of 6,26 of 51,5 of 6,0 of 0
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 1,Iasmin Lucindo,0,7 of 11,63%,10 of 14,2 of 2,100%,0,0,2:25,3 of 7,2 of 2,2 of 2,5 of 9,2 of 2,0 of 0
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 2,Iasmin Lucindo,0,16 of 30,53%,30 of 48,1 of 1,100%,0,0,3:05,14 of 26,2 of 4,0 of 0,4 of 12,1 of 3,11 of 15
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 3,Iasmin Lucindo,0,8 of 8,100%,17 of 18,0 of 1,0%,0,0,3:57,5 of 5,3 of 3,0 of 0,2 of 2,4 of 4,2 of 2
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 1,Nicolle Caliari,0,2 of 5,40%,6 of 9,1 of 2,50%,0,0,0:55,1 of 3,0 of 1,1 of 1,2 of 4,0 of 1,0 of 0
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 2,Nicolle Caliari,0,16 of 20,80%,28 of 33,1 of 1,100%,0,0,0:43,7 of 10,8 of 9,1 of 1,10 of 14,4 of 4,2 of 2
-UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 3,Nicolle Caliari,0,9 of 11,81%,20 of 25,0 of 1,0%,0,0,0:37,5 of 6,4 of 5,0 of 0,3 of 5,4 of 4,2 of 2
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 1,Renato Moicano,0,2 of 2,100%,13 of 18,1 of 1,100%,1,0,4:07,0 of 0,2 of 2,0 of 0,2 of 2,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 2,Renato Moicano,0,4 of 7,57%,31 of 39,1 of 3,33%,0,0,3:02,2 of 4,1 of 2,1 of 1,4 of 7,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 3,Renato Moicano,0,3 of 3,100%,3 of 3,1 of 1,100%,0,0,0:08,1 of 1,2 of 2,0 of 0,3 of 3,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 1,Tom Nolan,0,4 of 8,50%,26 of 34,0 of 0,---,0,0,0:00,2 of 6,1 of 1,1 of 1,4 of 8,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 2,Tom Nolan,1,25 of 35,71%,101 of 112,1 of 1,100%,0,0,0:33,18 of 27,6 of 7,1 of 1,15 of 25,2 of 2,8 of 8
+UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 3,Tom Nolan,0,40 of 49,81%,50 of 68,0 of 0,---,0,1,0:37,36 of 45,3 of 3,1 of 1,9 of 12,1 of 1,30 of 36
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 1,Randy Brown,0,10 of 17,58%,11 of 18,0 of 0,---,0,0,0:00,4 of 10,3 of 3,3 of 4,10 of 17,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 2,Randy Brown,0,3 of 9,33%,20 of 26,0 of 0,---,0,0,0:00,0 of 5,3 of 4,0 of 0,3 of 9,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 3,Randy Brown,0,3 of 11,27%,8 of 16,0 of 0,---,0,0,0:00,1 of 7,2 of 3,0 of 1,3 of 11,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 1,Jacobe Smith,0,11 of 18,61%,34 of 43,1 of 1,100%,0,0,1:34,1 of 1,4 of 6,6 of 11,10 of 17,0 of 0,1 of 1
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 2,Jacobe Smith,0,22 of 33,66%,56 of 71,1 of 1,100%,0,0,4:05,19 of 28,3 of 3,0 of 2,6 of 13,0 of 0,16 of 20
+UFC Fight Night: Moicano vs. Nolan,Randy Brown vs. Jacobe Smith,Round 3,Jacobe Smith,0,7 of 15,46%,63 of 72,1 of 1,100%,0,0,3:14,5 of 9,1 of 3,1 of 3,2 of 7,0 of 0,5 of 8
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 1,Ode Osbourne,0,2 of 7,28%,5 of 10,0 of 0,---,1,1,0:14,2 of 7,0 of 0,0 of 0,2 of 7,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 2,Ode Osbourne,0,10 of 24,41%,20 of 35,0 of 0,---,0,0,0:05,5 of 19,2 of 2,3 of 3,9 of 23,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 3,Ode Osbourne,0,3 of 5,60%,29 of 41,0 of 0,---,0,1,3:51,1 of 3,1 of 1,1 of 1,3 of 5,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 1,Cody Durden,0,27 of 32,84%,57 of 74,1 of 1,100%,1,0,4:23,26 of 31,0 of 0,1 of 1,2 of 2,0 of 0,25 of 30
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 2,Cody Durden,0,5 of 11,45%,12 of 22,3 of 5,60%,0,0,1:57,4 of 8,0 of 0,1 of 3,5 of 11,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Ode Osbourne vs. Cody Durden,Round 3,Cody Durden,0,3 of 4,75%,4 of 5,2 of 2,100%,0,1,0:31,3 of 3,0 of 0,0 of 1,1 of 2,0 of 0,2 of 2
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 1,Yana Santos,0,13 of 26,50%,28 of 48,0 of 0,---,0,0,3:19,1 of 13,9 of 9,3 of 4,4 of 17,9 of 9,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 2,Yana Santos,0,2 of 17,11%,29 of 50,0 of 0,---,0,0,0:42,1 of 14,0 of 1,1 of 2,2 of 16,0 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 3,Yana Santos,0,2 of 11,18%,40 of 62,0 of 0,---,0,0,0:00,0 of 8,0 of 0,2 of 3,2 of 11,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 1,Luana Santos,0,5 of 9,55%,18 of 22,0 of 9,0%,0,0,0:28,2 of 4,2 of 4,1 of 1,4 of 8,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 2,Luana Santos,0,7 of 16,43%,12 of 23,2 of 4,50%,0,0,3:03,3 of 8,2 of 5,2 of 3,6 of 13,1 of 3,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Yana Santos vs. Luana Santos,Round 3,Luana Santos,0,3 of 9,33%,10 of 17,3 of 3,100%,0,0,4:04,3 of 8,0 of 0,0 of 1,3 of 9,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 1,Jean-Paul Lebosnoyani,0,30 of 55,54%,38 of 63,0 of 0,---,0,0,0:00,10 of 30,10 of 14,10 of 11,30 of 55,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 2,Jean-Paul Lebosnoyani,0,55 of 99,55%,59 of 104,0 of 0,---,0,0,0:00,42 of 80,7 of 12,6 of 7,55 of 98,0 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 3,Jean-Paul Lebosnoyani,0,19 of 32,59%,22 of 35,0 of 0,---,0,0,0:00,11 of 23,6 of 7,2 of 2,19 of 32,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 1,Farman Hasanov,0,18 of 60,30%,19 of 62,1 of 2,50%,0,0,0:24,17 of 59,0 of 0,1 of 1,16 of 56,2 of 4,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 2,Farman Hasanov,0,27 of 68,39%,28 of 70,1 of 3,33%,0,0,0:11,22 of 62,2 of 2,3 of 4,27 of 64,0 of 4,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Jean-Paul Lebosnoyani vs. Farman Hasanov,Round 3,Farman Hasanov,0,8 of 28,28%,8 of 29,0 of 1,0%,0,0,0:01,6 of 26,1 of 1,1 of 1,8 of 28,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 1,Francis Marshall,0,11 of 24,45%,12 of 25,1 of 1,100%,0,0,1:27,3 of 16,0 of 0,8 of 8,11 of 21,0 of 2,0 of 1
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 2,Francis Marshall,0,11 of 27,40%,21 of 37,0 of 2,0%,0,0,0:07,8 of 24,0 of 0,3 of 3,11 of 27,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 3,Francis Marshall,0,3 of 10,30%,29 of 38,0 of 2,0%,0,0,0:00,3 of 9,0 of 1,0 of 0,2 of 8,1 of 2,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 1,Dakota Hope,0,15 of 33,45%,27 of 45,0 of 0,---,0,0,0:00,9 of 26,2 of 3,4 of 4,15 of 31,0 of 2,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 2,Dakota Hope,0,12 of 49,24%,14 of 52,0 of 2,0%,0,0,0:41,8 of 37,1 of 4,3 of 8,9 of 44,3 of 5,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Francis Marshall vs. Dakota Hope,Round 3,Dakota Hope,0,17 of 29,58%,31 of 46,0 of 1,0%,0,0,4:00,13 of 25,4 of 4,0 of 0,6 of 16,5 of 6,6 of 7
+UFC Fight Night: Moicano vs. Nolan,Rodrigo Sezinando vs. Theodor Berggren,Round 1,Rodrigo Sezinando,0,8 of 24,33%,14 of 31,1 of 7,14%,0,0,1:43,6 of 22,1 of 1,1 of 1,5 of 19,3 of 5,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Rodrigo Sezinando vs. Theodor Berggren,Round 2,Rodrigo Sezinando,0,21 of 34,61%,53 of 85,2 of 4,50%,0,0,3:57,15 of 27,5 of 6,1 of 1,6 of 14,2 of 2,13 of 18
+UFC Fight Night: Moicano vs. Nolan,Rodrigo Sezinando vs. Theodor Berggren,Round 1,Theodor Berggren,0,11 of 23,47%,34 of 51,0 of 0,---,0,0,1:58,4 of 16,6 of 6,1 of 1,5 of 16,5 of 6,1 of 1
+UFC Fight Night: Moicano vs. Nolan,Rodrigo Sezinando vs. Theodor Berggren,Round 2,Theodor Berggren,0,7 of 14,50%,18 of 25,0 of 0,---,0,0,0:02,4 of 11,2 of 2,1 of 1,6 of 12,1 of 2,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Julian Erosa vs. JeongYeong Lee,Round 1,Julian Erosa,1,16 of 27,59%,17 of 28,0 of 2,0%,0,0,0:36,15 of 26,1 of 1,0 of 0,11 of 20,2 of 4,3 of 3
+UFC Fight Night: Moicano vs. Nolan,Julian Erosa vs. JeongYeong Lee,Round 1,JeongYeong Lee,0,9 of 24,37%,10 of 27,0 of 0,---,0,0,0:02,8 of 22,0 of 0,1 of 2,6 of 19,3 of 5,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 1,Zach Reese,0,25 of 57,43%,27 of 59,0 of 0,---,0,0,0:00,9 of 34,13 of 17,3 of 6,24 of 56,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 2,Zach Reese,0,28 of 52,53%,28 of 53,0 of 1,0%,0,0,0:10,13 of 30,12 of 19,3 of 3,24 of 47,4 of 5,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 3,Zach Reese,0,57 of 92,61%,58 of 93,0 of 0,---,0,0,0:00,37 of 66,15 of 19,5 of 7,50 of 85,7 of 7,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 1,Mickey Gall,0,14 of 33,42%,14 of 33,0 of 1,0%,0,0,0:00,11 of 29,1 of 2,2 of 2,13 of 32,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 2,Mickey Gall,0,22 of 35,62%,22 of 35,0 of 1,0%,0,0,0:00,16 of 29,3 of 3,3 of 3,21 of 34,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Zach Reese vs. Mickey Gall,Round 3,Mickey Gall,0,31 of 70,44%,32 of 72,0 of 0,---,0,0,0:01,29 of 68,2 of 2,0 of 0,29 of 67,2 of 3,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Nick Klein vs. Joe Kropschot,Round 1,Nick Klein,0,11 of 30,36%,13 of 32,1 of 1,100%,0,0,2:18,6 of 23,3 of 5,2 of 2,11 of 30,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Nick Klein vs. Joe Kropschot,Round 2,Nick Klein,0,2 of 4,50%,3 of 5,1 of 1,100%,0,0,0:43,2 of 4,0 of 0,0 of 0,2 of 4,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Nick Klein vs. Joe Kropschot,Round 1,Joe Kropschot,0,15 of 21,71%,30 of 39,1 of 1,100%,1,0,1:15,5 of 11,2 of 2,8 of 8,14 of 20,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Nick Klein vs. Joe Kropschot,Round 2,Joe Kropschot,0,2 of 3,66%,2 of 3,0 of 0,---,2,1,0:32,1 of 2,0 of 0,1 of 1,2 of 3,0 of 0,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 1,Talita Alencar,0,10 of 22,45%,12 of 25,2 of 4,50%,0,0,1:55,5 of 16,2 of 3,3 of 3,9 of 20,1 of 1,0 of 1
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 2,Talita Alencar,0,17 of 34,50%,28 of 46,1 of 2,50%,0,0,2:07,8 of 23,8 of 9,1 of 2,8 of 25,1 of 1,8 of 8
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 3,Talita Alencar,0,17 of 48,35%,17 of 49,0 of 2,0%,0,0,0:03,9 of 37,7 of 10,1 of 1,16 of 47,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 1,Piera Rodriguez,0,14 of 48,29%,23 of 57,0 of 1,0%,0,0,0:19,9 of 43,5 of 5,0 of 0,14 of 46,0 of 2,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 2,Piera Rodriguez,0,29 of 60,48%,31 of 62,0 of 1,0%,0,0,0:29,21 of 47,8 of 12,0 of 1,23 of 53,6 of 7,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Talita Alencar vs. Piera Rodriguez,Round 3,Piera Rodriguez,0,46 of 82,56%,48 of 84,0 of 0,---,0,0,0:28,35 of 67,11 of 15,0 of 0,41 of 77,5 of 5,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 1,Lucia Szabova,0,25 of 34,73%,47 of 59,3 of 4,75%,0,0,2:22,14 of 22,11 of 12,0 of 0,9 of 16,11 of 13,5 of 5
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 2,Lucia Szabova,0,14 of 28,50%,42 of 66,1 of 2,50%,0,0,3:35,12 of 24,2 of 4,0 of 0,5 of 17,1 of 1,8 of 10
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 3,Lucia Szabova,0,31 of 34,91%,56 of 61,1 of 2,50%,1,0,3:06,31 of 34,0 of 0,0 of 0,1 of 1,0 of 0,30 of 33
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 1,Tainara Lisboa,0,7 of 8,87%,9 of 10,1 of 6,16%,1,0,1:43,5 of 6,1 of 1,1 of 1,4 of 5,3 of 3,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 2,Tainara Lisboa,0,5 of 13,38%,5 of 13,0 of 2,0%,0,0,0:30,1 of 9,3 of 3,1 of 1,4 of 12,1 of 1,0 of 0
+UFC Fight Night: Moicano vs. Nolan,Lucia Szabova vs. Tainara Lisboa,Round 3,Tainara Lisboa,0,2 of 5,40%,3 of 7,0 of 1,0%,0,0,0:00,1 of 4,1 of 1,0 of 0,2 of 5,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 1,Alexander Volkanovski,0.0,24 of 47,51%,25 of 48,0 of 1,0%,0.0,0.0,0:18,18 of 40,3 of 4,3 of 3,22 of 44,2 of 3,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 2,Alexander Volkanovski,0.0,32 of 63,50%,36 of 70,1 of 1,100%,0.0,0.0,1:26,30 of 61,0 of 0,2 of 2,20 of 46,1 of 1,11 of 16
+UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 1,Movsar Evloev,0.0,20 of 34,58%,26 of 40,3 of 4,75%,0.0,0.0,0:31,11 of 23,6 of 7,3 of 4,12 of 25,7 of 8,1 of 1
+UFC 333: Volkanovski vs. Evloev,Alexander Volkanovski vs. Movsar Evloev,Round 2,Movsar Evloev,0.0,20 of 31,64%,36 of 48,0 of 3,0%,0.0,0.0,0:15,17 of 27,2 of 2,1 of 2,19 of 30,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 1,Petr Yan,0.0,6 of 11,54%,6 of 11,0 of 0,---,0.0,0.0,0:05,1 of 6,1 of 1,4 of 4,5 of 10,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 2,Petr Yan,0.0,17 of 28,60%,19 of 30,0 of 0,---,0.0,1.0,0:10,15 of 26,1 of 1,1 of 1,14 of 25,1 of 1,2 of 2
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 3,Petr Yan,0.0,24 of 44,54%,24 of 44,0 of 0,---,0.0,0.0,0:00,16 of 36,4 of 4,4 of 4,22 of 41,2 of 3,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 4,Petr Yan,0.0,29 of 57,50%,29 of 57,0 of 0,---,0.0,0.0,0:00,24 of 52,4 of 4,1 of 1,27 of 55,2 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 5,Petr Yan,0.0,52 of 88,59%,53 of 89,0 of 1,0%,0.0,0.0,0:08,39 of 74,8 of 9,5 of 5,47 of 79,5 of 9,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 1,Merab Dvalishvili,0.0,8 of 40,20%,27 of 63,1 of 10,10%,0.0,0.0,0:41,3 of 26,1 of 7,4 of 7,6 of 38,2 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 2,Merab Dvalishvili,0.0,23 of 67,34%,28 of 73,4 of 9,44%,0.0,0.0,0:54,15 of 52,1 of 2,7 of 13,21 of 64,2 of 3,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 3,Merab Dvalishvili,0.0,31 of 78,39%,32 of 79,0 of 13,0%,0.0,0.0,0:17,25 of 66,1 of 2,5 of 10,27 of 72,4 of 6,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 4,Merab Dvalishvili,0.0,29 of 85,34%,30 of 86,0 of 15,0%,0.0,0.0,0:00,25 of 72,2 of 3,2 of 10,28 of 83,1 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Petr Yan vs. Merab Dvalishvili,Round 5,Merab Dvalishvili,0.0,40 of 93,43%,42 of 95,0 of 11,0%,0.0,0.0,0:02,32 of 82,3 of 4,5 of 7,40 of 93,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Lone'er Kavanagh vs. Ramazan Temirov,Round 1,Lone'er Kavanagh,1.0,23 of 44,52%,23 of 44,0 of 0,---,0.0,0.0,0:01,15 of 33,3 of 6,5 of 5,22 of 43,0 of 0,1 of 1
+UFC 333: Volkanovski vs. Evloev,Lone'er Kavanagh vs. Ramazan Temirov,Round 1,Ramazan Temirov,0.0,18 of 40,45%,18 of 40,0 of 0,---,0.0,0.0,0:00,15 of 36,1 of 2,2 of 2,18 of 40,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 1,Alexander Volkov,0.0,21 of 59,35%,26 of 64,0 of 0,---,0.0,0.0,0:00,7 of 37,9 of 15,5 of 7,18 of 55,3 of 4,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 2,Alexander Volkov,0.0,26 of 46,56%,27 of 47,0 of 0,---,0.0,0.0,0:30,13 of 30,10 of 12,3 of 4,22 of 41,4 of 5,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 3,Alexander Volkov,0.0,27 of 45,60%,29 of 47,0 of 0,---,1.0,0.0,1:32,15 of 32,6 of 6,6 of 7,26 of 44,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 1,Rizvan Kuniev,0.0,21 of 31,67%,22 of 32,0 of 0,---,0.0,0.0,0:04,11 of 18,4 of 6,6 of 7,20 of 30,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 2,Rizvan Kuniev,0.0,16 of 28,57%,21 of 33,0 of 3,0%,0.0,0.0,0:00,12 of 23,2 of 2,2 of 3,15 of 27,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Alexander Volkov vs. Rizvan Kuniev,Round 3,Rizvan Kuniev,0.0,14 of 28,50%,19 of 33,0 of 1,0%,0.0,0.0,0:00,12 of 25,1 of 2,1 of 1,14 of 28,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Aaron Pico vs. Losene Keita,Round 1,Aaron Pico,1.0,6 of 10,60%,12 of 16,1 of 2,50%,0.0,0.0,0:37,6 of 10,0 of 0,0 of 0,1 of 3,1 of 1,4 of 6
+UFC 333: Volkanovski vs. Evloev,Aaron Pico vs. Losene Keita,Round 1,Losene Keita,0.0,2 of 4,50%,3 of 5,0 of 0,---,0.0,0.0,0:00,1 of 3,1 of 1,0 of 0,1 of 3,0 of 0,1 of 1
+UFC 333: Volkanovski vs. Evloev,Azamat Murzakanov vs. Dominick Reyes,Round 1,Azamat Murzakanov,0.0,3 of 7,42%,3 of 7,0 of 1,0%,0.0,0.0,0:00,2 of 6,0 of 0,1 of 1,3 of 7,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Azamat Murzakanov vs. Dominick Reyes,Round 1,Dominick Reyes,1.0,14 of 24,58%,14 of 24,0 of 0,---,0.0,0.0,0:04,7 of 14,1 of 2,6 of 8,9 of 18,0 of 0,5 of 6
+UFC 333: Volkanovski vs. Evloev,Nikita Krylov vs. Abdul Rakhman Yakhyaev,Round 1,Nikita Krylov,0.0,4 of 6,66%,7 of 9,0 of 1,0%,0.0,0.0,1:29,2 of 2,0 of 0,2 of 4,3 of 5,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Nikita Krylov vs. Abdul Rakhman Yakhyaev,Round 1,Abdul Rakhman Yakhyaev,1.0,6 of 9,66%,19 of 24,1 of 1,100%,1.0,0.0,0:44,3 of 6,3 of 3,0 of 0,0 of 2,4 of 4,2 of 3
+UFC 333: Volkanovski vs. Evloev,Abus Magomedov vs. Cam Rowston,Round 1,Abus Magomedov,0.0,11 of 15,73%,11 of 15,0 of 0,---,1.0,0.0,0:07,5 of 7,1 of 2,5 of 6,11 of 15,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Abus Magomedov vs. Cam Rowston,Round 1,Cam Rowston,0.0,1 of 11,9%,1 of 11,1 of 1,100%,0.0,0.0,0:06,0 of 8,0 of 2,1 of 1,1 of 11,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 1,Grant Dawson,0.0,32 of 63,50%,35 of 66,1 of 3,33%,1.0,0.0,0:41,25 of 52,4 of 8,3 of 3,23 of 52,4 of 5,5 of 6
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 2,Grant Dawson,0.0,33 of 74,44%,50 of 93,2 of 2,100%,0.0,0.0,2:35,26 of 65,6 of 7,1 of 2,28 of 67,3 of 5,2 of 2
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 3,Grant Dawson,0.0,30 of 51,58%,62 of 83,2 of 2,100%,0.0,0.0,3:02,20 of 40,6 of 7,4 of 4,21 of 36,0 of 1,9 of 14
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 1,Nurullo Aliev,0.0,33 of 52,63%,53 of 73,1 of 1,100%,0.0,0.0,1:20,26 of 44,6 of 7,1 of 1,32 of 50,1 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 2,Nurullo Aliev,0.0,18 of 30,60%,26 of 38,0 of 1,0%,0.0,0.0,0:03,14 of 25,3 of 4,1 of 1,15 of 27,3 of 3,0 of 0
+UFC 333: Volkanovski vs. Evloev,Grant Dawson vs. Nurullo Aliev,Round 3,Nurullo Aliev,0.0,14 of 24,58%,17 of 27,0 of 0,---,0.0,0.0,0:03,10 of 19,3 of 4,1 of 1,14 of 24,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 1,Colby Thicknesse,0.0,20 of 31,64%,29 of 41,0 of 4,0%,0.0,0.0,1:05,8 of 16,12 of 15,0 of 0,2 of 9,18 of 22,0 of 0
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 2,Colby Thicknesse,0.0,37 of 62,59%,50 of 78,0 of 5,0%,0.0,0.0,0:41,18 of 41,17 of 19,2 of 2,17 of 41,20 of 21,0 of 0
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 3,Colby Thicknesse,0.0,20 of 42,47%,28 of 52,1 of 6,16%,0.0,0.0,1:28,11 of 31,7 of 9,2 of 2,8 of 23,12 of 19,0 of 0
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 1,Asaf Chopurov,0.0,22 of 33,66%,32 of 45,3 of 5,60%,0.0,0.0,2:00,13 of 23,9 of 10,0 of 0,3 of 8,18 of 24,1 of 1
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 2,Asaf Chopurov,0.0,20 of 41,48%,24 of 46,1 of 2,50%,0.0,0.0,1:16,14 of 31,4 of 8,2 of 2,11 of 28,9 of 13,0 of 0
+UFC 333: Volkanovski vs. Evloev,Colby Thicknesse vs. Asaf Chopurov,Round 3,Asaf Chopurov,0.0,12 of 22,54%,15 of 26,4 of 5,80%,0.0,0.0,1:45,6 of 14,5 of 7,1 of 1,6 of 14,5 of 6,1 of 2
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 1,Abubakar Vagaev,0.0,26 of 53,49%,45 of 74,1 of 2,50%,0.0,0.0,1:10,17 of 37,2 of 3,7 of 13,24 of 46,0 of 0,2 of 7
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 2,Abubakar Vagaev,0.0,26 of 48,54%,27 of 49,3 of 5,60%,0.0,0.0,0:21,25 of 46,0 of 1,1 of 1,25 of 44,1 of 4,0 of 0
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 3,Abubakar Vagaev,0.0,19 of 38,50%,20 of 39,2 of 5,40%,0.0,0.0,0:36,13 of 30,3 of 5,3 of 3,17 of 33,2 of 5,0 of 0
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 1,Jacob Malkoun,0.0,30 of 61,49%,36 of 68,0 of 1,0%,0.0,0.0,0:03,26 of 53,4 of 8,0 of 0,30 of 61,0 of 0,0 of 0
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 2,Jacob Malkoun,0.0,45 of 85,52%,46 of 87,0 of 2,0%,0.0,0.0,0:00,39 of 75,6 of 10,0 of 0,43 of 83,2 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Abubakar Vagaev vs. Jacob Malkoun,Round 3,Jacob Malkoun,0.0,31 of 56,55%,31 of 57,0 of 1,0%,0.0,0.0,0:09,30 of 54,1 of 2,0 of 0,30 of 55,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 1,Bolaji Oki,0.0,17 of 25,68%,18 of 26,1 of 1,100%,0.0,0.0,2:04,8 of 13,7 of 10,2 of 2,9 of 16,4 of 4,4 of 5
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 2,Bolaji Oki,0.0,14 of 23,60%,14 of 23,0 of 1,0%,0.0,0.0,0:15,5 of 14,8 of 8,1 of 1,14 of 22,0 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 3,Bolaji Oki,0.0,38 of 59,64%,38 of 59,1 of 1,100%,0.0,0.0,0:24,32 of 51,6 of 8,0 of 0,35 of 55,3 of 4,0 of 0
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 1,Daniel Santos,0.0,14 of 30,46%,15 of 32,0 of 0,---,1.0,0.0,0:04,10 of 19,3 of 9,1 of 2,13 of 29,1 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 2,Daniel Santos,0.0,23 of 50,46%,29 of 57,2 of 4,50%,0.0,0.0,1:36,9 of 31,7 of 12,7 of 7,21 of 46,2 of 4,0 of 0
+UFC 333: Volkanovski vs. Evloev,Bolaji Oki vs. Daniel Santos,Round 3,Daniel Santos,0.0,39 of 79,49%,43 of 83,0 of 1,0%,0.0,0.0,0:00,16 of 45,9 of 18,14 of 16,36 of 76,3 of 3,0 of 0
+UFC 333: Volkanovski vs. Evloev,Kody Steele vs. Noah Gugnon,Round 1,Kody Steele,1.0,25 of 52,48%,25 of 52,1 of 3,33%,0.0,0.0,0:22,20 of 45,3 of 5,2 of 2,21 of 48,1 of 1,3 of 3
+UFC 333: Volkanovski vs. Evloev,Kody Steele vs. Noah Gugnon,Round 1,Noah Gugnon,0.0,31 of 57,54%,32 of 58,0 of 0,---,0.0,0.0,0:00,26 of 51,0 of 0,5 of 6,26 of 51,5 of 6,0 of 0
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 1,Iasmin Lucindo,0.0,7 of 11,63%,10 of 14,2 of 2,100%,0.0,0.0,2:25,3 of 7,2 of 2,2 of 2,5 of 9,2 of 2,0 of 0
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 2,Iasmin Lucindo,0.0,16 of 30,53%,30 of 48,1 of 1,100%,0.0,0.0,3:05,14 of 26,2 of 4,0 of 0,4 of 12,1 of 3,11 of 15
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 3,Iasmin Lucindo,0.0,8 of 8,100%,17 of 18,0 of 1,0%,0.0,0.0,3:57,5 of 5,3 of 3,0 of 0,2 of 2,4 of 4,2 of 2
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 1,Nicolle Caliari,0.0,2 of 5,40%,6 of 9,1 of 2,50%,0.0,0.0,0:55,1 of 3,0 of 1,1 of 1,2 of 4,0 of 1,0 of 0
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 2,Nicolle Caliari,0.0,16 of 20,80%,28 of 33,1 of 1,100%,0.0,0.0,0:43,7 of 10,8 of 9,1 of 1,10 of 14,4 of 4,2 of 2
+UFC 333: Volkanovski vs. Evloev,Iasmin Lucindo vs. Nicolle Caliari,Round 3,Nicolle Caliari,0.0,9 of 11,81%,20 of 25,0 of 1,0%,0.0,0.0,0:37,5 of 6,4 of 5,0 of 0,3 of 5,4 of 4,2 of 2
 UFC Fight Night: Buckley vs. Malott,Joaquin Buckley vs. Mike Malott,Round 1,Joaquin Buckley,0.0,9 of 37,24%,9 of 37,0 of 0,---,0.0,0.0,0:00,5 of 33,1 of 1,3 of 3,9 of 37,0 of 0,0 of 0
 UFC Fight Night: Buckley vs. Malott,Joaquin Buckley vs. Mike Malott,Round 2,Joaquin Buckley,0.0,5 of 16,31%,11 of 22,0 of 0,---,0.0,0.0,0:08,1 of 12,3 of 3,1 of 1,1 of 12,4 of 4,0 of 0
 UFC Fight Night: Buckley vs. Malott,Joaquin Buckley vs. Mike Malott,Round 1,Mike Malott,0.0,15 of 25,60%,15 of 25,0 of 0,---,0.0,0.0,0:00,9 of 16,4 of 7,2 of 2,15 of 25,0 of 0,0 of 0
