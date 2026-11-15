@@ -1,72 +1,144 @@
 EVENT,BOUT,ROUND,FIGHTER,KD,SIG.STR.,SIG.STR. %,TOTAL STR.,TD,TD %,SUB.ATT,REV.,CTRL,HEAD,BODY,LEG,DISTANCE,CLINCH,GROUND
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 1,Waldo Cortes Acosta,1,20 of 47,42%,23 of 51,0 of 0,---,0,0,1:23,18 of 45,2 of 2,0 of 0,13 of 36,7 of 10,0 of 1
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 2,Waldo Cortes Acosta,0,15 of 27,55%,36 of 48,0 of 0,---,0,0,1:54,13 of 25,1 of 1,1 of 1,11 of 21,2 of 4,2 of 2
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 3,Waldo Cortes Acosta,0,5 of 15,33%,8 of 18,0 of 0,---,0,0,1:07,5 of 15,0 of 0,0 of 0,4 of 14,1 of 1,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 1,Johnny Walker,0,25 of 36,69%,25 of 36,0 of 0,---,0,0,0:00,7 of 18,6 of 6,12 of 12,23 of 34,2 of 2,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 2,Johnny Walker,0,11 of 21,52%,21 of 31,0 of 0,---,0,0,0:00,1 of 10,2 of 3,8 of 8,11 of 19,0 of 2,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 3,Johnny Walker,1,15 of 20,75%,15 of 20,0 of 0,---,0,0,0:09,9 of 14,3 of 3,3 of 3,11 of 15,3 of 4,1 of 1
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 1,Tatiana Suarez,0,11 of 17,64%,20 of 27,0 of 4,0%,0,0,2:09,4 of 8,7 of 9,0 of 0,7 of 13,4 of 4,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 2,Tatiana Suarez,0,6 of 16,37%,20 of 32,0 of 3,0%,0,0,3:34,3 of 9,3 of 7,0 of 0,2 of 11,3 of 3,1 of 2
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 3,Tatiana Suarez,0,11 of 23,47%,58 of 76,0 of 1,0%,0,0,3:29,5 of 15,6 of 8,0 of 0,4 of 14,5 of 6,2 of 3
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 1,Virna Jandiroba,0,6 of 19,31%,18 of 31,1 of 1,100%,0,0,0:06,2 of 12,3 of 3,1 of 4,1 of 14,5 of 5,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 2,Virna Jandiroba,0,7 of 16,43%,16 of 25,0 of 1,0%,1,0,0:00,7 of 14,0 of 0,0 of 2,3 of 9,4 of 7,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 3,Virna Jandiroba,0,4 of 10,40%,11 of 18,0 of 3,0%,0,0,0:00,3 of 8,1 of 1,0 of 1,3 of 8,1 of 2,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Davey Grant vs. Elijah Smith,Round 1,Davey Grant,0,8 of 10,80%,8 of 10,0 of 0,---,0,0,0:00,2 of 3,0 of 0,6 of 7,8 of 10,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Davey Grant vs. Elijah Smith,Round 1,Elijah Smith,1,11 of 18,61%,11 of 18,0 of 0,---,0,0,0:03,10 of 15,1 of 3,0 of 0,9 of 16,0 of 0,2 of 2
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 1,Billy Elekana,0,7 of 17,41%,9 of 20,0 of 1,0%,0,0,0:29,7 of 17,0 of 0,0 of 0,6 of 16,1 of 1,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 2,Billy Elekana,0,3 of 10,30%,9 of 16,0 of 0,---,0,0,1:03,2 of 9,1 of 1,0 of 0,2 of 9,1 of 1,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 3,Billy Elekana,0,10 of 12,83%,21 of 29,1 of 2,50%,0,0,4:27,10 of 12,0 of 0,0 of 0,2 of 3,1 of 1,7 of 8
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 1,Lucas Fernando,0,40 of 64,62%,41 of 65,0 of 0,---,0,0,1:19,14 of 34,23 of 27,3 of 3,24 of 45,16 of 19,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 2,Lucas Fernando,0,19 of 32,59%,23 of 37,0 of 0,---,0,0,1:32,9 of 22,7 of 7,3 of 3,15 of 24,4 of 8,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 3,Lucas Fernando,0,5 of 10,50%,28 of 37,0 of 0,---,0,0,0:00,3 of 8,2 of 2,0 of 0,5 of 10,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 1,Priscila Cachoeira,0,1 of 1,100%,5 of 6,0 of 0,---,0,0,0:00,0 of 0,1 of 1,0 of 0,1 of 1,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 2,Priscila Cachoeira,0,10 of 37,27%,10 of 40,0 of 0,---,0,0,0:00,7 of 34,2 of 2,1 of 1,10 of 37,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 1,Nina Milosevic,0,4 of 10,40%,94 of 122,1 of 2,50%,0,0,4:55,4 of 9,0 of 1,0 of 0,0 of 1,0 of 0,4 of 9
-UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 2,Nina Milosevic,0,41 of 63,65%,68 of 92,1 of 6,16%,0,0,1:34,34 of 54,7 of 9,0 of 0,21 of 35,1 of 1,19 of 27
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 1,Mitch Raposo,0,19 of 48,39%,19 of 48,0 of 0,---,0,0,0:00,11 of 40,8 of 8,0 of 0,19 of 48,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 2,Mitch Raposo,0,28 of 66,42%,28 of 66,0 of 0,---,0,0,0:00,15 of 50,7 of 9,6 of 7,28 of 66,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 3,Mitch Raposo,0,24 of 83,28%,25 of 84,1 of 1,100%,0,0,0:05,15 of 71,8 of 10,1 of 2,24 of 83,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 1,Marcos Degli,0,7 of 27,25%,10 of 30,0 of 1,0%,0,0,0:27,7 of 26,0 of 1,0 of 0,7 of 27,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 2,Marcos Degli,0,13 of 42,30%,13 of 42,0 of 0,---,0,0,0:00,10 of 38,2 of 2,1 of 2,13 of 42,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 3,Marcos Degli,0,28 of 68,41%,31 of 71,0 of 1,0%,0,0,0:00,16 of 52,3 of 5,9 of 11,28 of 68,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 1,Keiichiro Nakamura,0,21 of 44,47%,21 of 44,0 of 0,---,0,0,0:00,5 of 19,2 of 9,14 of 16,21 of 44,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 2,Keiichiro Nakamura,0,20 of 51,39%,20 of 51,0 of 0,---,0,0,0:03,4 of 28,9 of 15,7 of 8,20 of 51,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 3,Keiichiro Nakamura,1,53 of 94,56%,60 of 103,0 of 0,---,0,0,0:14,40 of 74,7 of 13,6 of 7,37 of 72,4 of 9,12 of 13
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 1,Ollie Schmid,0,18 of 44,40%,18 of 44,0 of 0,---,0,0,0:00,11 of 34,7 of 10,0 of 0,16 of 42,2 of 2,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 2,Ollie Schmid,0,27 of 56,48%,28 of 57,0 of 1,0%,0,0,0:00,15 of 43,12 of 13,0 of 0,26 of 54,1 of 2,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 3,Ollie Schmid,0,26 of 65,40%,26 of 65,1 of 5,20%,0,0,0:23,19 of 57,6 of 7,1 of 1,25 of 61,1 of 4,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 1,Gabriel Lorenco,1,43 of 69,62%,68 of 99,0 of 0,---,0,1,1:47,29 of 52,12 of 14,2 of 3,11 of 21,28 of 43,4 of 5
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 2,Gabriel Lorenco,0,7 of 14,50%,14 of 21,0 of 0,---,0,0,0:14,1 of 4,3 of 6,3 of 4,3 of 10,4 of 4,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 3,Gabriel Lorenco,0,3 of 6,50%,15 of 19,0 of 0,---,0,0,0:00,1 of 3,1 of 2,1 of 1,3 of 6,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 1,Thomas Petersen,0,6 of 13,46%,10 of 17,1 of 1,100%,0,0,1:12,6 of 13,0 of 0,0 of 0,3 of 5,3 of 8,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 2,Thomas Petersen,1,21 of 29,72%,33 of 44,0 of 0,---,1,0,1:50,21 of 29,0 of 0,0 of 0,4 of 10,2 of 2,15 of 17
-UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 3,Thomas Petersen,0,30 of 38,78%,87 of 109,1 of 1,100%,0,0,3:56,30 of 38,0 of 0,0 of 0,4 of 7,0 of 0,26 of 31
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 1,Karine Silva,0,8 of 14,57%,60 of 66,0 of 2,0%,0,0,1:19,1 of 7,7 of 7,0 of 0,0 of 4,8 of 8,0 of 2
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 2,Karine Silva,0,16 of 33,48%,45 of 63,0 of 0,---,0,0,0:00,8 of 24,6 of 7,2 of 2,11 of 27,5 of 6,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 3,Karine Silva,0,28 of 56,50%,54 of 82,0 of 0,---,0,0,0:47,17 of 43,9 of 11,2 of 2,21 of 48,7 of 8,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 1,Gabriella Fernandes,0,11 of 11,100%,16 of 18,0 of 1,0%,0,0,3:26,2 of 2,9 of 9,0 of 0,0 of 0,11 of 11,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 2,Gabriella Fernandes,0,13 of 39,33%,27 of 54,0 of 0,---,0,0,1:38,4 of 29,6 of 7,3 of 3,9 of 31,4 of 8,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 3,Gabriella Fernandes,0,20 of 49,40%,26 of 57,0 of 0,---,0,0,1:05,8 of 35,11 of 13,1 of 1,10 of 37,10 of 12,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 1,Jose Delano,0,34 of 47,72%,34 of 47,0 of 0,---,0,0,0:20,13 of 26,5 of 5,16 of 16,24 of 35,10 of 12,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 2,Jose Delano,0,23 of 52,44%,29 of 58,0 of 0,---,0,0,0:07,15 of 42,6 of 8,2 of 2,16 of 43,7 of 9,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 3,Jose Delano,0,29 of 79,36%,39 of 91,0 of 0,---,0,0,0:00,16 of 64,6 of 8,7 of 7,28 of 76,1 of 3,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 1,Murtazali Magomedov,0,14 of 25,56%,16 of 27,0 of 1,0%,0,0,0:43,10 of 19,3 of 4,1 of 2,6 of 15,1 of 1,7 of 9
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 2,Murtazali Magomedov,0,11 of 32,34%,19 of 42,2 of 2,100%,0,0,2:04,6 of 25,4 of 6,1 of 1,8 of 28,3 of 4,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 3,Murtazali Magomedov,1,18 of 36,50%,28 of 47,2 of 5,40%,0,0,1:43,11 of 28,4 of 5,3 of 3,11 of 28,4 of 4,3 of 4
-UFC Fight Night: Cortes Acosta vs. Walker,Austin Bashi vs. Carlos Calderon,Round 1,Austin Bashi,0,2 of 6,33%,3 of 8,1 of 1,100%,1,0,0:40,1 of 5,1 of 1,0 of 0,2 of 6,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Austin Bashi vs. Carlos Calderon,Round 1,Carlos Calderon,0,1 of 6,16%,1 of 6,0 of 0,---,0,0,0:00,1 of 6,0 of 0,0 of 0,1 of 6,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 1,Mantas Kondratavicius,0,18 of 38,47%,21 of 41,0 of 0,---,0,0,0:58,10 of 30,7 of 7,1 of 1,17 of 36,1 of 1,0 of 1
-UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 2,Mantas Kondratavicius,0,5 of 10,50%,13 of 19,0 of 0,---,0,0,0:00,4 of 9,1 of 1,0 of 0,5 of 10,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 1,Andre Petroski,0,15 of 28,53%,27 of 40,1 of 4,25%,0,0,1:16,12 of 24,1 of 1,2 of 3,12 of 25,0 of 0,3 of 3
-UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 2,Andre Petroski,0,41 of 56,73%,58 of 80,1 of 1,100%,0,0,4:02,39 of 54,1 of 1,1 of 1,3 of 10,0 of 0,38 of 46
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 1,Seokhyeon Ko,0,19 of 32,59%,33 of 46,2 of 2,100%,0,0,2:25,10 of 22,7 of 8,2 of 2,13 of 24,2 of 2,4 of 6
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 2,Seokhyeon Ko,0,24 of 47,51%,29 of 54,1 of 3,33%,0,0,1:51,15 of 36,6 of 8,3 of 3,18 of 40,1 of 2,5 of 5
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 3,Seokhyeon Ko,0,11 of 19,57%,37 of 48,3 of 5,60%,0,0,4:45,11 of 19,0 of 0,0 of 0,1 of 2,0 of 0,10 of 17
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 1,Wellington Turman,0,15 of 32,46%,30 of 47,0 of 0,---,0,0,0:00,4 of 17,5 of 6,6 of 9,14 of 31,1 of 1,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 2,Wellington Turman,0,20 of 42,47%,35 of 58,0 of 0,---,0,0,0:00,15 of 36,4 of 5,1 of 1,20 of 42,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 3,Wellington Turman,0,1 of 2,50%,9 of 12,0 of 0,---,0,0,0:00,1 of 2,0 of 0,0 of 0,1 of 2,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jonny Parsons vs. Jose Souza,Round 1,Jonny Parsons,0,15 of 30,50%,16 of 31,0 of 0,---,0,0,0:00,2 of 15,0 of 1,13 of 14,15 of 30,0 of 0,0 of 0
-UFC Fight Night: Cortes Acosta vs. Walker,Jonny Parsons vs. Jose Souza,Round 1,Jose Souza,1,33 of 42,78%,33 of 42,0 of 0,---,0,0,0:02,23 of 30,7 of 9,3 of 3,33 of 42,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 1,Ciryl Gane,0,41 of 65,63%,41 of 66,0 of 0,---,0,0,0:03,34 of 56,7 of 9,0 of 0,39 of 61,2 of 4,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 2,Ciryl Gane,0,56 of 86,65%,62 of 93,0 of 0,---,0,0,0:00,48 of 77,8 of 9,0 of 0,52 of 75,4 of 11,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 3,Ciryl Gane,0,30 of 43,69%,37 of 54,0 of 0,---,0,0,0:00,22 of 35,8 of 8,0 of 0,20 of 33,10 of 10,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 4,Ciryl Gane,0,40 of 51,78%,63 of 75,0 of 0,---,0,0,0:01,17 of 28,22 of 22,1 of 1,13 of 18,27 of 33,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 5,Ciryl Gane,0,70 of 98,71%,95 of 124,0 of 0,---,0,0,0:00,49 of 77,18 of 18,3 of 3,55 of 83,15 of 15,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 1,Josh Hokit,0,29 of 62,46%,31 of 64,2 of 7,28%,0,0,0:57,29 of 62,0 of 0,0 of 0,24 of 54,3 of 6,2 of 2
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 2,Josh Hokit,0,39 of 72,54%,57 of 91,0 of 7,0%,0,0,0:20,38 of 71,1 of 1,0 of 0,38 of 71,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 3,Josh Hokit,0,24 of 37,64%,71 of 85,1 of 5,20%,0,0,1:14,21 of 32,3 of 5,0 of 0,8 of 19,16 of 18,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 4,Josh Hokit,0,21 of 38,55%,43 of 61,0 of 4,0%,0,0,1:54,19 of 36,2 of 2,0 of 0,17 of 29,4 of 9,0 of 0
+UFC 334: Gane vs. Hokit,Ciryl Gane vs. Josh Hokit,Round 5,Josh Hokit,0,33 of 74,44%,41 of 83,0 of 7,0%,0,0,0:12,31 of 72,2 of 2,0 of 0,31 of 71,2 of 3,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 1,Kayla Harrison,0,5 of 12,41%,60 of 68,1 of 4,25%,0,0,1:59,2 of 8,2 of 2,1 of 2,4 of 11,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 2,Kayla Harrison,0,8 of 9,88%,83 of 86,1 of 1,100%,1,0,2:12,7 of 8,0 of 0,1 of 1,1 of 2,1 of 1,6 of 6
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 3,Kayla Harrison,0,11 of 13,84%,23 of 29,0 of 3,0%,0,1,1:25,8 of 10,2 of 2,1 of 1,3 of 5,1 of 1,7 of 7
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 4,Kayla Harrison,0,1 of 7,14%,3 of 9,1 of 1,100%,1,0,0:05,0 of 5,0 of 1,1 of 1,1 of 6,0 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 1,Amanda Nunes,0,15 of 31,48%,20 of 36,0 of 0,---,0,0,0:08,9 of 22,4 of 7,2 of 2,9 of 25,6 of 6,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 2,Amanda Nunes,0,5 of 7,71%,15 of 17,1 of 5,20%,0,0,2:14,2 of 4,3 of 3,0 of 0,3 of 4,2 of 3,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 3,Amanda Nunes,0,8 of 13,61%,24 of 29,1 of 2,50%,0,0,2:06,3 of 7,5 of 5,0 of 1,7 of 12,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Kayla Harrison vs. Amanda Nunes,Round 4,Amanda Nunes,0,3 of 11,27%,3 of 11,0 of 0,---,0,0,0:00,2 of 8,0 of 2,1 of 1,2 of 9,1 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 1,Caio Borralho,0,6 of 9,66%,16 of 21,1 of 2,50%,1,0,3:05,4 of 6,1 of 2,1 of 1,4 of 7,1 of 1,1 of 1
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 2,Caio Borralho,0,5 of 11,45%,10 of 16,2 of 7,28%,0,0,2:26,5 of 11,0 of 0,0 of 0,3 of 9,1 of 1,1 of 1
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 3,Caio Borralho,0,9 of 17,52%,11 of 20,2 of 4,50%,0,0,2:16,6 of 14,2 of 2,1 of 1,8 of 16,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 1,Yousri Belgaroui,0,4 of 11,36%,4 of 11,0 of 0,---,0,0,0:00,2 of 7,2 of 4,0 of 0,4 of 11,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 2,Yousri Belgaroui,0,11 of 16,68%,21 of 26,0 of 0,---,0,0,0:00,2 of 6,7 of 8,2 of 2,10 of 15,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Caio Borralho vs. Yousri Belgaroui,Round 3,Yousri Belgaroui,0,13 of 23,56%,26 of 36,0 of 0,---,1,0,0:00,3 of 7,6 of 10,4 of 6,13 of 23,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 1,Uros Medic,0,9 of 17,52%,9 of 19,0 of 0,---,0,0,0:00,4 of 11,4 of 5,1 of 1,9 of 16,0 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 2,Uros Medic,0,7 of 13,53%,11 of 17,0 of 0,---,0,0,0:07,4 of 10,3 of 3,0 of 0,5 of 9,2 of 2,0 of 2
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 3,Uros Medic,0,19 of 30,63%,23 of 34,0 of 0,---,0,0,0:00,12 of 22,4 of 5,3 of 3,19 of 30,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 1,Kevin Holland,1,19 of 35,54%,19 of 35,1 of 3,33%,2,0,0:58,10 of 20,3 of 6,6 of 9,13 of 29,6 of 6,0 of 0
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 2,Kevin Holland,0,20 of 40,50%,21 of 41,1 of 2,50%,0,0,0:34,4 of 15,3 of 7,13 of 18,19 of 39,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Uros Medic vs. Kevin Holland,Round 3,Kevin Holland,0,14 of 30,46%,24 of 40,0 of 4,0%,0,0,1:04,1 of 15,6 of 8,7 of 7,14 of 30,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 1,Bilal Hasan,0,30 of 65,46%,30 of 65,0 of 0,---,0,0,0:00,7 of 36,16 of 21,7 of 8,29 of 64,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 2,Bilal Hasan,0,21 of 39,53%,22 of 40,0 of 1,0%,0,0,0:00,7 of 18,12 of 18,2 of 3,16 of 34,5 of 5,0 of 0
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 3,Bilal Hasan,0,1 of 5,20%,6 of 11,0 of 0,---,0,0,0:00,0 of 3,1 of 2,0 of 0,1 of 4,0 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 1,Luis Gurule,0,16 of 45,35%,16 of 45,0 of 0,---,0,0,0:00,4 of 27,2 of 4,10 of 14,15 of 43,1 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 2,Luis Gurule,0,13 of 36,36%,31 of 55,1 of 3,33%,0,0,1:50,7 of 26,0 of 1,6 of 9,9 of 29,0 of 3,4 of 4
+UFC 334: Gane vs. Hokit,Bilal Hasan vs. Luis Gurule,Round 3,Luis Gurule,0,10 of 15,66%,64 of 73,1 of 2,50%,0,0,4:29,3 of 7,7 of 8,0 of 0,1 of 2,0 of 0,9 of 13
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 1,Stephen Thompson,0,17 of 30,56%,33 of 47,0 of 0,---,0,0,0:00,12 of 23,4 of 6,1 of 1,14 of 27,3 of 3,0 of 0
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 2,Stephen Thompson,0,25 of 49,51%,30 of 56,0 of 0,---,0,0,0:30,17 of 39,5 of 7,3 of 3,24 of 48,0 of 0,1 of 1
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 3,Stephen Thompson,1,25 of 43,58%,26 of 44,0 of 0,---,0,0,0:02,17 of 34,7 of 8,1 of 1,24 of 42,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 1,Charles Radtke,0,7 of 16,43%,28 of 40,1 of 2,50%,0,0,2:46,4 of 13,1 of 1,2 of 2,5 of 14,2 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 2,Charles Radtke,0,3 of 12,25%,8 of 19,1 of 4,25%,0,0,1:10,2 of 10,0 of 1,1 of 1,3 of 12,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Stephen Thompson vs. Charles Radtke,Round 3,Charles Radtke,0,1 of 12,8%,2 of 13,0 of 1,0%,0,0,0:51,1 of 12,0 of 0,0 of 0,1 of 12,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 1,Drew Dober,0,14 of 27,51%,14 of 27,0 of 0,---,0,0,0:00,7 of 19,5 of 6,2 of 2,12 of 24,2 of 3,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 2,Drew Dober,0,18 of 47,38%,20 of 50,0 of 0,---,0,0,0:00,13 of 42,2 of 2,3 of 3,18 of 47,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 3,Drew Dober,0,17 of 51,33%,19 of 53,0 of 0,---,0,0,0:00,13 of 46,1 of 2,3 of 3,17 of 51,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 1,Chris Duncan,0,20 of 36,55%,20 of 36,0 of 1,0%,0,0,0:10,6 of 18,12 of 16,2 of 2,18 of 34,2 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 2,Chris Duncan,0,23 of 44,52%,25 of 46,0 of 0,---,0,0,0:00,9 of 26,12 of 16,2 of 2,23 of 44,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Drew Dober vs. Chris Duncan,Round 3,Chris Duncan,0,18 of 42,42%,24 of 48,1 of 5,20%,0,0,0:50,13 of 35,5 of 7,0 of 0,15 of 37,0 of 0,3 of 5
+UFC 334: Gane vs. Hokit,Jim Miller vs. Terrance McKinney,Round 1,Jim Miller,0,16 of 26,61%,16 of 26,0 of 0,---,0,0,0:00,8 of 17,2 of 2,6 of 7,16 of 26,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Jim Miller vs. Terrance McKinney,Round 1,Terrance McKinney,1,19 of 44,43%,20 of 45,0 of 0,---,0,0,0:05,14 of 39,5 of 5,0 of 0,17 of 38,0 of 0,2 of 6
+UFC 334: Gane vs. Hokit,Donte Johnson vs. Cesar Almeida,Round 1,Donte Johnson,0,16 of 42,38%,16 of 42,0 of 0,---,0,0,0:00,10 of 36,3 of 3,3 of 3,16 of 42,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Donte Johnson vs. Cesar Almeida,Round 1,Cesar Almeida,2,28 of 47,59%,35 of 59,1 of 1,100%,0,0,0:22,20 of 34,6 of 9,2 of 4,20 of 34,1 of 2,7 of 11
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 1,Jared Gordon,0,7 of 17,41%,15 of 25,0 of 0,---,0,0,0:36,2 of 9,2 of 4,3 of 4,6 of 16,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 2,Jared Gordon,0,3 of 6,50%,32 of 42,2 of 3,66%,0,0,4:23,2 of 5,1 of 1,0 of 0,1 of 3,1 of 1,1 of 2
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 3,Jared Gordon,0,10 of 25,40%,22 of 39,2 of 9,22%,0,0,2:26,10 of 24,0 of 1,0 of 0,7 of 19,3 of 6,0 of 0
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 1,Melquizael Costa,0,20 of 65,30%,23 of 68,0 of 0,---,0,0,0:00,4 of 43,10 of 14,6 of 8,19 of 64,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 2,Melquizael Costa,0,9 of 14,64%,22 of 29,0 of 0,---,1,0,0:09,4 of 8,2 of 3,3 of 3,8 of 13,1 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Jared Gordon vs. Melquizael Costa,Round 3,Melquizael Costa,0,25 of 48,52%,37 of 62,0 of 0,---,1,0,0:12,18 of 38,5 of 8,2 of 2,25 of 47,0 of 1,0 of 0
+UFC 334: Gane vs. Hokit,Macy Chiasson vs. Bia Mesquita,Round 1,Macy Chiasson,0,1 of 9,11%,1 of 9,0 of 0,---,0,0,0:00,1 of 8,0 of 1,0 of 0,1 of 9,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Macy Chiasson vs. Bia Mesquita,Round 1,Bia Mesquita,0,18 of 25,72%,26 of 34,1 of 2,50%,1,0,1:59,18 of 25,0 of 0,0 of 0,4 of 8,0 of 0,14 of 17
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 1,Alatengheili,0,14 of 39,35%,19 of 45,0 of 0,---,0,0,0:00,7 of 29,4 of 6,3 of 4,11 of 34,3 of 5,0 of 0
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 2,Alatengheili,0,16 of 58,27%,20 of 62,0 of 0,---,0,0,0:00,6 of 43,7 of 11,3 of 4,14 of 56,2 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 3,Alatengheili,0,18 of 63,28%,19 of 65,0 of 2,0%,0,0,0:00,14 of 58,4 of 4,0 of 1,18 of 63,0 of 0,0 of 0
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 1,Juan Diaz,0,26 of 51,50%,35 of 60,0 of 0,---,0,0,0:24,21 of 46,3 of 3,2 of 2,22 of 46,4 of 5,0 of 0
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 2,Juan Diaz,0,35 of 80,43%,47 of 93,0 of 0,---,0,0,0:33,28 of 69,6 of 8,1 of 3,30 of 74,5 of 6,0 of 0
+UFC 334: Gane vs. Hokit,Alatengheili vs. Juan Diaz,Round 3,Juan Diaz,0,47 of 109,43%,47 of 109,0 of 1,0%,0,0,0:00,42 of 100,3 of 6,2 of 3,43 of 102,4 of 7,0 of 0
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 1,Evan Elder,1,40 of 59,67%,45 of 66,1 of 2,50%,0,0,1:46,26 of 44,2 of 3,12 of 12,35 of 53,3 of 4,2 of 2
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 2,Evan Elder,0,45 of 67,67%,59 of 88,1 of 3,33%,0,0,1:46,23 of 41,16 of 19,6 of 7,38 of 59,4 of 5,3 of 3
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 3,Evan Elder,0,20 of 43,46%,34 of 61,4 of 5,80%,0,0,2:31,12 of 34,3 of 4,5 of 5,17 of 39,0 of 0,3 of 4
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 1,Samuel Sanches,0,35 of 66,53%,36 of 67,0 of 0,---,0,0,0:00,32 of 61,3 of 5,0 of 0,33 of 64,2 of 2,0 of 0
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 2,Samuel Sanches,1,21 of 61,34%,25 of 65,0 of 0,---,0,0,0:08,19 of 59,2 of 2,0 of 0,19 of 58,2 of 2,0 of 1
+UFC 334: Gane vs. Hokit,Evan Elder vs. Samuel Sanches,Round 3,Samuel Sanches,0,17 of 47,36%,20 of 50,0 of 0,---,0,1,0:05,15 of 44,2 of 3,0 of 0,15 of 45,2 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 1,Waldo Cortes Acosta,1.0,20 of 47,42%,23 of 51,0 of 0,---,0.0,0.0,1:23,18 of 45,2 of 2,0 of 0,13 of 36,7 of 10,0 of 1
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 2,Waldo Cortes Acosta,0.0,15 of 27,55%,36 of 48,0 of 0,---,0.0,0.0,1:54,13 of 25,1 of 1,1 of 1,11 of 21,2 of 4,2 of 2
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 3,Waldo Cortes Acosta,0.0,5 of 15,33%,8 of 18,0 of 0,---,0.0,0.0,1:07,5 of 15,0 of 0,0 of 0,4 of 14,1 of 1,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 1,Johnny Walker,0.0,25 of 36,69%,25 of 36,0 of 0,---,0.0,0.0,0:00,7 of 18,6 of 6,12 of 12,23 of 34,2 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 2,Johnny Walker,0.0,11 of 21,52%,21 of 31,0 of 0,---,0.0,0.0,0:00,1 of 10,2 of 3,8 of 8,11 of 19,0 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Waldo Cortes Acosta vs. Johnny Walker,Round 3,Johnny Walker,1.0,15 of 20,75%,15 of 20,0 of 0,---,0.0,0.0,0:09,9 of 14,3 of 3,3 of 3,11 of 15,3 of 4,1 of 1
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 1,Tatiana Suarez,0.0,11 of 17,64%,20 of 27,0 of 4,0%,0.0,0.0,2:09,4 of 8,7 of 9,0 of 0,7 of 13,4 of 4,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 2,Tatiana Suarez,0.0,6 of 16,37%,20 of 32,0 of 3,0%,0.0,0.0,3:34,3 of 9,3 of 7,0 of 0,2 of 11,3 of 3,1 of 2
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 3,Tatiana Suarez,0.0,11 of 23,47%,58 of 76,0 of 1,0%,0.0,0.0,3:29,5 of 15,6 of 8,0 of 0,4 of 14,5 of 6,2 of 3
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 1,Virna Jandiroba,0.0,6 of 19,31%,18 of 31,1 of 1,100%,0.0,0.0,0:06,2 of 12,3 of 3,1 of 4,1 of 14,5 of 5,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 2,Virna Jandiroba,0.0,7 of 16,43%,16 of 25,0 of 1,0%,1.0,0.0,0:00,7 of 14,0 of 0,0 of 2,3 of 9,4 of 7,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Tatiana Suarez vs. Virna Jandiroba,Round 3,Virna Jandiroba,0.0,4 of 10,40%,11 of 18,0 of 3,0%,0.0,0.0,0:00,3 of 8,1 of 1,0 of 1,3 of 8,1 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Davey Grant vs. Elijah Smith,Round 1,Davey Grant,0.0,8 of 10,80%,8 of 10,0 of 0,---,0.0,0.0,0:00,2 of 3,0 of 0,6 of 7,8 of 10,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Davey Grant vs. Elijah Smith,Round 1,Elijah Smith,1.0,11 of 18,61%,11 of 18,0 of 0,---,0.0,0.0,0:03,10 of 15,1 of 3,0 of 0,9 of 16,0 of 0,2 of 2
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 1,Billy Elekana,0.0,7 of 17,41%,9 of 20,0 of 1,0%,0.0,0.0,0:29,7 of 17,0 of 0,0 of 0,6 of 16,1 of 1,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 2,Billy Elekana,0.0,3 of 10,30%,9 of 16,0 of 0,---,0.0,0.0,1:03,2 of 9,1 of 1,0 of 0,2 of 9,1 of 1,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 3,Billy Elekana,0.0,10 of 12,83%,21 of 29,1 of 2,50%,0.0,0.0,4:27,10 of 12,0 of 0,0 of 0,2 of 3,1 of 1,7 of 8
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 1,Lucas Fernando,0.0,40 of 64,62%,41 of 65,0 of 0,---,0.0,0.0,1:19,14 of 34,23 of 27,3 of 3,24 of 45,16 of 19,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 2,Lucas Fernando,0.0,19 of 32,59%,23 of 37,0 of 0,---,0.0,0.0,1:32,9 of 22,7 of 7,3 of 3,15 of 24,4 of 8,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Billy Elekana vs. Lucas Fernando,Round 3,Lucas Fernando,0.0,5 of 10,50%,28 of 37,0 of 0,---,0.0,0.0,0:00,3 of 8,2 of 2,0 of 0,5 of 10,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 1,Priscila Cachoeira,0.0,1 of 1,100%,5 of 6,0 of 0,---,0.0,0.0,0:00,0 of 0,1 of 1,0 of 0,1 of 1,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 2,Priscila Cachoeira,0.0,10 of 37,27%,10 of 40,0 of 0,---,0.0,0.0,0:00,7 of 34,2 of 2,1 of 1,10 of 37,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 1,Nina Milosevic,0.0,4 of 10,40%,94 of 122,1 of 2,50%,0.0,0.0,4:55,4 of 9,0 of 1,0 of 0,0 of 1,0 of 0,4 of 9
+UFC Fight Night: Cortes Acosta vs. Walker,Priscila Cachoeira vs. Nina Milosevic,Round 2,Nina Milosevic,0.0,41 of 63,65%,68 of 92,1 of 6,16%,0.0,0.0,1:34,34 of 54,7 of 9,0 of 0,21 of 35,1 of 1,19 of 27
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 1,Mitch Raposo,0.0,19 of 48,39%,19 of 48,0 of 0,---,0.0,0.0,0:00,11 of 40,8 of 8,0 of 0,19 of 48,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 2,Mitch Raposo,0.0,28 of 66,42%,28 of 66,0 of 0,---,0.0,0.0,0:00,15 of 50,7 of 9,6 of 7,28 of 66,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 3,Mitch Raposo,0.0,24 of 83,28%,25 of 84,1 of 1,100%,0.0,0.0,0:05,15 of 71,8 of 10,1 of 2,24 of 83,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 1,Marcos Degli,0.0,7 of 27,25%,10 of 30,0 of 1,0%,0.0,0.0,0:27,7 of 26,0 of 1,0 of 0,7 of 27,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 2,Marcos Degli,0.0,13 of 42,30%,13 of 42,0 of 0,---,0.0,0.0,0:00,10 of 38,2 of 2,1 of 2,13 of 42,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mitch Raposo vs. Marcos Degli,Round 3,Marcos Degli,0.0,28 of 68,41%,31 of 71,0 of 1,0%,0.0,0.0,0:00,16 of 52,3 of 5,9 of 11,28 of 68,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 1,Keiichiro Nakamura,0.0,21 of 44,47%,21 of 44,0 of 0,---,0.0,0.0,0:00,5 of 19,2 of 9,14 of 16,21 of 44,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 2,Keiichiro Nakamura,0.0,20 of 51,39%,20 of 51,0 of 0,---,0.0,0.0,0:03,4 of 28,9 of 15,7 of 8,20 of 51,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 3,Keiichiro Nakamura,1.0,53 of 94,56%,60 of 103,0 of 0,---,0.0,0.0,0:14,40 of 74,7 of 13,6 of 7,37 of 72,4 of 9,12 of 13
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 1,Ollie Schmid,0.0,18 of 44,40%,18 of 44,0 of 0,---,0.0,0.0,0:00,11 of 34,7 of 10,0 of 0,16 of 42,2 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 2,Ollie Schmid,0.0,27 of 56,48%,28 of 57,0 of 1,0%,0.0,0.0,0:00,15 of 43,12 of 13,0 of 0,26 of 54,1 of 2,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Keiichiro Nakamura vs. Ollie Schmid,Round 3,Ollie Schmid,0.0,26 of 65,40%,26 of 65,1 of 5,20%,0.0,0.0,0:23,19 of 57,6 of 7,1 of 1,25 of 61,1 of 4,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 1,Gabriel Lorenco,1.0,43 of 69,62%,68 of 99,0 of 0,---,0.0,1.0,1:47,29 of 52,12 of 14,2 of 3,11 of 21,28 of 43,4 of 5
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 2,Gabriel Lorenco,0.0,7 of 14,50%,14 of 21,0 of 0,---,0.0,0.0,0:14,1 of 4,3 of 6,3 of 4,3 of 10,4 of 4,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 3,Gabriel Lorenco,0.0,3 of 6,50%,15 of 19,0 of 0,---,0.0,0.0,0:00,1 of 3,1 of 2,1 of 1,3 of 6,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 1,Thomas Petersen,0.0,6 of 13,46%,10 of 17,1 of 1,100%,0.0,0.0,1:12,6 of 13,0 of 0,0 of 0,3 of 5,3 of 8,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 2,Thomas Petersen,1.0,21 of 29,72%,33 of 44,0 of 0,---,1.0,0.0,1:50,21 of 29,0 of 0,0 of 0,4 of 10,2 of 2,15 of 17
+UFC Fight Night: Cortes Acosta vs. Walker,Gabriel Lorenco vs. Thomas Petersen,Round 3,Thomas Petersen,0.0,30 of 38,78%,87 of 109,1 of 1,100%,0.0,0.0,3:56,30 of 38,0 of 0,0 of 0,4 of 7,0 of 0,26 of 31
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 1,Karine Silva,0.0,8 of 14,57%,60 of 66,0 of 2,0%,0.0,0.0,1:19,1 of 7,7 of 7,0 of 0,0 of 4,8 of 8,0 of 2
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 2,Karine Silva,0.0,16 of 33,48%,45 of 63,0 of 0,---,0.0,0.0,0:00,8 of 24,6 of 7,2 of 2,11 of 27,5 of 6,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 3,Karine Silva,0.0,28 of 56,50%,54 of 82,0 of 0,---,0.0,0.0,0:47,17 of 43,9 of 11,2 of 2,21 of 48,7 of 8,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 1,Gabriella Fernandes,0.0,11 of 11,100%,16 of 18,0 of 1,0%,0.0,0.0,3:26,2 of 2,9 of 9,0 of 0,0 of 0,11 of 11,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 2,Gabriella Fernandes,0.0,13 of 39,33%,27 of 54,0 of 0,---,0.0,0.0,1:38,4 of 29,6 of 7,3 of 3,9 of 31,4 of 8,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Karine Silva vs. Gabriella Fernandes,Round 3,Gabriella Fernandes,0.0,20 of 49,40%,26 of 57,0 of 0,---,0.0,0.0,1:05,8 of 35,11 of 13,1 of 1,10 of 37,10 of 12,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 1,Jose Delano,0.0,34 of 47,72%,34 of 47,0 of 0,---,0.0,0.0,0:20,13 of 26,5 of 5,16 of 16,24 of 35,10 of 12,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 2,Jose Delano,0.0,23 of 52,44%,29 of 58,0 of 0,---,0.0,0.0,0:07,15 of 42,6 of 8,2 of 2,16 of 43,7 of 9,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 3,Jose Delano,0.0,29 of 79,36%,39 of 91,0 of 0,---,0.0,0.0,0:00,16 of 64,6 of 8,7 of 7,28 of 76,1 of 3,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 1,Murtazali Magomedov,0.0,14 of 25,56%,16 of 27,0 of 1,0%,0.0,0.0,0:43,10 of 19,3 of 4,1 of 2,6 of 15,1 of 1,7 of 9
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 2,Murtazali Magomedov,0.0,11 of 32,34%,19 of 42,2 of 2,100%,0.0,0.0,2:04,6 of 25,4 of 6,1 of 1,8 of 28,3 of 4,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jose Delano vs. Murtazali Magomedov,Round 3,Murtazali Magomedov,1.0,18 of 36,50%,28 of 47,2 of 5,40%,0.0,0.0,1:43,11 of 28,4 of 5,3 of 3,11 of 28,4 of 4,3 of 4
+UFC Fight Night: Cortes Acosta vs. Walker,Austin Bashi vs. Carlos Calderon,Round 1,Austin Bashi,0.0,2 of 6,33%,3 of 8,1 of 1,100%,1.0,0.0,0:40,1 of 5,1 of 1,0 of 0,2 of 6,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Austin Bashi vs. Carlos Calderon,Round 1,Carlos Calderon,0.0,1 of 6,16%,1 of 6,0 of 0,---,0.0,0.0,0:00,1 of 6,0 of 0,0 of 0,1 of 6,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 1,Mantas Kondratavicius,0.0,18 of 38,47%,21 of 41,0 of 0,---,0.0,0.0,0:58,10 of 30,7 of 7,1 of 1,17 of 36,1 of 1,0 of 1
+UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 2,Mantas Kondratavicius,0.0,5 of 10,50%,13 of 19,0 of 0,---,0.0,0.0,0:00,4 of 9,1 of 1,0 of 0,5 of 10,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 1,Andre Petroski,0.0,15 of 28,53%,27 of 40,1 of 4,25%,0.0,0.0,1:16,12 of 24,1 of 1,2 of 3,12 of 25,0 of 0,3 of 3
+UFC Fight Night: Cortes Acosta vs. Walker,Mantas Kondratavicius vs. Andre Petroski,Round 2,Andre Petroski,0.0,41 of 56,73%,58 of 80,1 of 1,100%,0.0,0.0,4:02,39 of 54,1 of 1,1 of 1,3 of 10,0 of 0,38 of 46
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 1,Seokhyeon Ko,0.0,19 of 32,59%,33 of 46,2 of 2,100%,0.0,0.0,2:25,10 of 22,7 of 8,2 of 2,13 of 24,2 of 2,4 of 6
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 2,Seokhyeon Ko,0.0,24 of 47,51%,29 of 54,1 of 3,33%,0.0,0.0,1:51,15 of 36,6 of 8,3 of 3,18 of 40,1 of 2,5 of 5
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 3,Seokhyeon Ko,0.0,11 of 19,57%,37 of 48,3 of 5,60%,0.0,0.0,4:45,11 of 19,0 of 0,0 of 0,1 of 2,0 of 0,10 of 17
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 1,Wellington Turman,0.0,15 of 32,46%,30 of 47,0 of 0,---,0.0,0.0,0:00,4 of 17,5 of 6,6 of 9,14 of 31,1 of 1,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 2,Wellington Turman,0.0,20 of 42,47%,35 of 58,0 of 0,---,0.0,0.0,0:00,15 of 36,4 of 5,1 of 1,20 of 42,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Seokhyeon Ko vs. Wellington Turman,Round 3,Wellington Turman,0.0,1 of 2,50%,9 of 12,0 of 0,---,0.0,0.0,0:00,1 of 2,0 of 0,0 of 0,1 of 2,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jonny Parsons vs. Jose Souza,Round 1,Jonny Parsons,0.0,15 of 30,50%,16 of 31,0 of 0,---,0.0,0.0,0:00,2 of 15,0 of 1,13 of 14,15 of 30,0 of 0,0 of 0
+UFC Fight Night: Cortes Acosta vs. Walker,Jonny Parsons vs. Jose Souza,Round 1,Jose Souza,1.0,33 of 42,78%,33 of 42,0 of 0,---,0.0,0.0,0:02,23 of 30,7 of 9,3 of 3,33 of 42,0 of 0,0 of 0
 UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 1,Renato Moicano,0.0,2 of 2,100%,13 of 18,1 of 1,100%,1.0,0.0,4:07,0 of 0,2 of 2,0 of 0,2 of 2,0 of 0,0 of 0
 UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 2,Renato Moicano,0.0,4 of 7,57%,31 of 39,1 of 3,33%,0.0,0.0,3:02,2 of 4,1 of 2,1 of 1,4 of 7,0 of 0,0 of 0
 UFC Fight Night: Moicano vs. Nolan,Renato Moicano vs. Tom Nolan,Round 3,Renato Moicano,0.0,3 of 3,100%,3 of 3,1 of 1,100%,0.0,0.0,0:08,1 of 1,2 of 2,0 of 0,3 of 3,0 of 0,0 of 0
